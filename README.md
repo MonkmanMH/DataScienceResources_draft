@@ -4,9 +4,9 @@ An attempt to create a handy compendium of resources that cover data science (a.
 
 The topics thus far:
 
-* Gini coefficient
+* [Gini coefficient](https://github.com/MonkmanMH/DataScienceResources/blob/master/GiniCoefficient.md)
 
-* Quantile regression
+* [Quantile regression](https://github.com/MonkmanMH/DataScienceResources/blob/master/QuantileRegression.md)
 
-* Seasonal adjustment
+* [Seasonal adjustment](https://github.com/MonkmanMH/DataScienceResources/blob/master/SeasonalAdjustment.md)
 
