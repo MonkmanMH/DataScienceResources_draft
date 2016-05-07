@@ -1,6 +1,8 @@
 # DataScienceResources
 
-An attempt to create a handy compendium of resources that cover data science (a.k.a. statistics, econometrics, actuarial science, etc.) topics. These will cover general theory, applications, and R methods (often, all in a single entry).
+A rough compendium of resources that cover data science topics (a.k.a. statistics, econometrics, actuarial science, etc.). These will cover general theory, methodology, applications, and R tools and methods. The emphasis will be on web resources.
+
+## Contents
 
 The topics thus far:
 
