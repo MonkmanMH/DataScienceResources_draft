@@ -10,6 +10,11 @@ From the wikipedia entry:
 
 [Gini coefficient: wikipedia entry](https://en.wikipedia.org/wiki/Gini_coefficient), 2016-05-07
 
+#### Further reading
+
+Lamb, Evelyn (2012-11-12) ["Ask Gini: How to Measure Inequality"](http://www.scientificamerican.com/article/ask-gini/), Scientific American ["The Sciences"](http://www.scientificamerican.com/the-sciences/).
+
+World Bank (date unknown) ["Measuring Inequality"](http://go.worldbank.org/W2TRRD1PP0)
 ---
 ### R
 
