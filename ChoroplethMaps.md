@@ -25,6 +25,8 @@ CRAN page: [choroplethr: Simplify the Creation of Choropleth Maps in R](https://
 
 **articles**
 
+[Creating Administrative Choropleth Maps Using R](https://www.gislounge.com/creating-administrative-maps-using-r/)
+
 [Easy data maps with R: the choroplethr package](http://blog.revolutionanalytics.com/2014/01/easy-data-maps-with-r-the-choroplethr-package-.html)
 
 #### `ggmap`
@@ -41,5 +43,7 @@ CRAN page: [ggmap: Spatial Visualization with ggplot2]
 [Plotting Choropleths from Shapefiles in R with ggmap – Toronto Neighbourhoods by Population](http://www.r-bloggers.com/plotting-choropleths-from-shapefiles-in-r-with-ggmap-toronto-neighbourhoods-by-population/)
 
 [R & GGMap Visualization Case Study](http://www.r-bloggers.com/r-ggmap-visualization-case-study/)
+
+[Visualising Crime Hotspots in England and Wales using {ggmap}](http://www.r-bloggers.com/visualising-crime-hotspots-in-england-and-wales-using-ggmap-2/)
 
 -30-
