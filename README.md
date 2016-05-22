@@ -11,4 +11,12 @@ The topics thus far:
 * [Quantile regression](https://github.com/MonkmanMH/DataScienceResources/blob/master/QuantileRegression.md)
 
 * [Seasonal adjustment](https://github.com/MonkmanMH/DataScienceResources/blob/master/SeasonalAdjustment.md)
+ 
+
+### Creating maps
+
+Thus far, only one page with resources on how to create a choropleth map in R. As I go further down this path, this may dissaggregate into more precisely defined topics.
+
+* [Choropleth maps](https://github.com/MonkmanMH/DataScienceResources/blob/master/ChoroplethMaps.md)
+
 
