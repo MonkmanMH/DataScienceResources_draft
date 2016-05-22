@@ -36,7 +36,10 @@ CRAN page: [ggmap: Spatial Visualization with ggplot2]
 
 **articles**
 
+[Creating a custom soil attribute plot using ggmap](http://blog.revolutionanalytics.com/2015/01/creating-a-custom-soil-attribute-plot-using-ggmap.html)
 
+[Plotting Choropleths from Shapefiles in R with ggmap – Toronto Neighbourhoods by Population](http://www.r-bloggers.com/plotting-choropleths-from-shapefiles-in-r-with-ggmap-toronto-neighbourhoods-by-population/)
 
+[R & GGMap Visualization Case Study](http://www.r-bloggers.com/r-ggmap-visualization-case-study/)
 
 -30-
