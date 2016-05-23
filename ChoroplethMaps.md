@@ -25,9 +25,13 @@ CRAN page: [choroplethr: Simplify the Creation of Choropleth Maps in R](https://
 
 **articles**
 
+[Combining Choropleth Maps and Reference Maps in R](http://www.arilamstein.com/blog/2015/09/30/combining-choropleth-maps-and-reference-maps-in-r/)
+
 [Creating Administrative Choropleth Maps Using R](https://www.gislounge.com/creating-administrative-maps-using-r/)
 
 [Easy data maps with R: the choroplethr package](http://blog.revolutionanalytics.com/2014/01/easy-data-maps-with-r-the-choroplethr-package-.html)
+
+[How to Change the Reference Map in Choroplethr](http://www.r-bloggers.com/how-to-change-the-reference-map-in-choroplethr/)
 
 #### `ggmap`
 
@@ -45,5 +49,17 @@ CRAN page: [ggmap: Spatial Visualization with ggplot2]
 [R & GGMap Visualization Case Study](http://www.r-bloggers.com/r-ggmap-visualization-case-study/)
 
 [Visualising Crime Hotspots in England and Wales using {ggmap}](http://www.r-bloggers.com/visualising-crime-hotspots-in-england-and-wales-using-ggmap-2/)
+
+
+#### `GISTools`
+
+**package**
+
+CRAN page: [GISTools: Some further GIS capabilities for R]
+(https://cran.r-project.org/web/packages/GISTools/index.html)
+
+**articles**
+
+
 
 -30-
