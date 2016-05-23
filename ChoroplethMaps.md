@@ -7,12 +7,20 @@ Choropleth maps
 ---
 ### Theory and methods
 
-#### Canadian examples
+#### Canadian examples: maps in R
 
 [Canadian census map division in R](http://www.scriptscoop2.com/t/9bec270a9183/canadian-census-map-division-in-r.html)
 
 [Choropleth Maps with R and ggplot2](http://unconj.ca/blog/choropleth-maps-with-r-and-ggplot2.html)
 
+
+#### Canadian geography: shapefiles
+
+**Statistics Canada** has made available a variety of boundary files.
+
+* [Boundary files](https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-eng.cfm)
+
+* [2011 Census - Boundary files](https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2011-eng.cfm)
 
 ---
 ### R
