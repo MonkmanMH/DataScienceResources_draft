@@ -22,6 +22,12 @@ Choropleth maps
 
 * [2011 Census - Boundary files](https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2011-eng.cfm)
 
+**DataBC** has a number of of geographic boundary files available
+
+* [Boundaries](https://catalogue.data.gov.bc.ca/dataset?q=iso_topic_string%3A%2Aboundaries%2A)
+
+* [Provincial Electoral Districts - Electoral Boundaries Redistribution, 2008](https://catalogue.data.gov.bc.ca/dataset/provincial-electoral-districts-electoral-boundaries-redistribution-2008)
+
 ---
 ### R
 
