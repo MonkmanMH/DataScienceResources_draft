@@ -62,6 +62,17 @@ CRAN page: [GISTools: Some further GIS capabilities for R]
 
 **articles**
 
+#### `idbr`
+
+**package**
+
+CRAN page: [idbr: R Interface to the US Census Bureau International Data Base API](https://cran.r-project.org/web/packages/idbr/)
+
+github page: [idbr](https://github.com/walkerke/idbr)
+
+**articles**
+
+[Visualizing international demographic indicators with idbr and Plotly](http://walkerke.github.io/2016/01/idbr/)
 
 
 -30-
