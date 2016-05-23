@@ -31,7 +31,7 @@ CRAN page: [choroplethr: Simplify the Creation of Choropleth Maps in R](https://
 
 [Easy data maps with R: the choroplethr package](http://blog.revolutionanalytics.com/2014/01/easy-data-maps-with-r-the-choroplethr-package-.html)
 
-[How to Change the Reference Map in Choroplethr](http://www.r-bloggers.com/how-to-change-the-reference-map-in-choroplethr/)
+[How to Change the Reference Map in Choroplethr](http://www.arilamstein.com/blog/2015/10/08/how-to-change-the-reference-map-in-choroplethr/)
 
 #### `ggmap`
 
