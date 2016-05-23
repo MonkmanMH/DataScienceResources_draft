@@ -25,6 +25,8 @@ CRAN page: [choroplethr: Simplify the Creation of Choropleth Maps in R](https://
 
 **articles**
 
+[Ari Lamstein's blog](http://www.arilamstein.com/blog/)
+
 [Combining Choropleth Maps and Reference Maps in R](http://www.arilamstein.com/blog/2015/09/30/combining-choropleth-maps-and-reference-maps-in-r/)
 
 [Creating Administrative Choropleth Maps Using R](https://www.gislounge.com/creating-administrative-maps-using-r/)
