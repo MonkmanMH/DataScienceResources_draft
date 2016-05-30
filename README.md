@@ -10,6 +10,8 @@ The topics thus far:
 
 * [Quantile regression](https://github.com/MonkmanMH/DataScienceResources/blob/master/QuantileRegression.md)
 
+* [Raking](https://github.com/MonkmanMH/DataScienceResources/blob/master/Raking.md)
+
 * [Seasonal adjustment](https://github.com/MonkmanMH/DataScienceResources/blob/master/SeasonalAdjustment.md)
  
 
