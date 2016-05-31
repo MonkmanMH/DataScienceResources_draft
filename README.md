@@ -8,6 +8,8 @@ The topics thus far:
 
 * [Gini coefficient](https://github.com/MonkmanMH/DataScienceResources/blob/master/GiniCoefficient.md)
 
+* [Population pyramids](https://github.com/MonkmanMH/DataScienceResources/blob/master/PopulationPyramids.md)
+
 * [Quantile regression](https://github.com/MonkmanMH/DataScienceResources/blob/master/QuantileRegression.md)
 
 * [Raking](https://github.com/MonkmanMH/DataScienceResources/blob/master/Raking.md)
