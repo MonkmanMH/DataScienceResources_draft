@@ -28,6 +28,11 @@ Choropleth maps
 
 * [Provincial Electoral Districts - Electoral Boundaries Redistribution, 2008](https://catalogue.data.gov.bc.ca/dataset/provincial-electoral-districts-electoral-boundaries-redistribution-2008)
 
+
+#### Generic mapping in R
+
+[geostat-course.org](http://geostat-course.org/aggregator/sources/2?page=24&ui=default)
+
 ---
 ### R
 
