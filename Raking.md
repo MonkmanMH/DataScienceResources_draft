@@ -25,14 +25,33 @@ CRAN page: [copy-paste from the cran page](cran link)
 [Raking weights with R](http://sdaza.com/survey/2012/08/25/raking/)
 
 
-#### `rake`
+#### `survey`
 
 **package**
 
-CRAN page: [copy-paste from the cran page](cran link)
+CRAN page: [survey: analysis of complex survey samples](https://cran.r-project.org/web/packages/survey/index.html)
+
+homepage: [Survey analysis in R](http://r-survey.r-forge.r-project.org/survey/)
 
 **articles**
 
-[Survey: Computing Your Own Post-Stratification Weights in R](http://www.r-bloggers.com/survey-computing-your-own-post-stratification-weights-in-r/)
+
+#### `{rake}` function in `survey`
+
+**articles**
+
+[Survey: Computing Your Own Post-Stratification Weights in R](http://tophcito.blogspot.ca/2014/04/survey-computing-your-own-post.html)
 
 [rake {survey}: Raking of replicate weight design](http://faculty.washington.edu/tlumley/old-survey/html/rake.html)
+
+
+#### `weights`
+
+**package**
+
+CRAN page: [weights: Weighting and Weighted Statistics](https://cran.r-project.org/web/packages/weights/index.html)
+
+
+**articles**
+
+
