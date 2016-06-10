@@ -40,7 +40,9 @@ homepage: [Survey analysis in R](http://r-survey.r-forge.r-project.org/survey/)
 
 **articles**
 
-[Survey: Computing Your Own Post-Stratification Weights in R](http://tophcito.blogspot.ca/2014/04/survey-computing-your-own-post.html)
+[1/2 Social Science Goes R: Weighted Survey Data](http://tophcito.blogspot.ca/2014/04/social-science-goes-r-weighted-survey.html)
+
+[2/2 Survey: Computing Your Own Post-Stratification Weights in R](http://tophcito.blogspot.ca/2014/04/survey-computing-your-own-post.html)
 
 [rake {survey}: Raking of replicate weight design](http://faculty.washington.edu/tlumley/old-survey/html/rake.html)
 
