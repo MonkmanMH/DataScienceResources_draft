@@ -9,7 +9,9 @@ Includes post-stratification weights in surveying.
 
 The primary method is [iterative proportional fitting procedure, or IPFP](https://en.wikipedia.org/wiki/Iterative_proportional_fitting)
 
-Michael P. Battaglia, David Izrael, David C. Hoaglin, and Martin R. Frankel, ["Tips and Tricks for Raking Survey Data (a.k.a. Sample Balancing)"](http://www.amstat.org/sections/srms/Proceedings/y2004/files/Jsm2004-000074.pdf)
+LCDR Lew Anderson and Dr. Ronald D. Fricker, Jr. ["Raking: An Important and Often Overlooked Survey Analysis Tool"](http://faculty.nps.edu/rdfricke/docs/RakingArticleV2.2.pdf) {PDF}
+
+Michael P. Battaglia, David Izrael, David C. Hoaglin, and Martin R. Frankel, ["Tips and Tricks for Raking Survey Data (a.k.a. Sample Balancing)"](http://www.amstat.org/sections/srms/Proceedings/y2004/files/Jsm2004-000074.pdf) {PDF}
 
 Andrew Gelman, [Tracking public opinion with biased polls](https://www.washingtonpost.com/news/monkey-cage/wp/2014/04/09/tracking-public-opinion-with-biased-polls/), _Washington Post_, 2014-04-09.
 
