@@ -35,6 +35,7 @@ homepage: [Survey analysis in R](http://r-survey.r-forge.r-project.org/survey/)
 
 **articles**
 
+Lumley, Thomas (2010) _Complex Surveys: A Guide to Analysis Using R_, John Wiley & Sons, Inc.
 
 #### `{rake}` function in `survey`
 
