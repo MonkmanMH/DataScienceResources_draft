@@ -2,12 +2,14 @@
 
 ### Introduction
 
-A brief description of the subject
+Includes post-stratification weights in surveying.
 
 ---
 ### Theory and methods
 
 Michael P. Battaglia, David Izrael, David C. Hoaglin, and Martin R. Frankel, ["Tips and Tricks for Raking Survey Data (a.k.a. Sample Balancing)"](http://www.amstat.org/sections/srms/Proceedings/y2004/files/Jsm2004-000074.pdf)
+
+Andrew Gelman, [Tracking public opinion with biased polls](https://www.washingtonpost.com/news/monkey-cage/wp/2014/04/09/tracking-public-opinion-with-biased-polls/), _Washington Post_, 2014-04-09.
 
 ---
 ### R
