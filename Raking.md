@@ -24,7 +24,7 @@ Arranged by package
 
 **package**
 
-CRAN page: [copy-paste from the cran page](cran link)
+CRAN page: [anesrake: ANES Raking Implementation](https://cran.r-project.org/web/packages/anesrake/index.html)
 
 **articles**
 
