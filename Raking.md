@@ -20,6 +20,8 @@ Andrew Gelman, [Tracking public opinion with biased polls](https://www.washingto
 Eddie Hunsinger, ["Iterative Proportional Fitting For A
 Two-Dimensional Table"](http://www.demog.berkeley.edu/~eddieh/IPFDescription/AKDOLWDIPFTWOD.pdf), May 2008
 
+Sven Kurras, ["Symmetric Iterative Proportional Fitting"](http://www.jmlr.org/proceedings/papers/v38/kurras15.pdf), Appearing in Proceedings of the 18th International Conference on Artificial Intelligence and Statistics (AISTATS) 2015, San Diego, CA, USA. JMLR: W&CP volume 38.
+
 
 ---
 ### R
