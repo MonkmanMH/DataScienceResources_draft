@@ -1,4 +1,4 @@
-# Raking
+# Raking / Iterative Proportional Fitting
 
 ### Introduction
 
@@ -7,7 +7,9 @@ Includes post-stratification weights in surveying.
 ---
 ### Theory and methods
 
-The primary method is [iterative proportional fitting procedure, or IPFP](https://en.wikipedia.org/wiki/Iterative_proportional_fitting)
+The primary method of raking is [iterative proportional fitting, or IPF](https://en.wikipedia.org/wiki/Iterative_proportional_fitting)
+
+[IPF resources](http://www.demog.berkeley.edu/~eddieh/datafitting.html)
 
 LCDR Lew Anderson and Dr. Ronald D. Fricker, Jr. ["Raking: An Important and Often Overlooked Survey Analysis Tool"](http://faculty.nps.edu/rdfricke/docs/RakingArticleV2.2.pdf) {PDF}
 
@@ -30,6 +32,15 @@ CRAN page: [anesrake: ANES Raking Implementation](https://cran.r-project.org/web
 
 [Raking weights with R](http://sdaza.com/survey/2012/08/25/raking/)
 
+#### `ipfp`
+
+**package**
+
+CRAN page: [ipfp: Fast Implementation of the Iterative Proportional Fitting Procedure in C](https://cran.r-project.org/web/packages/ipfp/)
+
+**articles**
+
+[Iterative proportional fitting in R (stackexchange)](http://stats.stackexchange.com/questions/59115/iterative-proportional-fitting-in-r)
 
 #### `survey`
 
