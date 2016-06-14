@@ -22,6 +22,7 @@ Two-Dimensional Table"](http://www.demog.berkeley.edu/~eddieh/IPFDescription/AKD
 
 Sven Kurras, ["Symmetric Iterative Proportional Fitting"](http://www.jmlr.org/proceedings/papers/v38/kurras15.pdf), Appearing in Proceedings of the 18th International Conference on Artificial Intelligence and Statistics (AISTATS) 2015, San Diego, CA, USA. JMLR: W&CP volume 38.
 
+Robin Lovelace, ["Population synthesis with R"](http://robinlovelace.net/spatial-microsim-book/smsim-in-R.html), from [_Spatial Microsimulation with R_](http://robinlovelace.net/spatial-microsim-book/)
 
 ---
 ### R
