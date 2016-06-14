@@ -17,6 +17,10 @@ Michael P. Battaglia, David Izrael, David C. Hoaglin, and Martin R. Frankel, ["T
 
 Andrew Gelman, [Tracking public opinion with biased polls](https://www.washingtonpost.com/news/monkey-cage/wp/2014/04/09/tracking-public-opinion-with-biased-polls/), _Washington Post_, 2014-04-09.
 
+Eddie Hunsinger, ["Iterative Proportional Fitting For A
+Two-Dimensional Table"](http://www.demog.berkeley.edu/~eddieh/IPFDescription/AKDOLWDIPFTWOD.pdf), May 2008
+
+
 ---
 ### R
 
