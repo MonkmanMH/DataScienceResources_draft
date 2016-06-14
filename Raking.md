@@ -42,6 +42,8 @@ CRAN page: [anesrake: ANES Raking Implementation](https://cran.r-project.org/web
 
 CRAN page: [ipfp: Fast Implementation of the Iterative Proportional Fitting Procedure in C](https://cran.r-project.org/web/packages/ipfp/)
 
+github page: [awblocker/ipfp](https://github.com/awblocker/ipfp)
+
 **articles**
 
 [Iterative proportional fitting in R (stackexchange)](http://stats.stackexchange.com/questions/59115/iterative-proportional-fitting-in-r)
