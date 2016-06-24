@@ -26,7 +26,7 @@ Thus far, only one page with resources on how to create a choropleth map in R. A
 * [Choropleth maps](https://github.com/MonkmanMH/DataScienceResources/blob/master/ChoroplethMaps.md)
 
 
-### Data security
+### Anonymity and confidentiality of individual (personal) data
 
 Protecting the anonymity and confidentiality of individuals (whether the data are from administrative records or surveys) is essential. 
 
