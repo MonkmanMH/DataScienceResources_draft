@@ -4,6 +4,8 @@
 
 Choropleth maps
 
+* vis4net, ["Why we didn’t use a cartogram in the Brexit map"](http://vis4.net/blog/posts/to-cartogram-or-not-to-cartogram-the-brexit/) (2016)
+
 ---
 ### Theory and methods
 
