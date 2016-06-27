@@ -11,6 +11,8 @@ Neil Gaiman, _The View from the Cheap Seats_, 2016
 
 Stephen King, _On Writing_, 2000
 
+* King's [Top 20 Rules for Writers](http://www.openculture.com/2014/03/stephen-kings-top-20-rules-for-writers.html), in summary form
+
 ---
 ### Articles
 
