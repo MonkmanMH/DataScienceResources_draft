@@ -33,3 +33,12 @@ Protecting the anonymity and confidentiality of individuals (whether the data ar
 * [Anonymity and confidentiality](https://github.com/MonkmanMH/DataScienceResources/blob/master/Anonymity_Confidentiality.md)
 
 
+### Communicating about numbers
+
+You've done a cracker-jack job with your statistics, and made some bang-up charts, graphs, and other visualizations. Now how do you tell the world? 
+
+* [Writing in general](https://github.com/MonkmanMH/DataScienceResources/blob/master/Writing.md)
+* [Writing about numbers]
+* [Data visualization]
+* [Effective presentations]
+
