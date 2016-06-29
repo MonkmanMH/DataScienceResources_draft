@@ -26,7 +26,6 @@ Arvind Narayanan and Vitaly Shmatikov, ["Robust De-anonymization of Large Sparse
 
 ["http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2528029/"](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2528029/)
 
-["https://cran.r-project.org/web/packages/sdcMicro/vignettes/sdc_guidelines.pdf"](https://cran.r-project.org/web/packages/sdcMicro/vignettes/sdc_guidelines.pdf)
 
 #### Discussion
 
