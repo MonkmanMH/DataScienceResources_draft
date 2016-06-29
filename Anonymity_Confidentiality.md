@@ -2,12 +2,13 @@
 
 ### Introduction
 
-A brief description of the subject
+Many data that are ripe for analysis are covered under some form of legal, ethical, and moral privacy and confidentiality constraints. How do we as researchers ensure that the data we work with--whether it's in aggregated form or released as a micro (individual) record that is stripped of personal identifiers such as name--remains anonymous?
+
+
+Some definitions: ["What is the difference between "de-identified", "anonymous", and "coded" data?"](https://kb.wisc.edu/hsirbs/page.php?id=25351)
 
 ---
 ### Theory and methods
-
-["https://kb.wisc.edu/hsirbs/page.php?id=25351"](https://kb.wisc.edu/hsirbs/page.php?id=25351)
 
 Statistics Canada, 2011: [A New Approach for the Development of a Public Use Microdata File for Canada's 2011 National Household Survey](https://www12.statcan.gc.ca/nhs-enm/2011/ref/pumf-fmgd/index-eng.cfm), Catalogue no. 99-137-XWE2015001.
 
@@ -20,11 +21,11 @@ Statistics Canada, 2011: [A New Approach for the Development of a Public Use Mic
 Latanya Sweeney, ["k-Anonymity: A Model for Protecting Privacy"](http://dataprivacylab.org/dataprivacy/projects/kanonymity/kanonymity.pdf), International Journal on Uncertainty,
 Fuzziness and Knowledge-based Systems, 10 (5), 2002; 557-570. 2002
 
-Arvind Narayanan and Vitaly Shmatikov, ["Robust De-anonymization of Large Sparse Datasets"](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf), 
+Arvind Narayanan and Vitaly Shmatikov, ["Robust De-anonymization of Large Sparse Datasets"](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf) 
 
-["http://www.bayardo.org/ps/icde05.pdf"](http://www.bayardo.org/ps/icde05.pdf)
+Roberto J. Bayardo and Rakesh Agrawal, ["Data Privacy Through Optimal k-Anonymization"](http://www.bayardo.org/ps/icde05.pdf)
 
-["http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2528029/"](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2528029/)
+Khaled El Emam and Fida Kamal Dankar, ["Protecting Privacy Using k-Anonymity"](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2528029/), J Am Med Inform Assoc. 2008 Sep-Oct; 15(5): 627–637.
 
 
 #### Discussion
