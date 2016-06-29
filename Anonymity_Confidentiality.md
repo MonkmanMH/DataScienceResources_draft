@@ -15,6 +15,13 @@ Statistics Canada, 2011: [A New Approach for the Development of a Public Use Mic
 
 #### k-anonymity
 
+["wikipedia: _k_-anonymity"](https://en.wikipedia.org/wiki/K-anonymity)
+
+Latanya Sweeney, ["k-Anonymity: A Model for Protecting Privacy"](http://dataprivacylab.org/dataprivacy/projects/kanonymity/kanonymity.pdf), International Journal on Uncertainty,
+Fuzziness and Knowledge-based Systems, 10 (5), 2002; 557-570. 2002
+
+Arvind Narayanan and Vitaly Shmatikov, ["Robust De-anonymization of Large Sparse Datasets"](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf), 
+
 ["http://www.bayardo.org/ps/icde05.pdf"](http://www.bayardo.org/ps/icde05.pdf)
 
 ["http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2528029/"](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2528029/)
