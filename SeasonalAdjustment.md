@@ -8,6 +8,10 @@ From the wikipedia entry:
 
 [Seasonal adjustment: wikipedia entry](https://en.wikipedia.org/wiki/Seasonal_adjustment), 2016-05-07
 
+
+Statistics Canada, ["Seasonal adjustment and trend-cycle estimation"](http://www.statcan.gc.ca/pub/12-539-x/2009001/seasonal-saisonnal-eng.htm)
+
+
 ---
 ### R
 
