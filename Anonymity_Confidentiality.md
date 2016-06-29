@@ -51,8 +51,32 @@ Pete Warden, ["Why you can't really anonymize your data"](https://www.oreilly.co
 
 ---
 
-["sdcMicro'](https://cran.r-project.org/web/packages/sdcMicro/sdcMicro.pdf)
+---
+### R
 
+#### `sdcMicro`
+
+**package**
+
+CRAN page: [sdcMicro: Statistical Disclosure Control Methods for Anonymization of Microdata and Risk Estimation](https://cran.r-project.org/web/packages/sdcMicro/index.html)
+
+**articles**
+
+[Statistical Disclosure Control (SDCMicro)](http://www.ihsn.org/home/software/disclosure-control-toolbox) at International Household Survey Network.
+
+Matthias Templ, Bernhard Meindl and Alexander Kowarik, [Introduction to Statistical Disclosure Control (SDC)](https://cran.r-project.org/web/packages/sdcMicro/vignettes/sdc_guidelines.pdf), 2015
+
+Alexander Kowarik and Matthias Templ, ["Make Your Data Confidential with the sdcMicro and sdcMicroGUI packages"](https://www.researchgate.net/publication/261507879_Make_Your_Data_Confidential_with_the_sdcMicro_and_sdcMicroGUI_packages), 2012
+
+#### `sdcMicroGUI`
+
+**package**
+
+CRAN page: [sdcMicroGUI: Graphical User Interface for Package 'sdcMicro'](https://cran.r-project.org/web/packages/sdcMicroGUI/index.html)
+
+**articles**
+
+Matthias Templ, Bernhard Meindl and Alexander Kowarik, [Tutorial for sdcMicroGUI (and sdcMicro)](https://cran.r-project.org/web/packages/sdcMicroGUI/vignettes/gui_tutorial.pdf), 2015
 
 
 
