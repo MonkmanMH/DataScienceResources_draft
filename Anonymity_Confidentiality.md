@@ -18,7 +18,7 @@ Statistics Canada, 2011: [A New Approach for the Development of a Public Use Mic
 
 #### k-anonymity
 
-["wikipedia: _k_-anonymity"](https://en.wikipedia.org/wiki/K-anonymity)
+[wikipedia: _k_-anonymity](https://en.wikipedia.org/wiki/K-anonymity)
 
 Latanya Sweeney, ["k-Anonymity: A Model for Protecting Privacy"](http://dataprivacylab.org/dataprivacy/projects/kanonymity/kanonymity.pdf), International Journal on Uncertainty,
 Fuzziness and Knowledge-based Systems, 10 (5), 2002; 557-570. 2002
@@ -38,8 +38,6 @@ Justin Brickell and Vitaly Shmatikov, "The Cost of Privacy: Destruction of Data-
 
 Dary Hsu, ["Techniques to Anonymize Human Data"](http://blog.datasift.com/2015/04/09/techniques-to-anonymize-human-data/), 2015
 
-Bruce Schneier, ["Why 'Anonymous' Data Sometimes Isn't"](http://archive.wired.com/politics/security/commentary/securitymatters/2007/12/securitymatters_1213)
-
 #### But anonymized data can be re-identified:
 
 [Wikipedia: De-anonymization](https://en.wikipedia.org/wiki/De-anonymization)
@@ -48,10 +46,11 @@ Children’s Hospital of Eastern Ontario Research Institute, 2007: [Pan-Canadian
 
 * [Full report](http://www.ehealthinformation.ca/wp-content/uploads/2014/07/2007-Pan-Canadian-De-Identification-Guidelines.pdf)
 
+Bruce Schneier, ["Why 'Anonymous' Data Sometimes Isn't"](http://archive.wired.com/politics/security/commentary/securitymatters/2007/12/securitymatters_1213)
+
 Pete Warden, ["Why you can't really anonymize your data"](https://www.oreilly.com/ideas/anonymize-data-limits), 2011
 
 
----
 
 ---
 ### R
