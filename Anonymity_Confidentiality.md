@@ -10,7 +10,7 @@ Some definitions: ["What is the difference between "de-identified", "anonymous",
 ---
 ### Theory and methods
 
-Statistics Canada, [](http://www.statcan.gc.ca/pub/12-539-x/2009001/control-controle-eng.htm) (part of Statistics Canada [Quality Guidelines](http://www.statcan.gc.ca/pub/12-539-x/12-539-x2009001-eng.htm), Catalogue 12-539-X)
+Statistics Canada, ["Disclosure control"](http://www.statcan.gc.ca/pub/12-539-x/2009001/control-controle-eng.htm) (part of Statistics Canada [Quality Guidelines](http://www.statcan.gc.ca/pub/12-539-x/12-539-x2009001-eng.htm), Catalogue 12-539-X)
 
 Statistics Canada, 2011: [A New Approach for the Development of a Public Use Microdata File for Canada's 2011 National Household Survey](https://www12.statcan.gc.ca/nhs-enm/2011/ref/pumf-fmgd/index-eng.cfm), Catalogue no. 99-137-XWE2015001.
 
