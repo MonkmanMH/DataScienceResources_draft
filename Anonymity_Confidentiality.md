@@ -19,15 +19,35 @@ This role means much of the material on the topic comes directly or indirectly f
 The Canadian [Panel on Research Ethics](http://www.pre.ethics.gc.ca/eng/index/) had created a policy document that includes a chapter on [Privacy and Confidentiality](http://www.pre.ethics.gc.ca/eng/policy-politique/initiatives/tcps2-eptc2/chapter5-chapitre5/), covering the full range of concerns about the use of individual data.
 
 ---
-### Theory and methods
+### Discussion
 
 [Wikipedia: Data anonymization](https://en.wikipedia.org/wiki/Data_anonymization)
 
 Some definitions: ["What is the difference between "de-identified", "anonymous", and "coded" data?"](https://kb.wisc.edu/hsirbs/page.php?id=25351)
 
+#### Discussion
+
+Justin Brickell and Vitaly Shmatikov, 2008: ["The Cost of Privacy: Destruction of Data-Mining Utility in Anonymized Data Publishing"](http://www.cs.cornell.edu/~shmat/shmat_kdd08.pdf)
+
+{see also [Wikipedia: De-anonymization](https://en.wikipedia.org/wiki/De-anonymization)}
+
+Arvind Narayanan and Vitaly Shmatikov, 2008: ["Robust De-anonymization of Large Datasets (How to Break Anonymity of the Netflix Prize Dataset)"](https://arxiv.org/pdf/cs/0610105.pdf)
+
+Arvind Narayanan and Vitaly Shmatikov, 2008: ["Robust De-anonymization of Large Sparse Datasets"](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf)
+
+{see also Bruce Schneier, ["Why 'Anonymous' Data Sometimes Isn't"](http://archive.wired.com/politics/security/commentary/securitymatters/2007/12/securitymatters_1213)}
+
+{see also Arvind Narayanan, ["Big Data: Anonymity, Privacy, Ethics"](http://randomwalker.info/data-privacy/), a collection of papers and other resources on the topic} 
 
 
-#### Statistical agency 
+Dary Hsu, ["Techniques to Anonymize Human Data"](http://blog.datasift.com/2015/04/09/techniques-to-anonymize-human-data/), 2015
+
+
+Pete Warden, ["Why you can't really anonymize your data"](https://www.oreilly.com/ideas/anonymize-data-limits), 2011
+
+
+---
+### Statistical Agency 
 
 Government Statistical Service (United Kingdom), 2009:[_National Statistician’s Guidance: Confidentiality of Official Statistics_](https://gss.civilservice.gov.uk/wp-content/uploads/2012/12/Confidentiality-of-Official-Statistics-National-Statisticians-Guidance.pdf)
 
@@ -40,6 +60,11 @@ Statistics Canada, ["Disclosure control"](http://www.statcan.gc.ca/pub/12-539-x/
 Statistics Canada, 2011: [A New Approach for the Development of a Public Use Microdata File for Canada's 2011 National Household Survey](https://www12.statcan.gc.ca/nhs-enm/2011/ref/pumf-fmgd/index-eng.cfm), Catalogue no. 99-137-XWE2015001.
 
 
+#### Other resources
+
+Jelke Bethlehem, 2009: [_Applied Survey Methods: A Statistical Perspective_](http://ca.wiley.com/WileyCDA/WileyTitle/productCd-0470373083.html), Wiley (Wiley Series in Survey Methodology)
+
+* The 13th and final chapter of this comprehensive outline of survey research methods is titled "Statistical Disclosure Control". While the book focusses on data collected through sample surveys, the principles apply equally to census surveys and administrative records.
 
 Josep Domingo-Ferrer, 2014, ["Data Anonymization: A Tutorial"](http://www.hamilton.ie/privacy2014/josep.pdf)
 
@@ -47,10 +72,14 @@ Anco Hundepool, Josep Domingo-Ferrer, Luisa Franconi, Sarah Giessing, Eric Schul
 
 * Essentially a handbook of methods to ensure the privacy of individuals, it covers both microdata (individual records) and tabular data, recognizing the inherent differences in the risks associated with each.
 
-Jelke Bethlehem, 2009: [_Applied Survey Methods: A Statistical Perspective_](http://ca.wiley.com/WileyCDA/WileyTitle/productCd-0470373083.html), Wiley (Wiley Series in Survey Methodology)
+Children’s Hospital of Eastern Ontario Research Institute, 2007: [Pan-Canadian De-Identification Guidelines for Personal Health Information](https://www.priv.gc.ca/resource/cp/2006-2007/p_200607_04_e.asp)
 
-* The 13th and final chapter of this comprehensive outline of survey research methods is titled "Statistical Disclosure Control". While the book focusses on data collected through sample surveys, the principles apply equally to census surveys and administrative records.
+* [Full report](http://www.ehealthinformation.ca/wp-content/uploads/2014/07/2007-Pan-Canadian-De-Identification-Guidelines.pdf)
 
+
+
+---
+### Specific methods
 
 #### k-anonymity
 
@@ -65,26 +94,6 @@ Roberto J. Bayardo and Rakesh Agrawal, ["Data Privacy Through Optimal k-Anonymiz
 
 Khaled El Emam and Fida Kamal Dankar, ["Protecting Privacy Using k-Anonymity"](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2528029/), J Am Med Inform Assoc. 2008 Sep-Oct; 15(5): 627–637.
 
-
-#### Discussion
-
-Benjamin Bengfort, ["A Practical Guide to Anonymizing Datasets with Python & Faker: How Not to Lose Friends and Alienate People"](http://blog.districtdatalabs.com/a-practical-guide-to-anonymizing-datasets-with-python-faker), 2016
-
-Justin Brickell and Vitaly Shmatikov, "The Cost of Privacy: Destruction of Data-Mining Utility in Anonymized Data Publishing"
-
-Dary Hsu, ["Techniques to Anonymize Human Data"](http://blog.datasift.com/2015/04/09/techniques-to-anonymize-human-data/), 2015
-
-#### But anonymized data can be re-identified:
-
-[Wikipedia: De-anonymization](https://en.wikipedia.org/wiki/De-anonymization)
-
-Children’s Hospital of Eastern Ontario Research Institute, 2007: [Pan-Canadian De-Identification Guidelines for Personal Health Information](https://www.priv.gc.ca/resource/cp/2006-2007/p_200607_04_e.asp)
-
-* [Full report](http://www.ehealthinformation.ca/wp-content/uploads/2014/07/2007-Pan-Canadian-De-Identification-Guidelines.pdf)
-
-Bruce Schneier, ["Why 'Anonymous' Data Sometimes Isn't"](http://archive.wired.com/politics/security/commentary/securitymatters/2007/12/securitymatters_1213)
-
-Pete Warden, ["Why you can't really anonymize your data"](https://www.oreilly.com/ideas/anonymize-data-limits), 2011
 
 
 
@@ -117,5 +126,10 @@ CRAN page: [sdcMicroGUI: Graphical User Interface for Package 'sdcMicro'](https:
 
 Matthias Templ, Bernhard Meindl and Alexander Kowarik, [Tutorial for sdcMicroGUI (and sdcMicro)](https://cran.r-project.org/web/packages/sdcMicroGUI/vignettes/gui_tutorial.pdf), 2015
 
+
+---
+### Other tools
+
+Benjamin Bengfort, ["A Practical Guide to Anonymizing Datasets with Python & Faker: How Not to Lose Friends and Alienate People"](http://blog.districtdatalabs.com/a-practical-guide-to-anonymizing-datasets-with-python-faker), 2016
 
 
