@@ -5,7 +5,14 @@
 
 The confidentiality of many data that are ripe for analysis are covered under some form of legal, ethical, and moral constraints. How do we as researchers ensure that the data we work with--whether it's in aggregated form or released as a micro (individual) record that is stripped of personal identifiers such as name--remains anonymous, thereby ensuring that any personal information remains private?
 
-Many of the practical applications of statistical disclosure control can be traced back to the work of various statistical agencies around the world, who are confronted with the challenge of balancing increased expectations for openness and transparency (which translates into an increasing demand for the release of data) with "an increasing public consciousness about the privacy of individuals" (Bethlehem, 2009, p.342). As a consequence, much of the material on the topic comes directly or indirectly from those agencies (see, for example, Statistics Canada publications and Hundepool et. al (2012) listed below).
+Many of the practical applications of statistical disclosure control can be traced back to the work of various statistical agencies around the world, who are confronted with the challenge of balancing increased expectations for openness and transparency (which translates into an increasing demand for the release of data) with "an increasing public consciousness about the privacy of individuals" (Bethlehem, 2009, p.342). 
+
+> Statistical Disclosure Control (SDC) or Statistical Disclosure
+Limitation (SDL) seeks to protect statistical data in such a way that they can be
+released without giving away confidential information that can be linked to specific
+individuals or entities. (Hundepool et al., 2012, p.1)
+
+This role means much of the material on the topic comes directly or indirectly from those agencies (see, for example, Statistics Canada publications listed below).
 
 #### Laws, Ethics, and Morals
 
