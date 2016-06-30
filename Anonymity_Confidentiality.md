@@ -12,7 +12,7 @@ Limitation (SDL) seeks to protect statistical data in such a way that they can b
 released without giving away confidential information that can be linked to specific
 individuals or entities. (Hundepool et al., 2012, p.1)
 
-This role means much of the material on the topic comes directly or indirectly from those agencies (see, for example, Statistics Canada publications listed below).
+This role means much of the material on the topic comes directly or indirectly from those agencies (see, for example, the Australian National Statistical Service and Statistics Canada publications listed below).
 
 #### Laws, Ethics, and Morals
 
@@ -49,15 +49,20 @@ Pete Warden, ["Why you can't really anonymize your data"](https://www.oreilly.co
 ---
 ### Statistical Agency 
 
+National Statistical Service (Australia), ["How to confidentialise data: the basic principles"](http://www.nss.gov.au/nss/home.nsf/pages/Confidentiality+-+How+to+confidentialise+data:+the+basic+principles)
+
+National Statistical Service (Australia), ["Managing the risk of disclosure in the release of microdata"](http://www.nss.gov.au/nss/home.nsf/pages/Confidentiality+-+Managing+the+risk+of+disclosure+in+the+release+of+microdata)
+
+Statistics Canada, ["Disclosure control"](http://www.statcan.gc.ca/pub/12-539-x/2009001/control-controle-eng.htm) (part of Statistics Canada [Quality Guidelines](http://www.statcan.gc.ca/pub/12-539-x/12-539-x2009001-eng.htm), Catalogue 12-539-X)
+
+Statistics Canada, 2011: [A New Approach for the Development of a Public Use Microdata File for Canada's 2011 National Household Survey](https://www12.statcan.gc.ca/nhs-enm/2011/ref/pumf-fmgd/index-eng.cfm), Catalogue no. 99-137-XWE2015001.
+
 Government Statistical Service (United Kingdom), 2009:[_National Statistician’s Guidance: Confidentiality of Official Statistics_](https://gss.civilservice.gov.uk/wp-content/uploads/2012/12/Confidentiality-of-Official-Statistics-National-Statisticians-Guidance.pdf)
 
 Government Statistical Service (United Kingdom): ["Statistical Disclosure Control"](https://gss.civilservice.gov.uk/statistics/methodology-2/statistical-disclosure-control/)
 
 Office of National Statistics (United Kingdom), 2004: [_National Statistics Code of Practice: Protocol on Data Access and Confidentiality_](http://calls.ac.uk/wp-content/uploads/2013/06/protdataaccessconfidentiality_tcm77-179254.pdf)
 
-Statistics Canada, ["Disclosure control"](http://www.statcan.gc.ca/pub/12-539-x/2009001/control-controle-eng.htm) (part of Statistics Canada [Quality Guidelines](http://www.statcan.gc.ca/pub/12-539-x/12-539-x2009001-eng.htm), Catalogue 12-539-X)
-
-Statistics Canada, 2011: [A New Approach for the Development of a Public Use Microdata File for Canada's 2011 National Household Survey](https://www12.statcan.gc.ca/nhs-enm/2011/ref/pumf-fmgd/index-eng.cfm), Catalogue no. 99-137-XWE2015001.
 
 
 #### Other resources
@@ -66,17 +71,17 @@ Jelke Bethlehem, 2009: [_Applied Survey Methods: A Statistical Perspective_](htt
 
 * The 13th and final chapter of this comprehensive outline of survey research methods is titled "Statistical Disclosure Control". While the book focusses on data collected through sample surveys, the principles apply equally to census surveys and administrative records.
 
+Children’s Hospital of Eastern Ontario Research Institute, 2007: [Pan-Canadian De-Identification Guidelines for Personal Health Information](https://www.priv.gc.ca/resource/cp/2006-2007/p_200607_04_e.asp)
+
+* [Full report](http://www.ehealthinformation.ca/wp-content/uploads/2014/07/2007-Pan-Canadian-De-Identification-Guidelines.pdf)
+
 Josep Domingo-Ferrer, 2014, ["Data Anonymization: A Tutorial"](http://www.hamilton.ie/privacy2014/josep.pdf)
 
 Anco Hundepool, Josep Domingo-Ferrer, Luisa Franconi, Sarah Giessing, Eric Schulte Nordholt, Keith Spicer, Peter-Paul de Wolf, 2012: [_Statistical Disclosure Control_](http://ca.wiley.com/WileyCDA/WileyTitle/productCd-1119978157.html), Wiley (Wiley Series in Survey Methodology)
 
 * Essentially a handbook of methods to ensure the privacy of individuals, it covers both microdata (individual records) and tabular data, recognizing the inherent differences in the risks associated with each.
 
-Children’s Hospital of Eastern Ontario Research Institute, 2007: [Pan-Canadian De-Identification Guidelines for Personal Health Information](https://www.priv.gc.ca/resource/cp/2006-2007/p_200607_04_e.asp)
-
-* [Full report](http://www.ehealthinformation.ca/wp-content/uploads/2014/07/2007-Pan-Canadian-De-Identification-Guidelines.pdf)
-
-
+Leon Willenborg and Ton de Wall, 1996: [_Statistical Disclosure Control in Practice_], Springer (Lecture Notes in Statistics 111).
 
 ---
 ### Specific methods
