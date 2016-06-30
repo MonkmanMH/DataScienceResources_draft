@@ -81,6 +81,11 @@ Children’s Hospital of Eastern Ontario Research Institute, 2007: [Pan-Canadian
 ---
 ### Specific methods
 
+#### cell perturbation
+
+Gwenda Thompson, Stephen Broadfoot, Daniel Elazar, 2013: ["Methodology for the Automatic Confidentialisation of Statistical Outputs from Remote Servers at the Australian Bureau of Statistics"](https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.46/2013/Topic_1_ABS.pdf), Joint UNECE/Eurostat work session on statistical data confidentiality, Ottawa, Canada, 28-30 October 2013. 
+
+
 #### k-anonymity
 
 [wikipedia: _k_-anonymity](https://en.wikipedia.org/wiki/K-anonymity)
