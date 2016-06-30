@@ -81,7 +81,7 @@ Anco Hundepool, Josep Domingo-Ferrer, Luisa Franconi, Sarah Giessing, Eric Schul
 
 * Essentially a handbook of methods to ensure the privacy of individuals, it covers both microdata (individual records) and tabular data, recognizing the inherent differences in the risks associated with each.
 
-Leon Willenborg and Ton de Wall, 1996: [_Statistical Disclosure Control in Practice_], Springer (Lecture Notes in Statistics 111).
+Leon Willenborg and Ton de Wall, 1996: [_Statistical Disclosure Control in Practice_](http://www.springer.com/gp/book/9780387947228), Springer (Lecture Notes in Statistics 111).
 
 ---
 ### Specific methods
