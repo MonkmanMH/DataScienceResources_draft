@@ -19,6 +19,9 @@ Statistics Canada, 2011: [A New Approach for the Development of a Public Use Mic
 
 Josep Domingo-Ferrer, 2014, ["Data Anonymization: A Tutorial"](http://www.hamilton.ie/privacy2014/josep.pdf)
 
+Anco Hundepool, Josep Domingo-Ferrer, Luisa Franconi, Sarah Giessing, Eric Schulte Nordholt, Keith Spicer, Peter-Paul de Wolf, 2012: [_Statistical Disclosure Control_](http://ca.wiley.com/WileyCDA/WileyTitle/productCd-1119978157.html), Wiley (Wiley Series in Survey Methodology)
+
+* Essentially a handbook of methods to ensure the privacy of individuals, it covers both microdata (individual records) and tabular data, recognizing the inherent differences in the risks associated with each.
 
 #### k-anonymity
 
