@@ -19,11 +19,9 @@ The topics thus far:
 * [Seasonal adjustment](https://github.com/MonkmanMH/DataScienceResources/blob/master/SeasonalAdjustment.md)
  
 
-### Creating maps
+### Data Sources & How to Read Them
 
-Thus far, only one page with resources on how to create a choropleth map in R. As I go further down this path, this may dissaggregate into more precisely defined topics.
-
-* [Choropleth maps](https://github.com/MonkmanMH/DataScienceResources/blob/master/ChoroplethMaps.md)
+* [Data Sources & How to Read Them](https://github.com/MonkmanMH/DataScienceResources/blob/master/DataSources.md)
 
 
 ### Anonymity and confidentiality of individual (personal) data
@@ -41,4 +39,11 @@ You've done a cracker-jack job with your statistics, and made some bang-up chart
 * [Writing about numbers]
 * [Data visualization]
 * [Effective presentations]
+
+### Creating maps
+
+Thus far, only one page with resources on how to create a choropleth map in R. As I go further down this path, this may dissaggregate into more precisely defined topics.
+
+* [Choropleth maps](https://github.com/MonkmanMH/DataScienceResources/blob/master/ChoroplethMaps.md)
+
 
