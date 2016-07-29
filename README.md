@@ -4,6 +4,12 @@ A rough compendium of resources that cover data science topics (a.k.a. statistic
 
 ## Contents
 
+### Statistical & Data Science Practice
+
+An overview of doing good work
+
+* [Statistical & data science practice]((https://github.com/MonkmanMH/DataScienceResources/blob/master/StatisticalPractice.md))
+
 ### Methods
 
 The topics thus far:
