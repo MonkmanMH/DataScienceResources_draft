@@ -10,6 +10,14 @@ An overview of doing good work
 
 * [Statistical & data science practice](https://github.com/MonkmanMH/DataScienceResources/blob/master/StatisticalPractice.md)
 
+* [Tidy data](https://github.com/MonkmanMH/DataScienceResources/blob/master/TidyData.md)
+
+
+### Data Sources & How to Read Them
+
+* [Data Sources & How to Read Them](https://github.com/MonkmanMH/DataScienceResources/blob/master/DataSources.md)
+
+
 ### Methods
 
 The topics thus far:
@@ -24,11 +32,6 @@ The topics thus far:
 
 * [Seasonal adjustment](https://github.com/MonkmanMH/DataScienceResources/blob/master/SeasonalAdjustment.md)
  
-
-### Data Sources & How to Read Them
-
-* [Data Sources & How to Read Them](https://github.com/MonkmanMH/DataScienceResources/blob/master/DataSources.md)
-
 
 ### Anonymity and confidentiality of individual (personal) data
 
