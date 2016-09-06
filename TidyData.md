@@ -1,6 +1,28 @@
 # Welcome to the tidyverse
 
-#### [The tidyverse R packages](https://github.com/hadley/tidyverse)
+## The tidyverse
+
+All too often, data are messy. 
+
+> There are three interrelated rules which make a dataset tidy:
+> * Each variable must have its own column.
+> * Each observation must have its own row.
+> * Each value must have its own cell.
+
+And 
+
+> Why ensure that your data is tidy? There are two main advantages:
+> 
+> 1. There’s a general advantage to picking one consistent way of storing data. If you have a consistent data structure, it’s easier to learn the tools that work with it because they have an underlying uniformity.
+>
+> 2. There’s a specific advantage to placing variables in columns because it allows R’s vectorised nature to shine. As you learned in mutate and summary functions, most built-in R functions work with vectors of values. That makes transforming tidy data feel particularly natural.
+
+(from Hadley Wickham & Garrett Grolemund, [_R for Data Science_](http://r4ds.had.co.nz/))
+
+
+### tidyverse R packages
+
+[The tidyverse R packages](https://github.com/hadley/tidyverse)
 
 
 ## Tidy Data
