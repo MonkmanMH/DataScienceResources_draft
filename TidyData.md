@@ -2,7 +2,9 @@
 
 ## The tidyverse
 
-All too often, data are messy. 
+All too often, data are messy. There are rows with no contents, colour-coded cells, and inconsistent values.
+
+One important way that data can be cleaned is to ensure that the structure is tidy. What do we mean by tidy data?
 
 > There are three interrelated rules which make a dataset tidy:
 > * Each variable must have its own column.
@@ -19,20 +21,27 @@ And
 
 (from Hadley Wickham & Garrett Grolemund, [_R for Data Science_](http://r4ds.had.co.nz/))
 
+This won't solve things like inconsistent values and colour-coded cells, but it will solve some other messiness.
 
-### tidyverse R packages
-
-[The tidyverse R packages](https://github.com/hadley/tidyverse)
-
-
-## Tidy Data
-
-* Hadley Wickham & Garrett Grolemund, [_R for Data Science_](http://r4ds.had.co.nz/)
+For more about the principles of tidy data, see:
 
 * Hadley Wickham, ["Tidy data", _The Journal of Statistical Software_, vol. 59, 2014.](https://www.jstatsoft.org/article/view/v059i10)
   + [alternate link:](http://vita.had.co.nz/papers/tidy-data.html)
   + [informal and code-heavy version](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
  
+
+
+
+## Tidy Tools
+
+### tidyverse R packages
+
+[The tidyverse R packages](https://github.com/hadley/tidyverse)
+
+### more about tidy data
+
+* Hadley Wickham & Garrett Grolemund, [_R for Data Science_](http://r4ds.had.co.nz/)
+
 * Hadley Wickham
   + [Tidy data and tidy tools (video of presentation, December 2011)](https://vimeo.com/33727555)
 
