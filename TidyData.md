@@ -1,5 +1,8 @@
 # Welcome to the tidyverse
 
+**[The tidyverse R packages](https://github.com/hadley/tidyverse)**
+
+
 ## Tidy Data
 
 * Hadley Wickham, ["Tidy data", _The Journal of Statistical Software_, vol. 59, 2014.](https://www.jstatsoft.org/article/view/v059i10)
