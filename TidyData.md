@@ -1,9 +1,11 @@
 # Welcome to the tidyverse
 
-**[The tidyverse R packages](https://github.com/hadley/tidyverse)**
+#### [The tidyverse R packages](https://github.com/hadley/tidyverse)
 
 
 ## Tidy Data
+
+* Hadley Wickham & Garrett Grolemund, [_R for Data Science_](http://r4ds.had.co.nz/)
 
 * Hadley Wickham, ["Tidy data", _The Journal of Statistical Software_, vol. 59, 2014.](https://www.jstatsoft.org/article/view/v059i10)
   + [alternate link:](http://vita.had.co.nz/papers/tidy-data.html)
