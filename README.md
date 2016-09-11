@@ -47,7 +47,7 @@ You've done a cracker-jack job with your statistics, and made some bang-up chart
 * [Writing in general](https://github.com/MonkmanMH/DataScienceResources/blob/master/Writing.md)
 * [Writing about numbers]
 * [Data tables](https://github.com/MonkmanMH/DataScienceResources/blob/master/Data_Tables.md)
-* [Data visualization]
+* [Data visualization](https://github.com/MonkmanMH/DataScienceResources/blob/master/Data_Visualization.md)
 * [Effective presentations]
 
 ### Creating maps
