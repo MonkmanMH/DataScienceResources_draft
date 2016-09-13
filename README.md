@@ -52,7 +52,7 @@ You've done a cracker-jack job with your statistics, and made some bang-up chart
 
 ### Creating maps
 
-Thus far, only one page with resources on how to create a choropleth map in R. As I go further down this path, this may dissaggregate into more precisely defined topics.
+* [Mapping with R -- a list of tutorials and examples](http://spatial.ly/r/)
 
 * [Choropleth maps](https://github.com/MonkmanMH/DataScienceResources/blob/master/ChoroplethMaps.md)
 
