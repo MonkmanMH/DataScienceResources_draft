@@ -47,13 +47,21 @@ Pete Warden, ["Why you can't really anonymize your data"](https://www.oreilly.co
 ---
 ### Statistical agencies: principles and practices 
 
+#### Australia
+
 National Statistical Service (Australia), ["How to confidentialise data: the basic principles"](http://www.nss.gov.au/nss/home.nsf/pages/Confidentiality+-+How+to+confidentialise+data:+the+basic+principles)
 
 National Statistical Service (Australia), ["Managing the risk of disclosure in the release of microdata"](http://www.nss.gov.au/nss/home.nsf/pages/Confidentiality+-+Managing+the+risk+of+disclosure+in+the+release+of+microdata)
 
+
+#### Canada
+
 Statistics Canada, ["Disclosure control"](http://www.statcan.gc.ca/pub/12-539-x/2009001/control-controle-eng.htm) (part of Statistics Canada [Quality Guidelines](http://www.statcan.gc.ca/pub/12-539-x/12-539-x2009001-eng.htm), Catalogue 12-539-X)
 
 Statistics Canada, 2011: [A New Approach for the Development of a Public Use Microdata File for Canada's 2011 National Household Survey](https://www12.statcan.gc.ca/nhs-enm/2011/ref/pumf-fmgd/index-eng.cfm), Catalogue no. 99-137-XWE2015001.
+
+
+#### United Kingdom
 
 Government Statistical Service (United Kingdom), 2009:[_National Statistician’s Guidance: Confidentiality of Official Statistics_](https://gss.civilservice.gov.uk/wp-content/uploads/2012/12/Confidentiality-of-Official-Statistics-National-Statisticians-Guidance.pdf)
 
@@ -61,7 +69,13 @@ Government Statistical Service (United Kingdom): ["Statistical Disclosure Contro
 
 Office of National Statistics (United Kingdom), 2004: [_National Statistics Code of Practice: Protocol on Data Access and Confidentiality_](http://calls.ac.uk/wp-content/uploads/2013/06/protdataaccessconfidentiality_tcm77-179254.pdf)
 
+#### United States of America
+
 Bureau of Labour Statistics (BLS) Disclosure Review Board (U.S.A.), 2012: [Balancing Confidentiality Requirements with Data Users’ Information Needs](http://www.bls.gov/osmr/drb_background.pdf)
+
+Census Bureau: [Statistical Disclosure Control (SDC)](http://www.census.gov/srd/sdc/)
+
+* "Links and conventional references to research sponsored by the U.S. Census Bureau in the areas of statistical disclosure control, confidentiality, and disclosurelimitation."
 
 #### Other resources
 
