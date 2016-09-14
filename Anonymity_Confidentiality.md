@@ -25,8 +25,6 @@ The Canadian [Panel on Research Ethics](http://www.pre.ethics.gc.ca/eng/index/) 
 
 Some definitions: ["What is the difference between "de-identified", "anonymous", and "coded" data?"](https://kb.wisc.edu/hsirbs/page.php?id=25351)
 
-#### Discussion
-
 Justin Brickell and Vitaly Shmatikov, 2008: ["The Cost of Privacy: Destruction of Data-Mining Utility in Anonymized Data Publishing"](http://www.cs.cornell.edu/~shmat/shmat_kdd08.pdf)
 
 {see also [Wikipedia: De-anonymization](https://en.wikipedia.org/wiki/De-anonymization)}
@@ -47,7 +45,7 @@ Pete Warden, ["Why you can't really anonymize your data"](https://www.oreilly.co
 
 
 ---
-### Statistical Agency 
+### Statistical agencies: principles and practices 
 
 National Statistical Service (Australia), ["How to confidentialise data: the basic principles"](http://www.nss.gov.au/nss/home.nsf/pages/Confidentiality+-+How+to+confidentialise+data:+the+basic+principles)
 
