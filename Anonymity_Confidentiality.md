@@ -63,7 +63,7 @@ Government Statistical Service (United Kingdom): ["Statistical Disclosure Contro
 
 Office of National Statistics (United Kingdom), 2004: [_National Statistics Code of Practice: Protocol on Data Access and Confidentiality_](http://calls.ac.uk/wp-content/uploads/2013/06/protdataaccessconfidentiality_tcm77-179254.pdf)
 
-
+Bureau of Labour Statistics (BLS) Disclosure Review Board (U.S.A.), 2012: [Balancing Confidentiality Requirements with Data Users’ Information Needs](http://www.bls.gov/osmr/drb_background.pdf)
 
 #### Other resources
 
@@ -105,7 +105,9 @@ Roberto J. Bayardo and Rakesh Agrawal, ["Data Privacy Through Optimal k-Anonymiz
 Khaled El Emam and Fida Kamal Dankar, ["Protecting Privacy Using k-Anonymity"](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2528029/), J Am Med Inform Assoc. 2008 Sep-Oct; 15(5): 627–637.
 
 
+#### _pq_-Rule
 
+Meghan O’Malley, Lawrence R. Ernst, ["Practical Considerations in Applying the pq-Rule for Primary Disclosure Suppressions"](http://www.bls.gov/osmr/pdf/st070080.pdf), December 2007.
 
 ---
 ### R
