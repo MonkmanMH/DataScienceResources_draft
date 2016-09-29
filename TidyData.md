@@ -38,6 +38,17 @@ For more about the principles of tidy data, see:
 
 [The tidyverse R packages](https://github.com/hadley/tidyverse)
 
+#### `dplyr`
+
+CRAN: [dplyr: A Grammar of Data Manipulation](https://CRAN.R-project.org/package=dplyr)
+
+github: [hadley/dplyr](https://github.com/hadley/dplyr)
+
+**Articles**
+
+* [Introduction to dplyr](http://stat545.com/block009_dplyr-intro.html), part of the UBC [STAT545: Data wrangling, exploration, and analysis with R](http://stat545.com/index.html) course materials
+
+
 ### more about tidy data
 
 * Hadley Wickham & Garrett Grolemund, [_R for Data Science_](http://r4ds.had.co.nz/)
