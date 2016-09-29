@@ -19,6 +19,17 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 [R database interfaces](http://www.burns-stat.com/r-database-interfaces/)
 
 
+#### `foreign`
+
+**package**
+
+CRAN page:
+
+**articles**
+
+* [How to open an SPSS file into R](http://www.milanor.net/blog/how-to-open-an-spss-file-into-r/), by Davide Massidda (2014-03-26)
+
+
 #### `TSdbi` and related packages
 
 **package**
