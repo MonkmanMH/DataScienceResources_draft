@@ -23,7 +23,7 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 
 **package**
 
-CRAN page:
+CRAN page: [foreign: Read Data Stored by Minitab, S, SAS, SPSS, Stata, Systat, Weka, dBase, ...]( https://CRAN.R-project.org/package=foreign)
 
 **articles**
 
@@ -34,7 +34,7 @@ CRAN page:
 
 **package**
 
-CRAN page: [TSdbi: Time Series Database Interface](https://cran.r-project.org/web/packages/TSdbi/index.html)
+CRAN page: [TSdbi: Time Series Database Interface]( https://CRAN.R-project.org/package=TSdbi)
 
 Note: `TSdbi` has some related extension packages:
 
