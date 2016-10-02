@@ -33,6 +33,10 @@ The topics thus far:
 * [Seasonal adjustment](https://github.com/MonkmanMH/DataScienceResources/blob/master/SeasonalAdjustment.md)
  
 
+### Statistics
+
+* [Distributions](https://github.com/MonkmanMH/DataScienceResources/blob/master/Distributions.md)
+
 ### Anonymity and confidentiality of individual (personal) data
 
 Protecting the anonymity and confidentiality of individuals (whether the data are from administrative records or surveys) is essential. 
