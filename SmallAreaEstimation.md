@@ -11,6 +11,8 @@ Many of these approaches are based upon Bayesian hierarchical models (see Gómez
 
 BIAS Project. http://www.bias-project.org.uk
 
+Cadwell, Betsy L., Theodore J. Thompson, James P. Boyle and Lawrence E. Barker (2010) ["Bayesian Small Area Estimates of Diabetes Prevalence by U.S. County, 2005"](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwisj47SqsvPAhUUHGMKHa-9AB4QFggeMAA&url=http%3A%2F%2Fwww.jds-online.com%2Ffile_download%2F239%2FJDS-650.pdf&usg=AFQjCNG9xh-s5GcntozTl2vf-zWoNVFhKQ&sig2=hRZklC7V_USYwmbZdXzW4Q), _Journal of Data Science_, 8, 173-188.
+
 Chen, C.X., T. Lumley and J. Wakefield (?) ["The Use of Sampling Weights in Bayesian Hierarchical Models for Small Area Estimation"](https://www.stat.washington.edu/research/reports/2011/tr583.pdf)_, Technical Report no.583, Department of Statistics, University of Washington, Seattle.
 
 Ghosh, M. and J. N. K. Rao (1994). "Small area estimation: An appraisal." _Statistical Science_ 9(1), 55–76.
