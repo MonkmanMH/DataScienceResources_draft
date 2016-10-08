@@ -19,6 +19,8 @@ Ghosh, M. and J. N. K. Rao (1994). "Small area estimation: An appraisal." _Stati
 
 Goldstein, H. and D. J. Spiegelhalter (1996). "League tables and their limitations: Statistical issues in comparisons of institutional performance (with discussion)." _Journal of the Royal Statistical Society_, Series A 159(3), 385–443.
 
+
+
 Gómez-Rubio, V., N. Best, S. Richardson and P. Clarke (2007) [_Bayesian Statistics, Small Area Estimation and why no one is poor in Sweden_](http://www.bias-project.org.uk/papers/RSS07.pdf), presentation to the Royal Statistical Society Conference, 2007-07-18.
 
 
@@ -32,6 +34,8 @@ Phadia, Eswar G. (2016) _Prior Processes and Their Applications: Nonparametric B
 
 Rao, J. N. K. (2003). _Small Area Estimation_. John Wiley & Sons, Inc., Hoboken, New Jersey.
 
+Wieczorek, Jerzy (2013) [Small Area Estimation resources](http://civilstat.com/2013/02/small-area-estimation-resources/), at [civilstat.com](http://civilstat.com/)
+
 Zhang, Xingyou, James B. Holt, Hua Lu, Anne G. Wheaton, Earl S. Ford, Kurt J. Greenlund and Janet B. Croft (2014) ["Multilevel Regression and Poststratification for Small-Area Estimation of Population Health Outcomes: A Case Study of Chronic Obstructive Pulmonary Disease Prevalence Using the Behavioral Risk Factor Surveillance System"](http://aje.oxfordjournals.org/content/179/8/1025), _American Journal of Epidemiology_, 179-8, pp.1025-1033.
 
 
@@ -40,12 +44,22 @@ Zhang, Xingyou, James B. Holt, Hua Lu, Anne G. Wheaton, Earl S. Ford, Kurt J. Gr
 
 Arranged by package
 
-#### `package name`
+#### `sae`
 
 **package**
 
-CRAN page: [copy-paste from the cran page](cran link)
+CRAN page: [sae: Small Area Estimation](https://cran.r-project.org/web/packages/sae/index.html)
 
 **articles**
 
-Examples of how the package can be applied
+Molina, Isabel and Yolanda Marhuenda (2015) ["sae: An R Package for Small Area Estimation"](https://journal.r-project.org/archive/2015-1/molina-marhuenda.pdf), _The R Journal_ Vol. 7/1, June 2015
+
+#### `sae2`
+
+**package**
+
+CRAN page: [sae2: Small Area Estimation: Time-series Models](https://cran.r-project.org/web/packages/sae2/index.html)
+
+**articles**
+
+Gómez-Rubio, Virgilio (2008) [3-hour tutorial on Small Area Estimation](http://www.bias-project.org.uk/SAE_tutorial/), workshop at the R User Conference, 2008, Technische Universität Dortmund, Germany.
