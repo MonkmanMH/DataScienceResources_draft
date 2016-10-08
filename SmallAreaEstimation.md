@@ -48,6 +48,15 @@ Zhang, Xingyou, James B. Holt, Hua Lu, Anne G. Wheaton, Earl S. Ford, Kurt J. Gr
 
 Arranged by package
 
+**resources**
+
+Bivand, Roger S., Edzer Pebesma and Virgilio Gómez-Rubio (2013) _Applied Spatial Data Analysis with R_, 2nd edition. Springer
+
+Gómez-Rubio, Virgilio (2016) [Small Area Estimation with R](http://user2016.org/tutorials/16.html), tutorial at the UseR 2016 Conference,  Stanford University.
+
+* earlier version: Gómez-Rubio, Virgilio (2008) [3-hour tutorial on Small Area Estimation](http://www.bias-project.org.uk/SAE_tutorial/), tutorial at the R User Conference, 2008, Technische Universität Dortmund, Germany.
+
+
 #### `sae`
 
 **package**
@@ -66,4 +75,3 @@ CRAN page: [sae2: Small Area Estimation: Time-series Models](https://cran.r-proj
 
 **articles**
 
-Gómez-Rubio, Virgilio (2008) [3-hour tutorial on Small Area Estimation](http://www.bias-project.org.uk/SAE_tutorial/), workshop at the R User Conference, 2008, Technische Universität Dortmund, Germany.
