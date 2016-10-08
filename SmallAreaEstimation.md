@@ -43,6 +43,8 @@ Wieczorek, Jerzy (2015) [Small Area Estimation 101: old materials posted](http:/
 Zhang, Xingyou, James B. Holt, Hua Lu, Anne G. Wheaton, Earl S. Ford, Kurt J. Greenlund and Janet B. Croft (2014) ["Multilevel Regression and Poststratification for Small-Area Estimation of Population Health Outcomes: A Case Study of Chronic Obstructive Pulmonary Disease Prevalence Using the Behavioral Risk Factor Surveillance System"](http://aje.oxfordjournals.org/content/179/8/1025), _American Journal of Epidemiology_, 179-8, pp.1025-1033.
 
 
+Zhou, Qian and Yong You (2011) [_Hierarchical Bayes small area estimation under a spatial model with application to health survey data_](http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=12-001-X201100111445&ObjType=47&lang=en), Statistics Canada, Survey Methodology Series (12-001-X)
+
 ---
 ### R
 
