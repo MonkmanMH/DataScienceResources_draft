@@ -4,6 +4,8 @@
 
 Small area estimation (SAE) is an umbrella term to describe a number of approaches that provide "reliable small area statistics even when only very small samples are available for these areas." (Pfeffermann, 2002)
 
+Many of these approaches are based upon Bayesian hierarchical models (see Gómez-Rubio et al. as one example).
+
 ---
 ### Theory and methods
 
@@ -15,6 +17,8 @@ Goldstein, H. and D. J. Spiegelhalter (1996). "League tables and their limitatio
 
 Gómez-Rubio, V., N. Best, S. Richardson and P. Clarke (2007) [_Bayesian Statistics, Small Area Estimation and why no one is poor in Sweden_](http://www.bias-project.org.uk/papers/RSS07.pdf), presentation to the Royal Statistical Society Conference, 2007-07-18.
 
+
+Gómez-Rubio, V., N. Best, S. Richardson and G. Li (2010) "[Bayesian Statistics for Small Area Estimation](http://www.bias-project.org.uk/papers/BayesianSAE.pdf)" [alternate source via ResearchGate](https://www.researchgate.net/publication/228918362_Bayesian_Statistics_Small_Area_Estimation)
 
 Pfeffermann, Danny (2002) ["Small Area Estimation – New Developments and Directions"](http://eprints.soton.ac.uk/38494/2/38494.pdf), International Statistical Review.
 
