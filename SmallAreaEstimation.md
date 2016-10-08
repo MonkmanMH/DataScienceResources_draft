@@ -36,6 +36,10 @@ Rao, J. N. K. (2003). _Small Area Estimation_. John Wiley & Sons, Inc., Hoboken,
 
 Wieczorek, Jerzy (2013) [Small Area Estimation resources](http://civilstat.com/2013/02/small-area-estimation-resources/), at [civilstat.com](http://civilstat.com/)
 
+Wieczorek, Jerzy (2015) [Small Area Estimation 101: old materials posted](http://civilstat.com/2015/04/small-area-estimation-101-old-materials-posted/), at [civilstat.com](http://civilstat.com/)
+
+
+
 Zhang, Xingyou, James B. Holt, Hua Lu, Anne G. Wheaton, Earl S. Ford, Kurt J. Greenlund and Janet B. Croft (2014) ["Multilevel Regression and Poststratification for Small-Area Estimation of Population Health Outcomes: A Case Study of Chronic Obstructive Pulmonary Disease Prevalence Using the Behavioral Risk Factor Surveillance System"](http://aje.oxfordjournals.org/content/179/8/1025), _American Journal of Epidemiology_, 179-8, pp.1025-1033.
 
 
