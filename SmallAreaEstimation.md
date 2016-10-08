@@ -11,6 +11,8 @@ Many of these approaches are based upon Bayesian hierarchical models (see Gómez
 
 BIAS Project. http://www.bias-project.org.uk
 
+Chen, C.X., T. Lumley and J. Wakefield (?) ["The Use of Sampling Weights in Bayesian Hierarchical Models for Small Area Estimation"](https://www.stat.washington.edu/research/reports/2011/tr583.pdf)_, Technical Report no.583, Department of Statistics, University of Washington, Seattle.
+
 Ghosh, M. and J. N. K. Rao (1994). "Small area estimation: An appraisal." _Statistical Science_ 9(1), 55–76.
 
 Goldstein, H. and D. J. Spiegelhalter (1996). "League tables and their limitations: Statistical issues in comparisons of institutional performance (with discussion)." _Journal of the Royal Statistical Society_, Series A 159(3), 385–443.
