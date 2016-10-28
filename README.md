@@ -24,6 +24,8 @@ The topics thus far:
 
 * [Gini coefficient](https://github.com/MonkmanMH/DataScienceResources/blob/master/GiniCoefficient.md)
 
+* [Imputation of missing values](https://github.com/MonkmanMH/DataScienceResources/blob/master/Imputation.md)
+
 * [Population pyramids](https://github.com/MonkmanMH/DataScienceResources/blob/master/PopulationPyramids.md)
 
 * [Quantile regression](https://github.com/MonkmanMH/DataScienceResources/blob/master/QuantileRegression.md)
