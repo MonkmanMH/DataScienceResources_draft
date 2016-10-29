@@ -65,3 +65,5 @@ github: [hadley/dplyr](https://github.com/hadley/dplyr)
 If  you're going to undertake text mining and natural language processing, your text (i.e. your data) needs to be tidy.  Fortunately, there's an R package for that: `tidytext`.
 
 * Julia Silge, [Term Frequency and tf-idf Using Tidy Data Principles](http://juliasilge.com/blog/Term-Frequency-tf-idf/), 2016-06-27
+
+(See the companion page on the topics of [text analysis and text mining](https://github.com/MonkmanMH/DataScienceResources/blob/master/TextAnalysis.md)).
