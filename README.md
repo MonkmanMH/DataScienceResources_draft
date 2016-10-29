@@ -18,7 +18,7 @@ An overview of doing good work
 * [Data Sources & How to Read Them](https://github.com/MonkmanMH/DataScienceResources/blob/master/DataSources.md)
 
 
-### Methods
+### Quantitative Methods
 
 The topics thus far:
 
@@ -40,6 +40,13 @@ The topics thus far:
 * [Distributions](https://github.com/MonkmanMH/DataScienceResources/blob/master/Distributions.md)
 
 * [Randomization and random number generation](https://github.com/MonkmanMH/DataScienceResources/blob/master/Random.md)
+
+### Text analysis
+
+* [Text analysis](https://github.com/MonkmanMH/DataScienceResources/blob/master/TextAnalysis.md)
+
+
+
 
 
 ### Anonymity and confidentiality of individual (personal) data
