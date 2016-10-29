@@ -39,11 +39,21 @@ The topics thus far:
 
 * [Distributions](https://github.com/MonkmanMH/DataScienceResources/blob/master/Distributions.md)
 
+* [Randomization and random number generation](https://github.com/MonkmanMH/DataScienceResources/blob/master/Random.md)
+
+
 ### Anonymity and confidentiality of individual (personal) data
 
 Protecting the anonymity and confidentiality of individuals (whether the data are from administrative records or surveys) is essential. 
 
 * [Anonymity and confidentiality](https://github.com/MonkmanMH/DataScienceResources/blob/master/Anonymity_Confidentiality.md)
+
+
+### Creating maps
+
+* [Mapping with R -- a list of tutorials and examples](http://spatial.ly/r/)
+
+* [Choropleth maps](https://github.com/MonkmanMH/DataScienceResources/blob/master/ChoroplethMaps.md)
 
 
 ### Communicating about numbers
@@ -55,11 +65,5 @@ You've done a cracker-jack job with your statistics, and made some bang-up chart
 * [Data tables](https://github.com/MonkmanMH/DataScienceResources/blob/master/Data_Tables.md)
 * [Data visualization](https://github.com/MonkmanMH/DataScienceResources/blob/master/Data_Visualization.md)
 * [Effective presentations]
-
-### Creating maps
-
-* [Mapping with R -- a list of tutorials and examples](http://spatial.ly/r/)
-
-* [Choropleth maps](https://github.com/MonkmanMH/DataScienceResources/blob/master/ChoroplethMaps.md)
 
 
