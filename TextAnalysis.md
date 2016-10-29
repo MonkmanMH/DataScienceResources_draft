@@ -13,12 +13,14 @@ A brief description of the subject
 
 Arranged by package
 
-#### `package name`
+#### `tidytext`
 
 **package**
 
 CRAN page: [copy-paste from the cran page](cran link)
 
+github repo: [tidytext on github](https://github.com/juliasilge/tidytext)
+
 **articles**
 
-Examples of how the package can be applied
+Julia Silge and David Robinson (2016) [_Tidy Text Mining with R_](http://tidytextmining.com/)
