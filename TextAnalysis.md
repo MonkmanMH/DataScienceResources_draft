@@ -1,8 +1,8 @@
-# Text Analysis
+# Text Analysis & Text Mining
 
 ### Introduction
 
-A brief description of the subject
+Most "data analysis" has been focussed on quantitative methods, but in recent years text analysis and text mining methods have been developed in concert with natural language processing (NLP).
 
 ---
 ### Theory and methods
