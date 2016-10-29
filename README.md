@@ -41,9 +41,9 @@ The topics thus far:
 
 * [Randomization and random number generation](https://github.com/MonkmanMH/DataScienceResources/blob/master/Random.md)
 
-### Text analysis
+### Analysis of text
 
-* [Text analysis](https://github.com/MonkmanMH/DataScienceResources/blob/master/TextAnalysis.md)
+* [Text analysis and text mining](https://github.com/MonkmanMH/DataScienceResources/blob/master/TextAnalysis.md)
 
 
 
