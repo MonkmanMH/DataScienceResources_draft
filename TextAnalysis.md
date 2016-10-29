@@ -28,3 +28,17 @@ Julia Silge, ["Term Frequency and tf-idf Using Tidy Data Principles"](http://jul
 Julia Silge and David Robinson (2016-10-27) ["Introduction to `tidytext`"](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html) (package vignette)
 
 Julia Silge and David Robinson (2016) [_Tidy Text Mining with R_](http://tidytextmining.com/) {most recent version dated 2016-10-28}
+
+
+#### `tm`
+
+**package**
+
+CRAN page: [tm: Text Mining Package](https://cran.r-project.org/web/packages/tm/index.html)
+
+
+**articles**
+
+Inigo Feinerer (2015) ["Introduction to the `tm` Package: Text Mining in R"](https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf) (package vignette)
+
+
