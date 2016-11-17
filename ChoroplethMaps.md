@@ -2,6 +2,10 @@
 
 ### Introduction
 
+Cartographic design principles
+ 
+* U.K. Ordnance Survey, ["Cartographic design principles"](https://www.ordnancesurvey.co.uk/resources/carto-design/carto-design-principles.html)
+
 Choropleth maps
 
 * vis4net, ["Why we didn’t use a cartogram in the Brexit map"](http://vis4.net/blog/posts/to-cartogram-or-not-to-cartogram-the-brexit/) (2016)
