@@ -15,15 +15,42 @@ Statistics Canada, ["Seasonal adjustment and trend-cycle estimation"](http://www
 ---
 ### R
 
-#### `ggseas`
+#### `ggsdc`
 
 **package**
 
 CRAN page: [ggseas: 'stats' for Seasonal Adjustment on the Fly with 'ggplot2'](https://cran.r-project.org/web/packages/ggseas/index.html)
 
+[Vignette](https://cran.r-project.org/web/packages/ggseas/vignettes/ggsdc.html)
+
 **articles**
+
+
+#### `ggseas`
+
+**package**
+
+CRAN page: [ggseas: 'stats' for Seasonal Adjustment on the Fly with 'ggplot2'](https://cran.r-project.org/web/packages/ggseas/)
+
+[Vignette](https://cran.r-project.org/web/packages/ggseas/vignettes/ggsdc.html)
+
+**articles**
+
+Ellis, Peter. 2016-10-12. ["Update of `ggseas` for seasonal decomposition on the fly"](http://ellisp.github.io/blog/2016/10/12/ggsdc-rents), blog entry
 
 Ellis, Peter. 2016-03-28. ["Seasonal decomposition in the ggplot2 universe with ggseas"](http://ellisp.github.io/blog/2016/03/28/ggseas-update/), blog entry.
 
 Ellis, Peter. 2016-02-08. ["ggseas package for seasonal adjustment on the fly with ggplot2"](http://ellisp.github.io/blog/2016/02/08/ggseas/), blog entry.
+
+
+#### `seasonal`
+
+"...the best interface on the planet to the X13-SEATS-ARIMA time series analysis application from the US Census Department, which is the industry standard particularly for official statistics agencies doing seasonal adjustment." (Peter Ellis, [Vignette](https://cran.r-project.org/web/packages/ggseas/vignettes/ggsdc.html.)
+
+**package**
+
+CRAN page: [seasonal: R Interface to X-13-ARIMA-SEATS'](https://cran.r-project.org/web/packages/seasonal/index.html)
+
+**articles**
+
 
