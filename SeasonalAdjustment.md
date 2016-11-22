@@ -45,7 +45,7 @@ Ellis, Peter. 2016-02-08. ["ggseas package for seasonal adjustment on the fly wi
 
 #### `seasonal`
 
-"...the best interface on the planet to the X13-SEATS-ARIMA time series analysis application from the US Census Department, which is the industry standard particularly for official statistics agencies doing seasonal adjustment." (Peter Ellis, [Vignette](https://cran.r-project.org/web/packages/ggseas/vignettes/ggsdc.html.)
+"...the best interface on the planet to the X13-SEATS-ARIMA time series analysis application from the US Census Department, which is the industry standard particularly for official statistics agencies doing seasonal adjustment." (Peter Ellis, [vignette for `ggsdc`](https://cran.r-project.org/web/packages/ggseas/vignettes/ggsdc.html.))
 
 **package**
 
