@@ -41,8 +41,6 @@ Ellis, Peter. 2016-03-28. ["Seasonal decomposition in the ggplot2 universe with 
 Ellis, Peter. 2016-02-08. ["ggseas package for seasonal adjustment on the fly with ggplot2"](http://ellisp.github.io/blog/2016/02/08/ggseas/), blog entry.
 
 
-
-**package**
 #### `seasonal`
 
 **[seasonal: R-interface to X-13ARIMA-SEATS](http://www.seasonal.website/seasonal.html)**
@@ -53,6 +51,7 @@ Ellis, Peter. 2016-02-08. ["ggseas package for seasonal adjustment on the fly wi
 
 CRAN page: [seasonal: R Interface to X-13-ARIMA-SEATS'](https://cran.r-project.org/web/packages/seasonal/index.html)
 
+github page: [christophsax/seasonal](https://github.com/christophsax/seasonal)
 
 
 #### `x13binary`
