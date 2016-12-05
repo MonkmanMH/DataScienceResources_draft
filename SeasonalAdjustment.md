@@ -23,8 +23,6 @@ CRAN page: [ggseas: 'stats' for Seasonal Adjustment on the Fly with 'ggplot2'](h
 
 [Vignette](https://cran.r-project.org/web/packages/ggseas/vignettes/ggsdc.html)
 
-**articles**
-
 
 #### `ggseas`
 
@@ -43,7 +41,11 @@ Ellis, Peter. 2016-03-28. ["Seasonal decomposition in the ggplot2 universe with 
 Ellis, Peter. 2016-02-08. ["ggseas package for seasonal adjustment on the fly with ggplot2"](http://ellisp.github.io/blog/2016/02/08/ggseas/), blog entry.
 
 
+
+**package**
 #### `seasonal`
+
+**[seasonal: R-interface to X-13ARIMA-SEATS](http://www.seasonal.website/seasonal.html)**
 
 "...the best interface on the planet to the X13-SEATS-ARIMA time series analysis application from the US Census Department, which is the industry standard particularly for official statistics agencies doing seasonal adjustment." (Peter Ellis, [vignette for `ggsdc`](https://cran.r-project.org/web/packages/ggseas/vignettes/ggsdc.html.))
 
@@ -51,6 +53,17 @@ Ellis, Peter. 2016-02-08. ["ggseas package for seasonal adjustment on the fly wi
 
 CRAN page: [seasonal: R Interface to X-13-ARIMA-SEATS'](https://cran.r-project.org/web/packages/seasonal/index.html)
 
-**articles**
+
+
+#### `x13binary`
+
+(US Census Bureau X-13, packaged for easy loading. Loads as a dependency for most of the other seasonal adjustment packages.)
+
+**package**
+
+CRAN page: [x13binary: Provide the 'x13ashtml' Seasonal Adjustment Binary](https://cran.r-project.org/web/packages/x13binary/index.html)
+
+
+
 
 
