@@ -36,6 +36,9 @@ Choropleth maps
 
 
 #### Generic mapping in R
+
+Robin Lovelace, James Cheshire and others, 2015-11-11, [Introduction to visualising spatial data in R](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf) {or up-to-date version on github, [Robinlovelace/Creating-maps-in-R](https://github.com/Robinlovelace/Creating-maps-in-R)}
+
 Sharon Machlis, 2016-03-01, [Create maps in R in 10 (fairly) easy steps](http://www.computerworld.com/article/3038270/data-analytics/create-maps-in-r-in-10-fairly-easy-steps.html), Computerworld.
 
 [geostat-course.org](http://geostat-course.org/aggregator/sources/2?page=24&ui=default)
