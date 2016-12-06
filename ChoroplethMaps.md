@@ -13,12 +13,6 @@ Choropleth maps
 ---
 ### Theory and methods
 
-#### Canadian examples: maps in R
-
-[Canadian census map division in R](http://www.scriptscoop2.com/t/9bec270a9183/canadian-census-map-division-in-r.html)
-
-[Choropleth Maps with R and ggplot2](http://unconj.ca/blog/choropleth-maps-with-r-and-ggplot2.html)
-
 
 #### Canadian geography: shapefiles
 
@@ -34,6 +28,8 @@ Choropleth maps
 
 * [Provincial Electoral Districts - Electoral Boundaries Redistribution, 2008](https://catalogue.data.gov.bc.ca/dataset/provincial-electoral-districts-electoral-boundaries-redistribution-2008)
 
+---
+### R
 
 #### Generic mapping in R
 
@@ -45,8 +41,17 @@ Francisco Rodriguez-Sanchez, 2013-12-18, [Spatial data in R: Using R as a GIS](h
 
 [geostat-course.org](http://geostat-course.org/aggregator/sources/2?page=24&ui=default)
 
+
+#### Canadian examples: maps in R
+
+[Canadian census map division in R](http://www.scriptscoop2.com/t/9bec270a9183/canadian-census-map-division-in-r.html)
+
+[Choropleth Maps with R and ggplot2](http://unconj.ca/blog/choropleth-maps-with-r-and-ggplot2.html)
+
+
 ---
-### R
+
+# R Packages
 
 #### `choroplethr`
 
