@@ -110,7 +110,21 @@ github page: [idbr](https://github.com/walkerke/idbr)
 
 **articles**
 
-[Visualizing international demographic indicators with idbr and Plotly](http://walkerke.github.io/2016/01/idbr/)
+Kyle Walker, [Visualizing international demographic indicators with idbr and Plotly](http://walkerke.github.io/2016/01/idbr/)
 
+
+#### `leaflet`
+
+**package**
+
+CRAN: [leaflet: Create Interactive Web Maps with the JavaScript 'Leaflet' Library](https://cran.r-project.org/web/packages/leaflet/index.html)
+
+RStudio on github: [rstudio/leaflet](https://github.com/rstudio/leaflet)
+
+**articles**
+
+[Leaflet for R](http://rstudio.github.io/leaflet/)
+
+Robin Lovelace, [The leaflet package for online mapping in R](https://www.r-bloggers.com/the-leaflet-package-for-online-mapping-in-r/)
 
 -30-
