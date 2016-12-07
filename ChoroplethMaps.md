@@ -31,7 +31,9 @@ Choropleth maps
 ---
 ### R
 
-#### Generic mapping in R
+#### Mapping in R: tutorials, etc.
+
+Nick Eubank, [Merging Spatial Data](http://www.nickeubank.com/wp-content/uploads/2015/10/RGIS2_MergingSpatialData_part1_Joins.html)
 
 Robin Lovelace, James Cheshire and others, 2015-, [Introduction to visualising spatial data in R](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf) {or up-to-date version on github, [Robinlovelace/Creating-maps-in-R](https://github.com/Robinlovelace/Creating-maps-in-R)}
 
@@ -130,5 +132,22 @@ RStudio on github: [rstudio/leaflet](https://github.com/rstudio/leaflet)
 [Leaflet for R](http://rstudio.github.io/leaflet/)
 
 Robin Lovelace, [The leaflet package for online mapping in R](https://www.r-bloggers.com/the-leaflet-package-for-online-mapping-in-r/)
+
+
+
+#### `sp`
+
+**package**
+
+CRAN: [sp: Classes and Methods for Spatial Data](https://cran.r-project.org/web/packages/sp/index.html)
+
+vignettes: Edzer Pebesma and Roger S. Bivand, 2005: [Classes and Methods for Spatial Data: the sp Package](https://cran.r-project.org/web/packages/sp/vignettes/intro_sp.pdf)
+
+
+**articles**
+
+
+Robin Lovelace, [The leaflet package for online mapping in R](https://www.r-bloggers.com/the-leaflet-package-for-online-mapping-in-r/)
+
 
 -30-
