@@ -56,11 +56,11 @@ Protecting the anonymity and confidentiality of individuals (whether the data ar
 * [Anonymity and confidentiality](https://github.com/MonkmanMH/DataScienceResources/blob/master/Anonymity_Confidentiality.md)
 
 
-### Creating maps
+### Spatial data: creating maps
 
 * [Mapping with R -- a list of tutorials and examples](http://spatial.ly/r/)
 
-* [Choropleth maps](https://github.com/MonkmanMH/DataScienceResources/blob/master/ChoroplethMaps.md)
+* [Spatial data](https://github.com/MonkmanMH/DataScienceResources/blob/master/SpatialData.md)
 
 
 ### Communicating about numbers
