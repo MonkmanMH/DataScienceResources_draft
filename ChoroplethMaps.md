@@ -1,4 +1,4 @@
-# Choropleth maps
+# Spatial Data (a.k.a. mapping)
 
 ### Introduction
 
@@ -27,6 +27,10 @@ Choropleth maps
 * [Boundaries](https://catalogue.data.gov.bc.ca/dataset?q=iso_topic_string%3A%2Aboundaries%2A)
 
 * [Provincial Electoral Districts - Electoral Boundaries Redistribution, 2008](https://catalogue.data.gov.bc.ca/dataset/provincial-electoral-districts-electoral-boundaries-redistribution-2008)
+
+#### Geographic references
+
+[Spatial Reference](http://www.spatialreference.org/) -- URL/URI-based references to spatial reference systems, including EPSG and ESRI.
 
 ---
 ### R
@@ -141,13 +145,12 @@ Robin Lovelace, [The leaflet package for online mapping in R](https://www.r-blog
 
 CRAN: [sp: Classes and Methods for Spatial Data](https://cran.r-project.org/web/packages/sp/index.html)
 
-vignettes: Edzer Pebesma and Roger S. Bivand, 2005: [Classes and Methods for Spatial Data: the sp Package](https://cran.r-project.org/web/packages/sp/vignettes/intro_sp.pdf)
+vignettes: Edzer Pebesma and Roger S. Bivand (2005): [Classes and Methods for Spatial Data: the sp Package](https://cran.r-project.org/web/packages/sp/vignettes/intro_sp.pdf)
 
 
 **articles**
 
-
-Robin Lovelace, [The leaflet package for online mapping in R](https://www.r-bloggers.com/the-leaflet-package-for-online-mapping-in-r/)
+Edzer Pebesma (2008) [Introduction to R and package sp](http://pebesma.staff.ifgi.de/Aufbaukurs/R/slides_R.pdf)
 
 
 -30-
