@@ -39,8 +39,12 @@ Sharon Machlis, 2016-03-01, [Create maps in R in 10 (fairly) easy steps](http://
 
 Francisco Rodriguez-Sanchez, 2013-12-18, [Spatial data in R: Using R as a GIS](https://pakillo.github.io/R-GIS-tutorial/) {github version at [Pakillo/R-GIS-tutorial](https://github.com/Pakillo/R-GIS-tutorial/blob/master/R-GIS_tutorial.md)}
 
+[Mapping (historic) tracks in ggplot2](http://spatial.ly/2016/10/mapping-historic-tracks-ggplot2/)
+
 [geostat-course.org](http://geostat-course.org/aggregator/sources/2?page=24&ui=default)
 
+
+[Making Maps with R](http://www.molecularecologist.com/2012/09/making-maps-with-r/)
 
 #### Canadian examples: maps in R
 
