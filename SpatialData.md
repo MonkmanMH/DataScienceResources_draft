@@ -37,6 +37,8 @@ Choropleth maps
 
 #### Mapping in R: tutorials, etc.
 
+[creating a spatial object](http://stackoverflow.com/questions/29736577/how-to-convert-data-frame-to-spatial-coordinates)
+
 Nick Eubank, [Merging Spatial Data](http://www.nickeubank.com/wp-content/uploads/2015/10/RGIS2_MergingSpatialData_part1_Joins.html)
 
 Robin Lovelace, James Cheshire and others, 2015-, [Introduction to visualising spatial data in R](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf) {or up-to-date version on github, [Robinlovelace/Creating-maps-in-R](https://github.com/Robinlovelace/Creating-maps-in-R)}
