@@ -43,6 +43,8 @@ Frank Davenport (2012) ["Notes from A Recent Spatial R Class I Gave"](http://dav
 
 Nick Eubank, [Merging Spatial Data](http://www.nickeubank.com/wp-content/uploads/2015/10/RGIS2_MergingSpatialData_part1_Joins.html)
 
+Matthias Forkel (2015) [Analysis of spatial data in R](ftp://ftp.bgc-jena.mpg.de/pub/outgoing/mforkel/Rcourse/spatialR_2015.pdf) {PDF version of presentation/lecture slide deck}
+
 Tomislav Hengl, [_A Practical Guide to Geostatistical Mapping_](http://spatial-analyst.net/book/) {PDF ebook available via Lulu}
 
 Robin Lovelace (2014) ["R, an Integrated Statistical Programming Environment and GIS"](http://robinlovelace.net/r/2014/11/28/r-as-a-gis-geoinformatics.html) {blog post}
