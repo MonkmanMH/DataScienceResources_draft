@@ -37,11 +37,15 @@ Choropleth maps
 
 #### Mapping in R: tutorials, etc.
 
+Roger S. Bivand, Edzer J. Pebesma, and Virgilio Gómez-Rubio (2008) [_Applied Spatial Data Analysis with R_](http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf) {PDF version of text book}
+
 Frank Davenport (2012) ["Notes from A Recent Spatial R Class I Gave"](http://davenportspatialanalytics.squarespace.com/blog/2012/6/19/notes-from-a-recent-spatial-r-class-i-gave.html)
 
 Nick Eubank, [Merging Spatial Data](http://www.nickeubank.com/wp-content/uploads/2015/10/RGIS2_MergingSpatialData_part1_Joins.html)
 
 Tomislav Hengl, [_A Practical Guide to Geostatistical Mapping_](http://spatial-analyst.net/book/) {PDF ebook available via Lulu}
+
+Robin Lovelace (2014) ["R, an Integrated Statistical Programming Environment and GIS"](http://robinlovelace.net/r/2014/11/28/r-as-a-gis-geoinformatics.html) {blog post}
 
 Robin Lovelace, James Cheshire and others, 2015-, [_Introduction to visualising spatial data in R_](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf) {or up-to-date version on github, [Robinlovelace/Creating-maps-in-R](https://github.com/Robinlovelace/Creating-maps-in-R)}
 
