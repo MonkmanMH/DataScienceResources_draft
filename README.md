@@ -2,6 +2,8 @@
 
 A rough compendium of resources that cover data science topics (a.k.a. statistics, econometrics, actuarial science, etc.). These will cover general theory, methodology, applications, and R tools and methods. The emphasis will be on web resources, although published texts will also be included where appropriate.
 
+**[webpage version](http://monkmanmh.github.io/DataScienceResources/)**
+
 ## Contents
 
 ### Statistical & Data Science Practice
