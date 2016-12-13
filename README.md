@@ -12,40 +12,40 @@ An overview of doing good work
 
 * [Statistical & data science practice](StatisticalPractice.md)
 
-* [Tidy data](https://github.com/MonkmanMH/DataScienceResources/blob/master/TidyData.md)
+* [Tidy data](TidyData.md)
 
 
 ### Data Sources & How to Read Them
 
-* [Data Sources & How to Read Them](https://github.com/MonkmanMH/DataScienceResources/blob/master/DataSources.md)
+* [Data Sources & How to Read Them](DataSources.md)
 
 
 ### Quantitative Methods
 
 The topics thus far:
 
-* [Gini coefficient](https://github.com/MonkmanMH/DataScienceResources/blob/master/GiniCoefficient.md)
+* [Gini coefficient](GiniCoefficient.md)
 
-* [Imputation of missing data (or missing values)](https://github.com/MonkmanMH/DataScienceResources/blob/master/Imputation.md)
+* [Imputation of missing data (or missing values)](Imputation.md)
 
-* [Population pyramids](https://github.com/MonkmanMH/DataScienceResources/blob/master/PopulationPyramids.md)
+* [Population pyramids](PopulationPyramids.md)
 
-* [Quantile regression](https://github.com/MonkmanMH/DataScienceResources/blob/master/QuantileRegression.md)
+* [Quantile regression](QuantileRegression.md)
 
-* [Raking](https://github.com/MonkmanMH/DataScienceResources/blob/master/Raking.md) (also known as _iterative proportional fitting procedure_, or IPFP)
+* [Raking](Raking.md) (also known as _iterative proportional fitting procedure_, or IPFP)
 
-* [Seasonal adjustment](https://github.com/MonkmanMH/DataScienceResources/blob/master/SeasonalAdjustment.md)
+* [Seasonal adjustment](SeasonalAdjustment.md)
  
 
 ### Statistics
 
-* [Distributions](https://github.com/MonkmanMH/DataScienceResources/blob/master/Distributions.md)
+* [Distributions](Distributions.md)
 
-* [Randomization and random number generation](https://github.com/MonkmanMH/DataScienceResources/blob/master/Random.md)
+* [Randomization and random number generation](Random.md)
 
 ### Analysis of text
 
-* [Text analysis and text mining](https://github.com/MonkmanMH/DataScienceResources/blob/master/TextAnalysis.md)
+* [Text analysis and text mining](TextAnalysis.md)
 
 
 
@@ -55,24 +55,28 @@ The topics thus far:
 
 Protecting the anonymity and confidentiality of individuals (whether the data are from administrative records or surveys) is essential. 
 
-* [Anonymity and confidentiality](https://github.com/MonkmanMH/DataScienceResources/blob/master/Anonymity_Confidentiality.md)
+* [Anonymity and confidentiality](Anonymity_Confidentiality.md)
 
 
 ### Spatial data: creating maps
 
 * [Mapping with R -- a list of tutorials and examples](http://spatial.ly/r/)
 
-* [Spatial data](https://github.com/MonkmanMH/DataScienceResources/blob/master/SpatialData.md)
+* [Spatial data](SpatialData.md)
 
 
 ### Communicating about numbers
 
 You've done a cracker-jack job with your statistics, and made some bang-up charts, graphs, and other visualizations. Now how do you tell the world? 
 
-* [Writing in general](https://github.com/MonkmanMH/DataScienceResources/blob/master/Writing.md)
+* [Writing in general](Writing.md)
+
 * [Writing about numbers]
-* [Data tables](https://github.com/MonkmanMH/DataScienceResources/blob/master/Data_Tables.md)
-* [Data visualization](https://github.com/MonkmanMH/DataScienceResources/blob/master/Data_Visualization.md)
+
+* [Data tables](Data_Tables.md)
+
+* [Data visualization](Data_Visualization.md)
+
 * [Effective presentations]
 
 
