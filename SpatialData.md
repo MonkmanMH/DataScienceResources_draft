@@ -156,7 +156,7 @@ RStudio on github: [rstudio/leaflet](https://github.com/rstudio/leaflet)
 
 Robin Lovelace, [The leaflet package for online mapping in R](https://www.r-bloggers.com/the-leaflet-package-for-online-mapping-in-r/)
 
-
+[Leaflet: an open-source JavaScript library for mobile-friendly interactive maps](http://leafletjs.com/)
 
 #### `sp`
 
