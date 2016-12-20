@@ -8,6 +8,8 @@ A rough compendium of resources that cover data science topics (a.k.a. statistic
 
 ### Statistical & Data Science Practice
 
+* [Defining data science](DataScience.md)
+
 An overview of doing good work
 
 * [Statistical & data science practice](StatisticalPractice.md)
