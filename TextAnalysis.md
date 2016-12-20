@@ -7,11 +7,29 @@ Most "data analysis" has been focussed on quantitative methods, but in recent ye
 ---
 ### Theory and methods
 
+Shawn Graham, Ian Milligan, and Scott Weingart (2015) "Topic Modeling: A Hands-On Adventure in Big Data", chapter four of [_Exploring Big Historical Data: The Historian's Macroscope_](http://www.themacroscope.org/?page_id=788). Imperial College Press.
+
+- See the companion website, [Exploring Big Historical Data: The Historian's Macroscope](http://www.themacroscope.org/2.0/)
+
+Julia Silge and David Robinson (2016) [_Tidy Text Mining with R_](http://tidytextmining.com/) {most recent version dated 2016-10-28}
+
 
 ---
 ### R
 
 Arranged by package
+
+#### `monkeylearn`
+
+**package**
+
+CRAN page: [monkeylearn: Accesses the Monkeylearn API for Text Classifiers and Extractors](https://cran.r-project.org/web/packages/monkeylearn/index.html)
+
+github page: [monkeylearn: R package for text analysis with Monkeylearn](https://github.com/ropensci/monkeylearn)
+
+**articles**
+
+
 
 #### `quanteda`
 
@@ -40,8 +58,6 @@ Julia Silge, ["Term Frequency and tf-idf Using Tidy Data Principles"](http://jul
 []()
 
 Julia Silge and David Robinson (2016-10-27) ["Introduction to `tidytext`"](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html) (package vignette)
-
-Julia Silge and David Robinson (2016) [_Tidy Text Mining with R_](http://tidytextmining.com/) {most recent version dated 2016-10-28}
 
 
 #### `tm`
