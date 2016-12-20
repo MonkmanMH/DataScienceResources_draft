@@ -9,6 +9,14 @@ How does one approach a statistics or data science project?
 
 * Ray Li (2016) ["7 habits of highly effective data analysis"](http://dataconomy.com/2016/02/7-habits-of-highly-effective-data-analysis/). [Dataconomy.com](Dataconomy.com), 2016-02-16.
 
+---
+
+### Data Quality
+
+Jacob Harris (2014) (["Distrust your data"](https://source.opennews.org/en-US/learning/distrust-your-data/), 2014-05-24.
+
+---
+
 ### File storage
 
 * [Sustainability of Digital Formats: Planning for Library of Congress Collections](http://www.digitalpreservation.gov/formats/index.shtml)
