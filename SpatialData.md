@@ -51,7 +51,9 @@ Robin Lovelace (2014) ["R, an Integrated Statistical Programming Environment and
 
 Robin Lovelace, James Cheshire and others, 2015-, [_Introduction to visualising spatial data in R_](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf) {or up-to-date version on github, [Robinlovelace/Creating-maps-in-R](https://github.com/Robinlovelace/Creating-maps-in-R)}
 
-Sharon Machlis, 2016-03-01, [Create maps in R in 10 (fairly) easy steps](http://www.computerworld.com/article/3038270/data-analytics/create-maps-in-r-in-10-fairly-easy-steps.html), Computerworld.
+Sharon Machlis (2016) [Create maps in R in 10 (fairly) easy steps](http://www.computerworld.com/article/3038270/data-analytics/create-maps-in-r-in-10-fairly-easy-steps.html), Computerworld (2016-03-01)
+
+Vivek Patil (2015) [Animated choropleths using animation, ggplot2, rCharts, googleVis, and Shiny](http://patilv.com/Animated-choropleths-using-animation-ggplot2-rCharts-googleVis-and-Shiny/) (2014-01-17)
 
 Francisco Rodriguez-Sanchez, 2013-12-18, [Spatial data in R: Using R as a GIS](https://pakillo.github.io/R-GIS-tutorial/) {github version at [Pakillo/R-GIS-tutorial](https://github.com/Pakillo/R-GIS-tutorial/blob/master/R-GIS_tutorial.md)}
 
