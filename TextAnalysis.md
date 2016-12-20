@@ -11,7 +11,7 @@ Shawn Graham, Ian Milligan, and Scott Weingart (2015) "Topic Modeling: A Hands-O
 
 - See the companion website, [Exploring Big Historical Data: The Historian's Macroscope](http://www.themacroscope.org/2.0/)
 
-Julia Silge and David Robinson (2016) [_Tidy Text Mining with R_](http://tidytextmining.com/) {most recent version dated 2016-10-28}
+Julia Silge and David Robinson (2016) [_Tidy Text Mining with R_](http://tidytextmining.com/) {most recent version dated 2016-12-19}
 
 
 ---
