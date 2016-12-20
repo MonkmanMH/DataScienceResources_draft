@@ -14,7 +14,7 @@ An overview of doing good work
 
 * [Statistical & data science practice](StatisticalPractice.md)
 
-* [Tidy data](TidyData.md)
+* [Tidy data and the tidyverse](TidyData.md)
 
 
 ### Data Sources & How to Read Them
