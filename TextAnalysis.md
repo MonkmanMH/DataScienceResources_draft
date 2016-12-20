@@ -17,7 +17,13 @@ Julia Silge and David Robinson (2016) [_Tidy Text Mining with R_](http://tidytex
 ---
 ### R
 
-Arranged by package
+#### Some examples
+
+David Robinson (2016) ["Text analysis of Trump's tweets confirms he writes only the (angrier) Android half"](http://varianceexplained.org/r/trump-tweets/) (2016-08-09)
+
+Julia Silge (2016) ["You Must Allow Me To Tell You How Ardently I Admire and Love Natural Language Processing"](http://juliasilge.com/blog/You-Must-Allow-Me/) (2016-03-08)
+
+
 
 #### `monkeylearn`
 
