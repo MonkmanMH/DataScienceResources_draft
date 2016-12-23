@@ -11,6 +11,12 @@ How does one approach a statistics or data science project?
 
 ---
 
+### Agile practice
+
+[Agile Scrum Guide](http://agile-guide.pathfinder.bcgov/), BC Government DevEx
+
+---
+
 ### Data Quality
 
 Jacob Harris (2014) (["Distrust your data"](https://source.opennews.org/en-US/learning/distrust-your-data/), 2014-05-24.
