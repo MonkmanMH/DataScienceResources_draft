@@ -43,6 +43,8 @@ Dary Hsu, ["Techniques to Anonymize Human Data"](http://blog.datasift.com/2015/0
 
 Pete Warden, ["Why you can't really anonymize your data"](https://www.oreilly.com/ideas/anonymize-data-limits), 2011
 
+Gregory J. Matthews, Pétala Gardênia da Silva Estrela Tuy, and Robert K. Arthur, 
+["An examination of statistical disclosure issues related to publication of aggregate statistics in the presence of a known subset of the dataset using Baseball Hall of Fame ballots"](https://www.degruyter.com/view/j/jqas.2017.13.issue-1/jqas-2016-0085/jqas-2016-0085.xml), _Journal of Quantitative Analysis in Sports_, 2017
 
 ---
 ### Statistical agencies: principles and practices 
