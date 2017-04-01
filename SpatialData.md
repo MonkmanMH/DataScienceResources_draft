@@ -59,6 +59,9 @@ Francisco Rodriguez-Sanchez, 2013-12-18, [Spatial data in R: Using R as a GIS](h
 
 [R Spatial Cheatsheet](http://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/cheatsheet.html) {from Barry Rowlingson's [Geosppatial Data in R and Beyond](http://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/index.html) tutorial site}
 
+[Maps and Data Visualisations with R](http://spatial.ly/r/) (from [spatial.ly](spatial.ly))
+
+
 
 **tips and tricks**
 
