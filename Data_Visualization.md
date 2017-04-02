@@ -27,6 +27,8 @@ This is an _enormous_ topic.
 
 [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 
+[A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php), by Eric-Jan Wagenmakers and Quentin F. Gronau
+
 
 
 ---
