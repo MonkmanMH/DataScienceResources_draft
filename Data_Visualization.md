@@ -5,19 +5,6 @@
 This is an _enormous_ topic. 
 
 ---
-### Theory and methods
-
-#### Flow visualizations
-
-**Circle plots**
-
-* a.k.a. [Circos plot](http://circos.ca/)
-
-**Sankey plots**
-
-[Interactive flow visualization in R](http://personal.tcu.edu/kylewalker/interactive-flow-visualization-in-r.html); Kyle Walker, 2016-06-26
-
----
 
 ### R Resources
 
@@ -29,6 +16,30 @@ This is an _enormous_ topic.
 
 [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php), by Eric-Jan Wagenmakers and Quentin F. Gronau
 
+
+
+
+---
+
+### Chart types: theory and methods
+
+#### Histograms and their variants
+
+[Variable width column charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
+
+[Mosaic or Marimekko charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
+
+
+
+#### Flow visualizations
+
+**Circle plots**
+
+* a.k.a. [Circos plot](http://circos.ca/)
+
+**Sankey plots**
+
+[Interactive flow visualization in R](http://personal.tcu.edu/kylewalker/interactive-flow-visualization-in-r.html); Kyle Walker, 2016-06-26
 
 
 ---
