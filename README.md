@@ -26,6 +26,8 @@ An overview of doing good work
 
 The topics thus far:
 
+* [Forecasting](Forecasting.md)
+
 * [Gini coefficient](GiniCoefficient.md)
 
 * [Imputation of missing data (or missing values)](Imputation.md)
