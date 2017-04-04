@@ -16,7 +16,11 @@ Karen Grace-Martin (2016?) ["Two Recommended Solutions for Missing Data: Multipl
 ---
 ### R
 
-Arranged by package
+["Tutorial on 5 Powerful R Packages used for imputing missing values"](https://www.analyticsvidhya.com/blog/2016/03/tutorial-powerful-packages-imputing-missing-values/) {`MICE`, `Amelia`, `missForest`, `Hmisc`, `mi`}
+
+#### `Amelia`
+
+#### `Hmisc`
 
 #### `mi`
 
@@ -28,6 +32,11 @@ CRAN page: [mi: Missing Data Imputation and Model Checking](https://cran.r-proje
 
 Su, Gelman, Hill and Yajima (2011) [Multiple Imputation with Diagnostics (mi) in R: Opening Windows into the Black Box](http://www.stat.columbia.edu/~gelman/research/published/mipaper.pdf), _Journal of Statistical Software_, vol. 45.
 
+
+#### `MICE`
+
+
+#### `missForest`
 
 
 #### `VIM`
