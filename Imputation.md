@@ -20,7 +20,24 @@ Karen Grace-Martin (2016?) ["Two Recommended Solutions for Missing Data: Multipl
 
 #### `Amelia`
 
+**package**
+
+CRAN page: [Amelia: A Program for Missing Data](https://cran.r-project.org/web/packages/Amelia/index.html)
+
+vignette: [Amelia II: A Package for Missing Data](https://cran.r-project.org/web/packages/Amelia/vignettes/amelia.pdf) {PDF version}
+
+description: [Amelia II: A Program for Missing Data](http://gking.harvard.edu/amelia)
+
+github page for [Amelia II](https://github.com/IQSS/Amelia)
+
+
 #### `Hmisc`
+
+**package**
+
+CRAN page: [Amelia: A Program for Missing Data](https://cran.r-project.org/web/packages/Amelia/index.html)
+
+
 
 #### `mi`
 
