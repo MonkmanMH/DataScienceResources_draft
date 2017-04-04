@@ -35,7 +35,7 @@ github page for [Amelia II](https://github.com/IQSS/Amelia)
 
 **package**
 
-CRAN page: [Amelia: A Program for Missing Data](https://cran.r-project.org/web/packages/Amelia/index.html)
+CRAN page: [Hmisc: Harrell Miscellaneous](https://cran.r-project.org/web/packages/Hmisc/index.html)
 
 
 
