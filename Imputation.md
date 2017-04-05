@@ -64,6 +64,11 @@ package `miceadds` on CRAN: [miceadds: Some Additional Multiple Imputation Funct
 
 #### `missForest`
 
+**package**
+
+CRAN page: [missForest: Nonparametric Missing Value Imputation using Random Forest](https://cran.r-project.org/web/packages/missForest/index.html)
+
+
 
 #### `VIM`
 
