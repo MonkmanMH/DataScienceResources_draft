@@ -52,6 +52,15 @@ Su, Gelman, Hill and Yajima (2011) [Multiple Imputation with Diagnostics (mi) in
 
 #### `MICE`
 
+**package**
+
+CRAN page: [mice: Multivariate Imputation by Chained Equations](https://cran.r-project.org/web/packages/mice/index.html)
+
+
+**see also**
+
+package `miceadds` on CRAN: [miceadds: Some Additional Multiple Imputation Functions, Especially for 'mice'](https://cran.r-project.org/web/packages/miceadds/index.html)
+
 
 #### `missForest`
 
