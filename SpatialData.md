@@ -132,6 +132,8 @@ CRAN page: [ggmap: Spatial Visualization with ggplot2]
 CRAN page: [ggspatial: Spatial Data Framework for ggplot2]
 (https://cran.r-project.org/web/packages/ggspatial/index.html)
 
+gihub page: [A ggplot2 R extension for plotting Spatial objects](https://github.com/paleolimbot/ggspatial)
+
 
 #### `GISTools`
 
