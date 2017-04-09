@@ -125,6 +125,14 @@ CRAN page: [ggmap: Spatial Visualization with ggplot2]
 [Visualising Crime Hotspots in England and Wales using {ggmap}](http://www.r-bloggers.com/visualising-crime-hotspots-in-england-and-wales-using-ggmap-2/)
 
 
+#### `ggspatial`
+
+**package**
+
+CRAN page: [ggspatial: Spatial Data Framework for ggplot2]
+(https://cran.r-project.org/web/packages/ggspatial/index.html)
+
+
 #### `GISTools`
 
 **package**
@@ -166,6 +174,16 @@ Kyle Walker (2015) ["Creating a Leaflet choropleth map with a pop-up in R"](http
 Kyle Walker (2016) ["Using a new Mapbox Studio map in an R Leaflet project"](https://rpubs.com/walkerke/rstudio-mapbox) (2016-05-18)
 
 [Leaflet: an open-source JavaScript library for mobile-friendly interactive maps](http://leafletjs.com/)
+
+
+#### `sf`
+
+**package**
+
+CRAN: [sf: Simple Features for R](https://cran.r-project.org/web/packages/sf/index.html)
+
+
+
 
 #### `sp`
 
