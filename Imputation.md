@@ -64,6 +64,10 @@ CRAN page: [mice: Multivariate Imputation by Chained Equations](https://cran.r-p
 package `miceadds` on CRAN: [miceadds: Some Additional Multiple Imputation Functions, Especially for 'mice'](https://cran.r-project.org/web/packages/miceadds/index.html)
 
 
+**articles**
+
+Michy Alice, ["Imputing missing data with R; MICE package"](https://www.r-bloggers.com/imputing-missing-data-with-r-mice-package/)
+
 #### `missForest`
 
 **package**
