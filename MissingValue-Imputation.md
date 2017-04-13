@@ -9,7 +9,8 @@ A brief description of the subject
 
 Allison, P. (2000). Multiple Imputation for Missing Data: A Cautionary Tale, _Sociological Methods and Research_, 28, 301-309.
 
-Gelman, Andrew (?) (?) ["Chapter 25: Missing Data Imputation"](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
+Gelman, Andrew and Jennifer Hill (2006) _Data Analysis Using Regression and Multilevel/Hierarchical Models_, Cambridge University Press.
+ * ["Chapter 25: Missing Data Imputation"](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
 Gelman, Andrew, et al. (2014) _Bayesian Data Analysis_, (3rd edition). (see chapter 18, "Models for missing data", pp.449-467)
 
