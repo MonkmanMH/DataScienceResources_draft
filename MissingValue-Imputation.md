@@ -11,6 +11,8 @@ Allison, P. (2000). Multiple Imputation for Missing Data: A Cautionary Tale, _So
 
 Gelman, Andrew (?) (?) ["Chapter 25: Missing Data Imputation"](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
+Gelman, Andrew, et al. (2014) _Bayesian Data Analysis_, (3rd edition). (see chapter 18, "Models for missing data", pp.449-467)
+
 Karen Grace-Martin (2016?) ["Two Recommended Solutions for Missing Data: Multiple Imputation and Maximum Likelihood"](http://www.theanalysisfactor.com/missing-data-two-recommended-solutions/)
 
 ---
