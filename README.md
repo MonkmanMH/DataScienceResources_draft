@@ -30,7 +30,7 @@ The topics thus far:
 
 * [Gini coefficient](GiniCoefficient.md)
 
-* [Imputation of missing data (or missing values)](Imputation.md)
+* [Imputation of missing data (or missing values)](MissingValue-Imputation.md)
 
 * [Population pyramids](PopulationPyramids.md)
 
