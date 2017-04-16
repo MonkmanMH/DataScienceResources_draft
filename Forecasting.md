@@ -11,6 +11,8 @@ Forecasting methods extrapolate past trends. There is a wealth of material suppo
 ---
 ### R
 
+Kostiantyn Kravchuk, ["Forecasting: Time Series Exploration Exercises (Part-1)"](https://www.r-bloggers.com/forecasting-time-series-exploration-exercises-part-1/) (2017-04-10)
+
 
 #### `prophet`
 
