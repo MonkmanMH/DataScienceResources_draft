@@ -34,6 +34,9 @@
 
 ## Packages
 
+`RSQLServer` 
+
+**Not on CRAN**
 
 * [Accessing MSSQL Server with R (RSQLServer with dplyr)](https://www.r-bloggers.com/accessing-mssql-server-with-r-rsqlserver-with-dplyr/)
 
