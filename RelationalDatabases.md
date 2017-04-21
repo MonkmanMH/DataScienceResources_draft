@@ -9,6 +9,10 @@
 
 ## SQL and R
 
+* [Six Articles on using R with SQL Server](https://www.r-bloggers.com/six-articles-on-using-r-with-sql-server/)
+
+* [Accessing MSSQL Server with R (RSQLServer with dplyr)](https://www.r-bloggers.com/accessing-mssql-server-with-r-rsqlserver-with-dplyr/)
+
 * [Data Science for SQL Folks: Leveraging SQL and R](http://www.sqlservercentral.com/articles/R/116157/)
 
 * [Making Data Analytics Simpler: SQL Server and R](https://www.simple-talk.com/sql/reporting-services/making-data-analytics-simpler-sql-server-and-r/)
