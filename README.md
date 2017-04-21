@@ -16,6 +16,8 @@ An overview of doing good work
 
 * [Tidy data and the tidyverse](TidyData.md)
 
+* [Relational databases -- SQL and beyond](RelationalDatabases.md)
+
 
 ### Data Sources & How to Read Them
 
