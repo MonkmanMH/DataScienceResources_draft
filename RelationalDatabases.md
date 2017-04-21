@@ -17,6 +17,8 @@
 
 * [Data Science Labs – Data Analytics with SQL Server and R… (Part 1)](https://nexxtjump.com/2014/04/19/data-science-labs-data-analytics-with-sql-server-and-r-part-1/)
 
+* [Data Analytics with R and SQL Server](https://stephanefrechette.com/data-analytics-r-sql-server/#.WPl4OYWcEdU)
+
 * [Stackoverflow: SQL Server RODBC Connection](http://stackoverflow.com/questions/5720508/sql-server-rodbc-connection)
 
 ## SQL Server
