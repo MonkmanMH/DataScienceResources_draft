@@ -11,8 +11,6 @@
 
 * [Six Articles on using R with SQL Server](https://www.r-bloggers.com/six-articles-on-using-r-with-sql-server/)
 
-* [Accessing MSSQL Server with R (RSQLServer with dplyr)](https://www.r-bloggers.com/accessing-mssql-server-with-r-rsqlserver-with-dplyr/)
-
 * [Data Science for SQL Folks: Leveraging SQL and R](http://www.sqlservercentral.com/articles/R/116157/)
 
 * [Making Data Analytics Simpler: SQL Server and R](https://www.simple-talk.com/sql/reporting-services/making-data-analytics-simpler-sql-server-and-r/)
@@ -30,6 +28,12 @@
 * [Data Science with Microsoft SQL Server 2016 – Free eBook](https://blogs.technet.microsoft.com/machinelearning/2016/10/19/data-science-with-microsoft-sql-server-2016-free-ebook/)
 
 * [Getting Started with SQL Server Machine Learning](https://docs.microsoft.com/en-ca/sql/advanced-analytics/r/getting-started-with-sql-server-r-services)
+
+
+---
+
+## Packages
+
 
 
 
