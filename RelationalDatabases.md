@@ -31,12 +31,17 @@
 
 
 ---
+### R
 
-## Packages
+Arranged by package
 
-`RSQLServer` 
+#### `RSQLServer`
 
-**Not on CRAN**
+**package**
+
+Not on CRAN
+
+**articles**
 
 * [Accessing MSSQL Server with R (RSQLServer with dplyr)](https://www.r-bloggers.com/accessing-mssql-server-with-r-rsqlserver-with-dplyr/)
 
