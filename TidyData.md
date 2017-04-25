@@ -36,7 +36,9 @@ For more about the principles of tidy data, see:
 
 ### tidyverse R packages
 
-[The tidyverse R packages](https://github.com/hadley/tidyverse)
+[The tidyverse: ](http://tidyverse.org/)
+
+[The tidyverse R packages on github](https://github.com/hadley/tidyverse)
 
 #### `dplyr`
 
