@@ -23,12 +23,11 @@ This is an _enormous_ topic.
 
 ### Chart types: theory and methods
 
-#### Histograms and their variants
+#### Box plots (a way to visualize distributions)
 
-[Variable width column charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
+R package [`boxplot`](https://stat.ethz.ch/R-manual/R-devel/library/graphics/html/boxplot.html)
 
-[Mosaic or Marimekko charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
-
+Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers.com/boxplots-and-beyond-part-i/) (first in a multi-part series on various distribution plots)
 
 
 #### Flow visualizations
@@ -40,6 +39,13 @@ This is an _enormous_ topic.
 **Sankey plots**
 
 [Interactive flow visualization in R](http://personal.tcu.edu/kylewalker/interactive-flow-visualization-in-r.html); Kyle Walker, 2016-06-26
+
+#### Histograms and their variants
+
+[Variable width column charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
+
+[Mosaic or Marimekko charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
+
 
 
 ---
