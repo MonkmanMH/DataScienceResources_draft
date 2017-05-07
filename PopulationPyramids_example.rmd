@@ -21,6 +21,12 @@ Below, I plagarize the code to create an animated population pyramid for British
 
 library(gapminder)
 library(ggplot2)
+
+library(animation)
+library(gganimate)
+
+library(dplyr)
+
 theme_set(theme_bw())
 
 p <- ggplot(gapminder, aes(gdpPercap, lifeExp, size = pop, color = continent, frame = year)) +
@@ -29,9 +35,12 @@ p <- ggplot(gapminder, aes(gdpPercap, lifeExp, size = pop, color = continent, fr
 
 p
 
-library(gganimate)
+ani.options(convert = shQuote('C:/PGMS/ImageMagick-7.0.5-Q16/magick.exe'))
 
 gganimate(p)
+
+
+
 
 ```
 
@@ -114,24 +123,6 @@ write_csv(nigeria, "nigeria.csv")
 
 # Animate it with gganimate
 
-g1 <- ggplot(nigeria, aes(x = AGE, y = POP, fill = SEX, width = 1, frame = time)) +
-  coord_fixed() +
-  coord_flip() +
-  geom_bar(data = subset(nigeria, SEX == "Female"), stat = "identity", position = 'identity') +
-  geom_bar(data = subset(nigeria, SEX == "Male"), stat = "identity", position = 'identity') +
-  scale_y_continuous(breaks = seq(-5000000, 5000000, 2500000),
-                     labels = c('5m', '2.5m', '0', '2.5m', '5m'),
-                     limits = c(min(nigeria$POP), max(nigeria$POP))) +
-  theme_minimal(base_size = 14, base_family = "Tahoma") +
-  scale_fill_manual(values = c('#98df8a', '#2ca02c')) +
-  ggtitle('Population structure of Nigeria,') + 
-  ylab('Population') +
-  xlab('Age') +
-  theme(legend.position = "bottom", legend.title = element_blank()) +
-  labs(caption = 'Chart by @kyle_e_walker | Data source: US Census Bureau IDB via the idbr R package') + 
-  guides(fill = guide_legend(reverse = TRUE))
-
-g1
 
 gganimate(g1, interval = 0.1, ani.width = 700, ani.height = 600)
 
