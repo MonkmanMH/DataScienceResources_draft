@@ -1,0 +1,61 @@
+---
+title: "population pyramids"
+output: html_notebook
+---
+
+Population pyramids are one of the familiar data viz options in the demographer's tool box.
+
+[Kyle Walker](http://personal.tcu.edu/kylewalker/)'s post ["idbr: access the US Census Bureau International Data Base in R"](http://www.arilamstein.com/blog/2016/06/06/idbr-access-us-census-bureau-international-data-base-r) uses international data to create animated population pyramids.
+
+Below, I plagarize the code to create an animated population pyramid for British Columbia.
+
+
+### The original code
+
+**Note:** the program requires the `gganimate` package, which is not on [CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html#available-packages-G) at the time of this writing (2017-05-07).
+
+To install the package into your library, follow the directions on the [`gganimate` github page](https://github.com/dgrtwo/gganimate).
+
+
+```{r}
+
+# image 1
+library(idbr) 
+library(ggplot2)
+library(dplyr)
+library(gganimate)
+library(animation)
+
+male <- idb1('NI', 1990:2050, sex = 'male') %>%
+  mutate(POP = POP * -1,
+         SEX = 'Male')
+
+female <- idb1('NI', 1990:2050, sex = 'female') %>%
+  mutate(SEX = 'Female')
+
+nigeria <- rbind(male, female) 
+
+# Animate it with gganimate
+
+g1 <- ggplot(nigeria, aes(x = AGE, y = POP, fill = SEX, width = 1, frame = time)) +
+  coord_fixed() +
+  coord_flip() +
+  geom_bar(data = subset(nigeria, SEX == "Female"), stat = "identity", position = 'identity') +
+  geom_bar(data = subset(nigeria, SEX == "Male"), stat = "identity", position = 'identity') +
+  scale_y_continuous(breaks = seq(-5000000, 5000000, 2500000),
+                     labels = c('5m', '2.5m', '0', '2.5m', '5m'),
+                     limits = c(min(nigeria$POP), max(nigeria$POP))) +
+  theme_minimal(base_size = 14, base_family = "Tahoma") +
+  scale_fill_manual(values = c('#98df8a', '#2ca02c')) +
+  ggtitle('Population structure of Nigeria,') + 
+  ylab('Population') +
+  xlab('Age') +
+  theme(legend.position = "bottom", legend.title = element_blank()) +
+  labs(caption = 'Chart by @kyle_e_walker | Data source: US Census Bureau IDB via the idbr R package') + 
+  guides(fill = guide_legend(reverse = TRUE))
+
+gg_animate(g1, interval = 0.1, ani.width = 700, ani.height = 600)
+
+
+```
+
