@@ -14,12 +14,59 @@ Below, I plagarize the code to create an animated population pyramid for British
 
 **Notes:** 
 
-* The program requires the `gganimate` package, which is not on [CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html#available-packages-G) at the time of this writing (2017-05-07).
+* The program requires the `gganimate` package, which is not on [CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html#available-packages-G) at the time of this writing (2017-05-07). To install the package into your library, follow the directions on the [`gganimate` github page](https://github.com/dgrtwo/gganimate). See also (https://rpubs.com/omicsdata/gganimate).
 
-  - To install the package into your library, follow the directions on the [`gganimate` github page](https://github.com/dgrtwo/gganimate).
+* You will also need a separate program, Image Magick, and an associated R package, `magick`.
+OR DO YOU?
+
+https://www.imagemagick.org/script/index.php
+
+* the `magick` package 
+
+https://cran.r-project.org/web/packages/magick/vignettes/intro.html
+
+https://ropensci.org/blog/2016/08/23/z-magick-release
+
+
+```{r}
+
+install.packages("magick")
+library(magick)
+
+
+# the tiger example
+# from https://cran.r-project.org/web/packages/magick/vignettes/intro.html
+
+
+tiger <- image_read('http://jeroen.github.io/images/tiger.svg')
+image_info(tiger)
+
+tiger
+
+# Render svg to png bitmap
+image_write(tiger, path = "tiger.png", format = "png")
+
+# convert format
+tiger_png <- image_convert(tiger, "png")
+
+
+```
+
+
+library(installr)
+install.ImageMagick
+
+`install.packages("magick")`
+
+
+
+[CRAN page](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
+
+[Ropensci entry](https://ropensci.org/blog/2016/08/23/z-magick-release)
 
 * "A Census API key is required.  Obtain one at http://api.census.gov/data/key_signup.html, and then supply the key to the `idb_api_key` function to use it throughout your idbr session."
 
+---
 
 
 ```{r}
@@ -31,8 +78,11 @@ library(dplyr)
 library(gganimate)
 library(animation)
 
+library(magick)
+library(readr)
+
 # Census API key
-idb_api_key("<your.Census.API.key.here>")
+idb_api_key("725c5ae0a596294bb619ef881a121c542a89a70d")
 
 male <- idb1('NI', 1990:2050, sex = 'male') %>%
   mutate(POP = POP * -1,
@@ -42,6 +92,8 @@ female <- idb1('NI', 1990:2050, sex = 'female') %>%
   mutate(SEX = 'Female')
 
 nigeria <- rbind(male, female) 
+
+write_csv(nigeria, "nigeria.csv")
 
 # Animate it with gganimate
 
@@ -64,6 +116,7 @@ g1 <- ggplot(nigeria, aes(x = AGE, y = POP, fill = SEX, width = 1, frame = time)
 
 gganimate(g1, interval = 0.1, ani.width = 700, ani.height = 600)
 
+gganimate(g1, interval = 0.1, ani.width = 700, ani.height = 600, "output.gif")
 
 ```
 
