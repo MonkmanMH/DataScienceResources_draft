@@ -16,16 +16,44 @@ Below, I plagarize the code to create an animated population pyramid for British
 
 * The program requires the `gganimate` package, which is not on [CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html#available-packages-G) at the time of this writing (2017-05-07). To install the package into your library, follow the directions on the [`gganimate` github page](https://github.com/dgrtwo/gganimate). See also (https://rpubs.com/omicsdata/gganimate).
 
+
+```{r}
+
+library(gapminder)
+library(ggplot2)
+theme_set(theme_bw())
+
+p <- ggplot(gapminder, aes(gdpPercap, lifeExp, size = pop, color = continent, frame = year)) +
+  geom_point() +
+  scale_x_log10()
+
+p
+
+library(gganimate)
+
+gganimate(p)
+
+```
+
+
 * You will also need a separate program, Image Magick, and an associated R package, `magick`.
 OR DO YOU?
 
 https://www.imagemagick.org/script/index.php
 
+
+Link R to ImageMagick
+http://stackoverflow.com/questions/37800390/linking-r-to-imagemagick
+
+
+
 * the `magick` package 
 
-https://cran.r-project.org/web/packages/magick/vignettes/intro.html
 
-https://ropensci.org/blog/2016/08/23/z-magick-release
+
+[CRAN page](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
+
+[Ropensci entry](https://ropensci.org/blog/2016/08/23/z-magick-release)
 
 
 ```{r}
@@ -52,17 +80,6 @@ tiger_png <- image_convert(tiger, "png")
 
 ```
 
-
-library(installr)
-install.ImageMagick
-
-`install.packages("magick")`
-
-
-
-[CRAN page](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
-
-[Ropensci entry](https://ropensci.org/blog/2016/08/23/z-magick-release)
 
 * "A Census API key is required.  Obtain one at http://api.census.gov/data/key_signup.html, and then supply the key to the `idb_api_key` function to use it throughout your idbr session."
 
@@ -113,6 +130,8 @@ g1 <- ggplot(nigeria, aes(x = AGE, y = POP, fill = SEX, width = 1, frame = time)
   theme(legend.position = "bottom", legend.title = element_blank()) +
   labs(caption = 'Chart by @kyle_e_walker | Data source: US Census Bureau IDB via the idbr R package') + 
   guides(fill = guide_legend(reverse = TRUE))
+
+g1
 
 gganimate(g1, interval = 0.1, ani.width = 700, ani.height = 600)
 
