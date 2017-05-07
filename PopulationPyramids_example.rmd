@@ -110,12 +110,14 @@ Now we've confirmed that the animation is running, it's time to turn our attenti
 
 # image 1
 library(idbr) 
-library(ggplot2)
-library(dplyr)
+
+library(tidyverse)
+#library(ggplot2)
+#library(dplyr)
+#library(readr)
 library(gganimate)
 library(animation)
 
-library(readr)
 
 # Census API key
 idb_api_key("725c5ae0a596294bb619ef881a121c542a89a70d")
@@ -159,4 +161,40 @@ gganimate(g1, interval = 0.1, ani.width = 700, ani.height = 600)
 gganimate(g1, interval = 0.1, ani.width = 700, ani.height = 600, "output.gif")
 
 ```
+
+
+### The British Columbia data
+
+Start with some wrangling
+
+```{r}
+
+BC_pop_1971.2015 <- read_csv("data/BC_Population_1971-2015.csv")
+
+ls.str(BC_pop_1971.2015)
+
+Sex.grp <- c(1, 2)
+
+BC_pop_1971.2015.sel <- BC_pop_1971.2015 %>%
+  select(-c(Total, SGC, `Area Name`, `-1`, Level)) %>%
+  filter(Sex %in% Sex.grp) %>%
+  rename(`00` = `0`,
+         `01` = `1`,
+         `02` = `2`,
+         `03` = `3`,
+         `04` = `4`,
+         `05` = `5`,
+         `06` = `6`,
+         `07` = `7`,
+         `08` = `8`,
+         `09` = `9`)
+
+ls.str(BC_pop_1971.2015.sel)
+
+unique(BC_pop_1971.2015.sel$Sex)
+
+```
+
+
+
 
