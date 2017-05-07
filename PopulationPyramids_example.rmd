@@ -1,5 +1,5 @@
 ---
-title: "population pyramids"
+title: "population pyramids: an animated example"
 output: html_notebook
 ---
 
@@ -12,9 +12,14 @@ Below, I plagarize the code to create an animated population pyramid for British
 
 ### The original code
 
-**Note:** the program requires the `gganimate` package, which is not on [CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html#available-packages-G) at the time of this writing (2017-05-07).
+**Notes:** 
 
-To install the package into your library, follow the directions on the [`gganimate` github page](https://github.com/dgrtwo/gganimate).
+* The program requires the `gganimate` package, which is not on [CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html#available-packages-G) at the time of this writing (2017-05-07).
+
+  - To install the package into your library, follow the directions on the [`gganimate` github page](https://github.com/dgrtwo/gganimate).
+
+* "A Census API key is required.  Obtain one at http://api.census.gov/data/key_signup.html, and then supply the key to the `idb_api_key` function to use it throughout your idbr session."
+
 
 
 ```{r}
@@ -25,6 +30,9 @@ library(ggplot2)
 library(dplyr)
 library(gganimate)
 library(animation)
+
+# Census API key
+idb_api_key("<your.Census.API.key.here>")
 
 male <- idb1('NI', 1990:2050, sex = 'male') %>%
   mutate(POP = POP * -1,
@@ -54,7 +62,7 @@ g1 <- ggplot(nigeria, aes(x = AGE, y = POP, fill = SEX, width = 1, frame = time)
   labs(caption = 'Chart by @kyle_e_walker | Data source: US Census Bureau IDB via the idbr R package') + 
   guides(fill = guide_legend(reverse = TRUE))
 
-gg_animate(g1, interval = 0.1, ani.width = 700, ani.height = 600)
+gganimate(g1, interval = 0.1, ani.width = 700, ani.height = 600)
 
 
 ```
