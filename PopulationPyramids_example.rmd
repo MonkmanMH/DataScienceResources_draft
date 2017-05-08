@@ -35,28 +35,40 @@ http://stackoverflow.com/questions/37800390/linking-r-to-imagemagick
 
 
 
+#### The packages needed for the entire sequence
+
 ```{r}
 
 # data
 library(gapminder)
+library(idbr) 
+
 
 # tidyverse
 library(tidyverse)
 #library(ggplot2)
 #library(dplyr)
 
+
 # animation
 library(animation)
 library(gganimate)
 
+library(magick)
 
-
-
-# THIS IS THE SECRET SAUCE -- embed location of Image Magick executable in R script
+# THIS IS THE SECRET SAUCE FOR SUCCESSFUL ANIMATION 
+# -- embed location of Image Magick executable in R script
 ani.options(convert = shQuote('C:/PGMS/ImageMagick-7.0.5-Q16/magick.exe'))
 
+```
 
-# a test of a basic gganimate 
+
+
+a test of a basic gganimate 
+
+
+```{r}
+
 theme_set(theme_bw())
 
 p <- ggplot(gapminder, aes(gdpPercap, lifeExp, size = pop, color = continent, frame = year)) +
@@ -77,8 +89,6 @@ gganimate(p)
 
 ```{r}
 
-install.packages("magick")
-library(magick)
 
 
 # the tiger example
@@ -112,9 +122,6 @@ Now we've confirmed that the animation is running, it's time to turn our attenti
 
 
 ```{r}
-
-# data
-library(idbr) 
 
 
 
@@ -170,7 +177,7 @@ Start with some wrangling
 
 BC_pop_1971.2015 <- read_csv("data/BC_Population_1971-2015.csv")
 
-ls.str(BC_pop_1971.2015)
+BC_pop_1971.2015
 
 Sex.grp <- c(1, 2)
 
@@ -245,13 +252,25 @@ g2 <- ggplot(BC_pop_1971.2015.long, aes(x = age, y = population, fill = Sex, wid
   coord_flip() +
   geom_bar(data = subset(BC_pop_1971.2015.long, Sex == "2"), stat = "identity", position = 'identity') +
   geom_bar(data = subset(BC_pop_1971.2015.long, Sex == "1"), stat = "identity", position = 'identity') +
-  scale_y_continuous(breaks = seq(-100000, 100000, 50000),
-                     labels = c('100000', '50000', '0', '50000', '100000'),
-                     limits = c(min(BC_pop_1971.2015.long$population), max(BC_pop_1971.2015.long$population))) +
+  ggtitle('Population structure of British Columbia,') 
+
+
+
+g2 <- ggplot(BC_pop_1971.2015.long, aes(x = age, y = population, fill = Sex, width = 1, frame = Year)) +
+  coord_fixed() +
+  coord_flip() +
+  geom_bar(data = subset(BC_pop_1971.2015.long, Sex == "2"), stat = "identity", position = 'identity') +
+  geom_bar(data = subset(BC_pop_1971.2015.long, Sex == "1"), stat = "identity", position = 'identity') +
+  scale_y_continuous(breaks = seq(-50000, 50000, 10000),
+                     labels = c('50000', '40000', '30000', '20000', '10000', '0', 
+                                '10000', '20000', '30000', '40000', '50000'),  
+                     limits = c(min(-50000), max(50000))) 
+
++
 #  theme_minimal(base_size = 14, base_family = "Tahoma") +
 #  scale_fill_manual(values = c('#98df8a', '#2ca02c')) +
   ggtitle('Population structure of British Columbia,') 
-+ 
+# + 
 #  ylab('Population') +
 #  xlab('Age') +
 #  theme(legend.position = "bottom", legend.title = element_blank()) +
