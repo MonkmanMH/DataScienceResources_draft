@@ -241,6 +241,23 @@ BC_pop_1971.2015.long <- BC_pop_1971.2015.sel %>%
 
 BC_pop_1971.2015.long
 
+BC_pop_1971.2015.long %>% 
+  filter(Sex == 2)
+
+BC_pop_1971.2015.long.2 <- BC_pop_1971.2015.long %>%
+  mutate(population = population * -1)
+
+
+BC_pop_1971.2015.long.2 <- BC_pop_1971.2015.long %>%
+  mutate(population = ifelse(Sex == 1, population * -1, population))
+
+
+BC_pop_1971.2015.long.2 %>% 
+  filter(Sex == 2)
+
+BC_pop_1971.2015.long.2 %>% 
+  filter(Sex == 1)
+
 
 ```
 
@@ -255,8 +272,26 @@ g2 <- ggplot(BC_pop_1971.2015.long, aes(x = age, y = population, fill = Sex, wid
   ggtitle('Population structure of British Columbia,') 
 
 
+# Animate it with gganimate
+gganimate(g2, interval = 0.1, ani.width = 700, ani.height = 600)
 
-g2 <- ggplot(BC_pop_1971.2015.long, aes(x = age, y = population, fill = Sex, width = 1, frame = Year)) +
+
+g3 <- ggplot(BC_pop_1971.2015.long.2, aes(x = age, y = population, fill = Sex, width = 1, frame = Year)) +
+  coord_fixed() +
+  coord_flip() +
+  geom_bar(data = subset(BC_pop_1971.2015.long, Sex == "2"), stat = "identity", position = 'identity') +
+  geom_bar(data = subset(BC_pop_1971.2015.long, Sex == "1"), stat = "identity", position = 'identity') +
+  ggtitle('Population structure of British Columbia,') 
+
+
+# Animate it with gganimate
+gganimate(g3, interval = 0.1, ani.width = 700, ani.height = 600)
+
+
+
+
+
+g2 <- ggplot(BC_pop_1971.2015.long.2, aes(x = age, y = population, fill = Sex, width = 1, frame = Year)) +
   coord_fixed() +
   coord_flip() +
   geom_bar(data = subset(BC_pop_1971.2015.long, Sex == "2"), stat = "identity", position = 'identity') +
