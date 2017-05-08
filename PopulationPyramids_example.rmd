@@ -279,9 +279,11 @@ gganimate(g2, interval = 0.1, ani.width = 700, ani.height = 600)
 g3 <- ggplot(BC_pop_1971.2015.long.2, aes(x = age, y = population, fill = Sex, width = 1, frame = Year)) +
   coord_fixed() +
   coord_flip() +
-  geom_bar(data = subset(BC_pop_1971.2015.long, Sex == "2"), stat = "identity", position = 'identity') +
-  geom_bar(data = subset(BC_pop_1971.2015.long, Sex == "1"), stat = "identity", position = 'identity') +
+  geom_bar(data = subset(BC_pop_1971.2015.long.2, Sex == "2"), stat = "identity", position = 'identity') +
+  geom_bar(data = subset(BC_pop_1971.2015.long.2, Sex == "1"), stat = "identity", position = 'identity') +
   ggtitle('Population structure of British Columbia,') 
+
+g3
 
 
 # Animate it with gganimate
