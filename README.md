@@ -8,50 +8,50 @@ A rough compendium of resources that cover data science topics (a.k.a. statistic
 
 ### Statistical & Data Science Practice
 
-* [Defining data science](DataScience.md)
+* [Defining data science](docs/DataScience.md)
 
 An overview of doing good work
 
-* [Statistical & data science practice](StatisticalPractice.md)
+* [Statistical & data science practice](docs/StatisticalPractice.md)
 
-* [Tidy data and the tidyverse](TidyData.md)
+* [Tidy data and the tidyverse](docs/TidyData.md)
 
-* [Relational databases -- SQL and beyond](RelationalDatabases.md)
+* [Relational databases -- SQL and beyond](docs/RelationalDatabases.md)
 
 
 ### Data Sources & How to Read Them
 
-* [Data Sources & How to Read Them](DataSources.md)
+* [Data Sources & How to Read Them](docs/DataSources.md)
 
 
 ### Quantitative Methods
 
 The topics thus far:
 
-* [Forecasting](Forecasting.md)
+* [Forecasting](docs/Forecasting.md)
 
-* [Gini coefficient](GiniCoefficient.md)
+* [Gini coefficient](docs/GiniCoefficient.md)
 
-* [Imputation of missing data (or missing values)](MissingValue-Imputation.md)
+* [Imputation of missing data (or missing values)](docs/MissingValue-Imputation.md)
 
-* [Population pyramids](PopulationPyramids.md)
+* [Population pyramids](docs/PopulationPyramids.md)
 
-* [Quantile regression](QuantileRegression.md)
+* [Quantile regression](docs/QuantileRegression.md)
 
-* [Raking](Raking.md) (also known as _iterative proportional fitting procedure_, or IPFP)
+* [Raking](docs/Raking.md) (also known as _iterative proportional fitting procedure_, or IPFP)
 
-* [Seasonal adjustment](SeasonalAdjustment.md)
+* [Seasonal adjustment](docs/SeasonalAdjustment.md)
  
 
 ### Statistics
 
-* [Distributions](Distributions.md)
+* [Distributions](docs/Distributions.md)
 
-* [Randomization and random number generation](Random.md)
+* [Randomization and random number generation](docs/Random.md)
 
 ### Analysis of text
 
-* [Text analysis and text mining](TextAnalysis.md)
+* [Text analysis and text mining](docs/TextAnalysis.md)
 
 
 
@@ -63,27 +63,27 @@ Protecting the anonymity and confidentiality of individuals (whether the data ar
 
 The methods associated with this protection are sometimes refered to as "statistical disclosure control".
 
-* [Anonymity and confidentiality](Anonymity_Confidentiality.md)
+* [Anonymity and confidentiality](docs/Anonymity_Confidentiality.md)
 
 
 ### Spatial data: creating maps
 
-* [Mapping with R -- a list of tutorials and examples](http://spatial.ly/r/)
+* [Mapping with R -- a list of tutorials and examples](docs/http://spatial.ly/r/)
 
-* [Spatial data](SpatialData.md)
+* [Spatial data](docs/SpatialData.md)
 
 
 ### Communicating about numbers
 
 You've done a cracker-jack job with your statistics, and made some bang-up charts, graphs, and other visualizations. Now how do you tell the world? 
 
-* [Writing in general](Writing.md)
+* [Writing in general](docs/Writing.md)
 
 * [Writing about numbers]
 
-* [Data tables](Data_Tables.md)
+* [Data tables](docs/Data_Tables.md)
 
-* [Data visualization](Data_Visualization.md)
+* [Data visualization](docs/Data_Visualization.md)
 
 * [Effective presentations]
 
