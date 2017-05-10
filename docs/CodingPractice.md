@@ -8,7 +8,12 @@
 
 #### Literate programming
 
+The practice of explaining the program logic in a natural language"; it goes beyond what might be called "documentation". In the world of R, the RMarkdown functionality within [RStudio](), including R notebooks, is a way to program in this manner.
 
+The concept was introduced by Donald Knuth in 1984; the original article is
+> Knuth, Donald E. (1984). ["Literate Programming"](http://www.literateprogramming.com/knuthweb.pdf) (PDF). _The Computer Journal_. British Computer Society. 27 (2): 97–111. 
+
+* [Wikipedia entry](https://en.wikipedia.org/wiki/Literate_programming)
 
 #### Naming variables
 
