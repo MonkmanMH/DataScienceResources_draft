@@ -15,6 +15,8 @@
 "There are only two hard things in Computer Science: cache invalidation and naming things."
 -- Phil Karlton
 
+Andy Lester, ["The World's Two Worst Variable Names"](http://archive.oreilly.com/pub/post/the_worlds_two_worst_variable.html)
+
 ---
 ### R
 
