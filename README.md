@@ -16,6 +16,8 @@ An overview of doing good work
 
 * [Tidy data and the tidyverse](docs/TidyData.md)
 
+* [Coding practice](docs/CodingPractice.md)
+
 * [Relational databases -- SQL and beyond](docs/RelationalDatabases.md)
 
 
