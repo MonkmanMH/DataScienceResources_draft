@@ -1,6 +1,6 @@
 # DataScienceResources
 
-A rough compendium of resources that cover data science topics (a.k.a. statistics, econometrics, actuarial science, etc.). These will cover general theory, methodology, applications, and R tools and methods. The emphasis will be on web resources, although published texts will also be included where appropriate.
+A rough compendium of resources that cover data science topics (a.k.a. statistics, econometrics, actuarial science, etc.). These will cover general theory, methodology, applications, and R tools and methods. The listing is not intended to be comprehensive, but will be resources I find as part of my projects or random happenstance. The emphasis will be on web resources, although published texts will also be included where appropriate.
 
 **[webpage version](http://monkmanmh.github.io/DataScienceResources/)**
 
@@ -18,6 +18,10 @@ An overview of doing good work
 
 * [Relational databases -- SQL and beyond](docs/RelationalDatabases.md)
 
+
+### Using R
+
+* [RStudio, the IDE of choice](docs/RStudio.md)
 
 ### Data Sources & How to Read Them
 
