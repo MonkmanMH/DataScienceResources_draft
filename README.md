@@ -23,6 +23,9 @@ An overview of doing good work
 
 * [RStudio, the IDE of choice](docs/RStudio.md)
 
+* [R Markdown](docs/RMarkdown.md)
+
+
 ### Data Sources & How to Read Them
 
 * [Data Sources & How to Read Them](docs/DataSources.md)
