@@ -24,6 +24,20 @@ The concept was introduced by Donald Knuth in 1984; the original article is
 
 Andy Lester, ["The World's Two Worst Variable Names"](http://archive.oreilly.com/pub/post/the_worlds_two_worst_variable.html)
 
+
+#### Clean coding 
+
+Robert C. Martin, 2008, _Clean Code: A Handbook of Agile Software Development_, Prentice Hall.
+
+Robert C. Martin, 2011, _The Clean Coder: A Code of Conduct for Professional Programmers_, Prentice Hall.
+
+
+#### Further reading
+
+Dani Marillas, 2017-01-25, ["Don’t document your code. Code your documentation."](https://dev.to/raddikx/dont-document-your-code-code-your-documentation)
+
+
+
 ---
 ### R
 
