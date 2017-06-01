@@ -16,6 +16,8 @@ Gelman, Andrew, et al. (2014) _Bayesian Data Analysis_, (3rd edition). (see chap
 
 Karen Grace-Martin (2016?) ["Two Recommended Solutions for Missing Data: Multiple Imputation and Maximum Likelihood"](http://www.theanalysisfactor.com/missing-data-two-recommended-solutions/)
 
+Karen Grace-Martin, ["Two Recommended Solutions for Missing Data: Multiple Imputation and Maximum Likelihood"](http://www.theanalysisfactor.com/missing-data-two-recommended-solutions/)
+
 ---
 ### R
 
