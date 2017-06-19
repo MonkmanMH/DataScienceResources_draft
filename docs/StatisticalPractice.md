@@ -9,6 +9,10 @@ How does one approach a statistics or data science project?
 
 * Ray Li (2016) ["7 habits of highly effective data analysis"](http://dataconomy.com/2016/02/7-habits-of-highly-effective-data-analysis/). [Dataconomy.com](Dataconomy.com), 2016-02-16.
 
+
+* Gabe Becker (2017) [Enhancing reproducibility, comparability and discoverability of results in multi-analyst settings](https://www.slideshare.net/GabrielBecker11/enhancing-reproducibility-comparability-and-discoverability-of-results-in-multianalyst-settings), presentation at EARL (Enterprise Applications of R Language), San Francisco, June 5-7, 2017
+
+
 ---
 
 ### Agile practice
