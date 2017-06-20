@@ -12,7 +12,7 @@ How does one approach a statistics or data science project?
 
 * Gabe Becker (2017) [Enhancing reproducibility, comparability and discoverability of results in multi-analyst settings](https://www.slideshare.net/GabrielBecker11/enhancing-reproducibility-comparability-and-discoverability-of-results-in-multianalyst-settings), presentation at EARL (Enterprise Applications of R Language), San Francisco, June 5-7, 2017
 
- - this came to my attention via the Not So Standard Deviations podcast, [episode 40 "It's the CDs All Over Again"](https://www.patreon.com/posts/episode-40-its-11713845) (2017-06-13). The discussion of Gabe Becker's presentation begins at ~13' 10".
+  -- this came to my attention via the Not So Standard Deviations podcast, [episode 40 "It's the CDs All Over Again"](https://www.patreon.com/posts/episode-40-its-11713845) (2017-06-13). The discussion of Gabe Becker's presentation begins at ~13' 10".
 
 
 ---
