@@ -16,6 +16,8 @@ How does one approach a statistics or data science project?
   -- some of Hilary Parker's observations: the topic doesn't get much air time, takes wide view of issues in an organization, trade-offs in collaborative (not one analyst); multi-analyst system (researcher/biologist, statistician) have to reconcile results, parallel studies where results need to be reconciled, >> need to be created in similar environments. 
   -- Concerns: reproducibity, comparability,  discoverability (finding the results), and empowerment. Data scientists skew to emppowerment!  But the concerns are in tension--you can increase reproducibility but at cost of empowerment, etc.
   -- "Most organizations aren't making that judgement call ahead of time...any organization ... if data scientists were there early, you're going to be skewed to agility and high empowerment. Because that's like what we want! ... Data scientists are allergic to process...having any template for results, or ... even having to put things into a specific tool."
+  -- Different systems need different constraints.
+  -- Roger Peng: most organizations don't realize that they are explicitly making these trade-offs, can't maximize all. Have to make a choice, and that's very unsatisfactory for people.
 
 
 ---
