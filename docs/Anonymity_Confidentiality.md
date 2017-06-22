@@ -147,6 +147,13 @@ Jan Górecki (2014), ["Data anonymization in R"](https://jangorecki.github.io/bl
 * [alternate source](https://www.r-bloggers.com/data-anonymization-in-r/)
 
 
+#### `obfuscateR`
+
+github page: [PedramNavid/obfuscateR](https://github.com/PedramNavid/obfuscateR)
+
+(Note: this package has not been submitted to CRAN, and is clearly in development/stalled)
+
+
 #### `sdcMicro`
 
 **package**
