@@ -134,6 +134,9 @@ Meghan O’Malley, Lawrence R. Ernst, ["Practical Considerations in Applying the
 
 Daniel Abril, Guillermo Navarro-Arribas and Vicenç Torra (2015) ["Data Privacy with R"](https://www.researchgate.net/publication/265020739_Data_Privacy_with_R), researchgate.net, 2015-07-10.
 
+John Mount (1012) ["Modeling Trick: Masked Variables"](http://www.win-vector.com/blog/2012/07/modeling-trick-masked-variables/)
+
+
 
 #### `digest`
 
