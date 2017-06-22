@@ -108,6 +108,8 @@ Leon Willenborg and Ton de Wall, 1996: [_Statistical Disclosure Control in Pract
 
 #### cell perturbation
 
+Jean-Louis Tambay, 2017: ["A layered perturbation method for the protection of tabular outputs"](http://www5.statcan.gc.ca/olc-cel/olc.action?objId=12-001-X201700114818&objType=47&lang=en&limit=0), _Survey Methodology_ (12-001-X), Statistics Canada, [vol. 43, no. 1](http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=12-001-X&ObjType=2&lang=en&Limit=0).
+
 Gwenda Thompson, Stephen Broadfoot, Daniel Elazar, 2013: ["Methodology for the Automatic Confidentialisation of Statistical Outputs from Remote Servers at the Australian Bureau of Statistics"](https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.46/2013/Topic_1_ABS.pdf), Joint UNECE/Eurostat work session on statistical data confidentiality, Ottawa, Canada, 28-30 October 2013. 
 
 
