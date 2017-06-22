@@ -70,7 +70,7 @@ The topics thus far:
 
 Protecting the anonymity and confidentiality of individuals (whether the data are from administrative records or surveys) is essential.
 
-The methods associated with this protection are sometimes refered to as "statistical disclosure control".
+The methods associated with this protection are sometimes refered to by the umbrella topics of "statistical disclosure control" and "data masking".
 
 * [Anonymity and confidentiality](docs/Anonymity_Confidentiality.md)
 
