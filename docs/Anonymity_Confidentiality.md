@@ -1,5 +1,5 @@
 # Anonymity and Confidentiality
-## _Or,_ Statistical Disclosure Control
+## _Or,_ Statistical Disclosure Control and Masking
 
 ### Introduction
 
@@ -13,6 +13,12 @@ released without giving away confidential information that can be linked to spec
 individuals or entities. (Hundepool et al., 2012, p.1)
 
 This role means much of the material on the topic comes directly or indirectly from those agencies (see, for example, the Australian National Statistical Service and Statistics Canada publications listed below).
+
+A related topic is data masking, "the process of hiding original data with random characters or data." 
+
+> The main reason for applying masking to a data field is to protect data that is classified as personal identifiable data, personal sensitive data or commercially sensitive data, however the data must remain usable for the purposes of undertaking valid test cycles. It must also look real and appear consistent.
+[Data masking page at Wikipedia](https://en.wikipedia.org/wiki/Data_masking)
+
 
 #### Laws, Ethics, and Morals
 
