@@ -126,6 +126,21 @@ Meghan O’Malley, Lawrence R. Ernst, ["Practical Considerations in Applying the
 ---
 ### R
 
+Daniel Abril, Guillermo Navarro-Arribas and Vicenç Torra (2015) ["Data Privacy with R"](https://www.researchgate.net/publication/265020739_Data_Privacy_with_R), researchgate.net, 2015-07-10.
+
+
+#### `digest`
+
+**package**
+
+CRAN page: [digest: Create Compact Hash Digests of R Objects](https://cran.r-project.org/web/packages/digest/index.html)
+
+**articles**
+
+Jan Górecki (2014), ["Data anonymization in R"](https://jangorecki.github.io/blog/2014-11-07/Data-Anonymization-in-R.html)
+* [alternate source](https://www.r-bloggers.com/data-anonymization-in-r/)
+
+
 #### `sdcMicro`
 
 **package**
