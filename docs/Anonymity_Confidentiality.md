@@ -134,8 +134,6 @@ Meghan O’Malley, Lawrence R. Ernst, ["Practical Considerations in Applying the
 ---
 ### R
 
-Daniel Abril, Guillermo Navarro-Arribas and Vicenç Torra (2015) ["Data Privacy with R"](https://www.researchgate.net/publication/265020739_Data_Privacy_with_R), researchgate.net, 2015-07-10.
-
 John Mount (1012) ["Modeling Trick: Masked Variables"](http://www.win-vector.com/blog/2012/07/modeling-trick-masked-variables/)
 
 
@@ -174,6 +172,10 @@ Matthias Templ, ["Statistical Disclosure Control for Microdata Using the R-Packa
 Matthias Templ, Bernhard Meindl and Alexander Kowarik, [Introduction to Statistical Disclosure Control (SDC)](https://cran.r-project.org/web/packages/sdcMicro/vignettes/sdc_guidelines.pdf), 2015
 
 Alexander Kowarik and Matthias Templ, ["Make Your Data Confidential with the sdcMicro and sdcMicroGUI packages"](https://www.researchgate.net/publication/261507879_Make_Your_Data_Confidential_with_the_sdcMicro_and_sdcMicroGUI_packages), 2012
+
+Daniel Abril, Guillermo Navarro-Arribas and Vicenç Torra (2015) ["Data Privacy with R"](https://www.researchgate.net/publication/265020739_Data_Privacy_with_R), researchgate.net, 2015-07-10.
+
+
 
 #### `sdcMicroGUI`
 
