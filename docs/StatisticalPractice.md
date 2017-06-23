@@ -10,6 +10,10 @@ How does one approach a statistics or data science project?
 * Ray Li (2016) ["7 habits of highly effective data analysis"](http://dataconomy.com/2016/02/7-habits-of-highly-effective-data-analysis/). [Dataconomy.com](Dataconomy.com), 2016-02-16.
 
 
+* ["Good enough practices in scientific computing"](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+
+  - Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510
+
 * Gabe Becker (2017) [Enhancing reproducibility, comparability and discoverability of results in multi-analyst settings](https://www.slideshare.net/GabrielBecker11/enhancing-reproducibility-comparability-and-discoverability-of-results-in-multianalyst-settings), presentation at EARL (Enterprise Applications of R Language), San Francisco, June 5-7, 2017
 
   -- this came to my attention via the Not So Standard Deviations podcast, [episode 40 "It's the CDs All Over Again"](https://www.patreon.com/posts/episode-40-its-11713845) (2017-06-13). The discussion of Gabe Becker's presentation begins at ~13' 10".
