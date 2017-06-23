@@ -137,32 +137,16 @@ Meghan O’Malley, Lawrence R. Ernst, ["Practical Considerations in Applying the
 John Mount (1012) ["Modeling Trick: Masked Variables"](http://www.win-vector.com/blog/2012/07/modeling-trick-masked-variables/)
 
 
-
-#### `digest`
-
-**package**
-
-CRAN page: [digest: Create Compact Hash Digests of R Objects](https://cran.r-project.org/web/packages/digest/index.html)
-
-**articles**
-
-Jan Górecki (2014), ["Data anonymization in R"](https://jangorecki.github.io/blog/2014-11-07/Data-Anonymization-in-R.html)
-* [alternate source](https://www.r-bloggers.com/data-anonymization-in-r/)
-
-
-#### `obfuscateR`
-
-(Note: this package has not been submitted to CRAN, and is clearly in development/stalled)
-
-github page: [PedramNavid/obfuscateR](https://github.com/PedramNavid/obfuscateR)
-
-
-
 #### `sdcMicro`
+
+`sdcMicro` is the best available SDC tool I have found in the R space, so I've given it top-billing rather than my usual alpabetical listing.
 
 **package**
 
 CRAN page: [sdcMicro: Statistical Disclosure Control Methods for Anonymization of Microdata and Risk Estimation](https://cran.r-project.org/web/packages/sdcMicro/index.html)
+
+github page: [sdcMicro](https://github.com/sdcTools) (note: this is a sub-page for for a broader set of SDC tools)
+
 
 **articles**
 
@@ -187,6 +171,28 @@ CRAN page: [sdcMicroGUI: Graphical User Interface for Package 'sdcMicro'](https:
 **articles**
 
 Matthias Templ, Bernhard Meindl and Alexander Kowarik, [Tutorial for sdcMicroGUI (and sdcMicro)](https://cran.r-project.org/web/packages/sdcMicroGUI/vignettes/gui_tutorial.pdf), 2015
+
+
+#### `digest`
+
+**package**
+
+CRAN page: [digest: Create Compact Hash Digests of R Objects](https://cran.r-project.org/web/packages/digest/index.html)
+
+**articles**
+
+Jan Górecki (2014), ["Data anonymization in R"](https://jangorecki.github.io/blog/2014-11-07/Data-Anonymization-in-R.html)
+* [alternate source](https://www.r-bloggers.com/data-anonymization-in-r/)
+
+
+#### `obfuscateR`
+
+(Note: this package has not been submitted to CRAN, and is clearly in development/stalled)
+
+github page: [PedramNavid/obfuscateR](https://github.com/PedramNavid/obfuscateR)
+
+
+
 
 
 ---
