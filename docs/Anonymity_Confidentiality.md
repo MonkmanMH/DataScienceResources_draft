@@ -152,9 +152,10 @@ Jan Górecki (2014), ["Data anonymization in R"](https://jangorecki.github.io/bl
 
 #### `obfuscateR`
 
+(Note: this package has not been submitted to CRAN, and is clearly in development/stalled)
+
 github page: [PedramNavid/obfuscateR](https://github.com/PedramNavid/obfuscateR)
 
-(Note: this package has not been submitted to CRAN, and is clearly in development/stalled)
 
 
 #### `sdcMicro`
@@ -169,7 +170,7 @@ CRAN page: [sdcMicro: Statistical Disclosure Control Methods for Anonymization o
 
 Matthias Templ, ["Statistical Disclosure Control for Microdata Using the R-Package sdcMicro"](http://www.tdp.cat/issues/tdp.a004a08.pdf), _Transactions on Data Privacy_ 1 (2008) 67–85.
 
-Matthias Templ, Bernhard Meindl and Alexander Kowarik, [Introduction to Statistical Disclosure Control (SDC)](https://cran.r-project.org/web/packages/sdcMicro/vignettes/sdc_guidelines.pdf), 2015
+Matthias Templ, Bernhard Meindl and Alexander Kowarik, [Introduction to Statistical Disclosure Control (SDC)](https://cran.r-project.org/web/packages/sdcMicro/vignettes/sdc_guidelines.pdf), 2015/2017
 
 Alexander Kowarik and Matthias Templ, ["Make Your Data Confidential with the sdcMicro and sdcMicroGUI packages"](https://www.researchgate.net/publication/261507879_Make_Your_Data_Confidential_with_the_sdcMicro_and_sdcMicroGUI_packages), 2012
 
