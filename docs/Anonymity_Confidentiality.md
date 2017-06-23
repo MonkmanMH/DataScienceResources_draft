@@ -103,6 +103,8 @@ Anco Hundepool, Josep Domingo-Ferrer, Luisa Franconi, Sarah Giessing, Eric Schul
 
 Leon Willenborg and Ton de Wall, 1996: [_Statistical Disclosure Control in Practice_](http://www.springer.com/gp/book/9780387947228), Springer (Lecture Notes in Statistics 111).
 
+Sharon Hewitt, ["Making Test Data Realistic – Without Taking It from Production"](http://www.iri.com/blog/test-data/making-realistic-test-data-production/) (iri.com)
+
 ---
 ### Specific methods
 
