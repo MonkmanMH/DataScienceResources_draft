@@ -102,7 +102,7 @@ Anco Hundepool, Josep Domingo-Ferrer, Luisa Franconi, Sarah Giessing, Eric Schul
 * Essentially a handbook of methods to ensure the privacy of individuals, it covers both microdata (individual records) and tabular data, recognizing the inherent differences in the risks associated with each.
 
 Leon Willenborg and Ton de Wall, 1996: [_Statistical Disclosure Control in Practice_](http://www.springer.com/gp/book/9780387947228), Springer (Lecture Notes in Statistics 111).
-
+ 
 Sharon Hewitt, ["Making Test Data Realistic – Without Taking It from Production"](http://www.iri.com/blog/test-data/making-realistic-test-data-production/) (iri.com)
 
 ---
@@ -204,4 +204,4 @@ github page: [PedramNavid/obfuscateR](https://github.com/PedramNavid/obfuscateR)
 
 Benjamin Bengfort, ["A Practical Guide to Anonymizing Datasets with Python & Faker: How Not to Lose Friends and Alienate People"](http://blog.districtdatalabs.com/a-practical-guide-to-anonymizing-datasets-with-python-faker), 2016
 
-
+ 
