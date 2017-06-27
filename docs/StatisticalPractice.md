@@ -31,6 +31,13 @@ How does one approach a statistics or data science project?
 
 ---
 
+### Data Informed or Data Driven?
+
+[The Stitch Fix Algorithms Tour](http://algorithms-tour.stitchfix.com/)
+
+
+---
+
 ### Agile practice
 
 [Agile Scrum Guide](http://agile-guide.pathfinder.bcgov/), BC Government DevEx
