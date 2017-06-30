@@ -50,7 +50,11 @@ The topics thus far:
 * [Raking](docs/Raking.md) (also known as _iterative proportional fitting procedure_, or IPFP)
 
 * [Seasonal adjustment](docs/SeasonalAdjustment.md)
- 
+
+* [Small area estimation (SAE)](docs/SmallAreaEstimation.md)
+
+
+
 
 ### Statistics
 
