@@ -32,6 +32,8 @@ Pfeffermann, Danny (2002) ["Small Area Estimation – New Developments and Direc
 
 Phadia, Eswar G. (2016) _Prior Processes and Their Applications: Nonparametric Bayesian Estimation (2nd ed.)_, Springer.
 
+Rahman, Azizur and Ann Harding (2017) [_Small Area Estimation and Microsimulation Modeling_](https://www.crcpress.com/Small-Area-Estimation-and-Microsimulation-Modeling/Rahman-Harding/p/book/9781482260724) (CRC Press page)
+
 Rao, J. N. K. (2003). _Small Area Estimation_. John Wiley & Sons, Inc., Hoboken, New Jersey.
 
 Wieczorek, Jerzy (2013) [Small Area Estimation resources](http://civilstat.com/2013/02/small-area-estimation-resources/), at [civilstat.com](http://civilstat.com/)
