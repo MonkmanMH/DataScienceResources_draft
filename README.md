@@ -27,6 +27,8 @@ An overview of doing good work
 
 * [R Markdown](docs/RMarkdown.md)
 
+* [Data wrangling techniques](docs/DataWrangling.md)
+
 
 ### Data Sources & How to Read Them
 
