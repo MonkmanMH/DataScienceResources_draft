@@ -1,5 +1,9 @@
 # Relational databases: SQL and beyond
 
+
+**Start here** [Using databases with R](http://db.rstudio.com/) -- from RStudio
+
+
 ## SQL tutorials
 
 * [What Every Data Scientist Needs to Know about SQL](http://joshualande.com/data-science-sql)
