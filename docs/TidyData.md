@@ -51,6 +51,11 @@ github: [hadley/dplyr](https://github.com/hadley/dplyr)
 * [Introduction to dplyr](http://stat545.com/block009_dplyr-intro.html), part of the UBC [STAT545: Data wrangling, exploration, and analysis with R](http://stat545.com/index.html) course materials
 
 
+#### `purrr`
+
+* [A purrr tutorial](https://github.com/Cascadia-R/purrr-tutorial) -- Cascadia-R, 2017-06-03
+
+
 ### more about tidy data
 
 * Hadley Wickham & Garrett Grolemund, [_R for Data Science_](http://r4ds.had.co.nz/)
@@ -60,6 +65,9 @@ github: [hadley/dplyr](https://github.com/hadley/dplyr)
 
 * Garrett Grolemund
   + [Data Tidying](http://garrettgman.github.io/tidying/) (part of [Data Science with R](http://garrettgman.github.io/))
+  
+* Chester Ismay and Ted Laderas, [A gRadual-intRoduction to the tidyverse](https://github.com/Cascadia-R/gRadual-intRoduction-tidyverse?utm_content=buffer98896&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+  
 
 
 ## Tidy Text
