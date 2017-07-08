@@ -53,6 +53,11 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 [Mosaic or Marimekko charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
 
 
+#### Joyplot
+
+[Sports: Time of Day](https://github.com/halhen/viz-pub/tree/master/sports-time-of-day)
+
+* [plot code](https://github.com/halhen/viz-pub/blob/master/sports-time-of-day/2_gen_chart.R)
 
 ---
 
