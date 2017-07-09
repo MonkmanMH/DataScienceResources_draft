@@ -59,6 +59,8 @@ The name "Joyplot" is a reference to the style of chart seen on the cover of Joy
 
 * Jen Christiansen, 2015-02-18, [Pop Culture Pulsar: Origin Story of Joy Division’s Unknown Pleasures Album Cover](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-origin-story-of-joy-division-s-unknown-pleasures-album-cover-video/) - _Scientific American_, [SA Visual](https://blogs.scientificamerican.com/sa-visual/) -- a great piece that traces the Joy Division album cover image directly back to the PhD dissertation of Harold D. Craft, Jr.
 
+  - Adam Cap, 2011-05-19 - 2016-02-13, [The History of Joy Division’s “Unknown Pleasures” Album Art](https://adamcap.com/2011/05/19/history-of-joy-division-unknown-pleasures-album-art/)
+
   - [Data Visualization, Reinterpreted by VISUALIZED](https://vimeo.com/51365288): Peter Saville on the Design + Effect of Joy Division's "Unknown Pleasures" - ([from Visualized](https://vimeo.com/visualized))
 
 ** joyplots in R **
