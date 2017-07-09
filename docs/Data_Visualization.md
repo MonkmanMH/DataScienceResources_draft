@@ -55,7 +55,13 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 
 #### Joyplot
 
-[Sports: Time of Day](https://github.com/halhen/viz-pub/tree/master/sports-time-of-day)
+The name "Joyplot" is a reference to the style of chart seen on the cover of Joy Division's debut album [_Unknown Pleasures_](https://en.wikipedia.org/wiki/Unknown_Pleasures) (1979).
+
+Alex Whan, 2016-03-24, [ggplot2 and Joy Division](http://alexwhan.com/2016-03-24-joy-division-plot) - at Incrutable Errors
+
+Mauricio Vargas S., 2016-11-08, [Joy Division’s Unknown PleasuRes](https://www.r-bloggers.com/joy-divisions-unknown-pleasures/) - at R-Bloggers
+
+Henrik Lindberg, [Sports: Time of Day](https://github.com/halhen/viz-pub/tree/master/sports-time-of-day)
 
 * [plot code](https://github.com/halhen/viz-pub/blob/master/sports-time-of-day/2_gen_chart.R)
 
