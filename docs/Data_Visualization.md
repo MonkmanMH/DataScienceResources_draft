@@ -57,6 +57,10 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 
 The name "Joyplot" is a reference to the style of chart seen on the cover of Joy Division's debut album [_Unknown Pleasures_](https://en.wikipedia.org/wiki/Unknown_Pleasures) (1979).
 
+* [Data Visualization, Reinterpreted by VISUALIZED](https://vimeo.com/51365288): Peter Saville on the Design + Effect of Joy Division's "Unknown Pleasures" - ([from Visualized](https://vimeo.com/visualized))
+
+** joyplots in R **
+
 Alex Whan, 2016-03-24, [ggplot2 and Joy Division](http://alexwhan.com/2016-03-24-joy-division-plot) - at Incrutable Errors
 
 Mauricio Vargas S., 2016-11-08, [Joy Division’s Unknown PleasuRes](https://www.r-bloggers.com/joy-divisions-unknown-pleasures/) - at R-Bloggers
