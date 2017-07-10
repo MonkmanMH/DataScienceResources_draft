@@ -73,6 +73,8 @@ Henrik Lindberg, [Sports: Time of Day](https://github.com/halhen/viz-pub/tree/ma
 
 * [plot code](https://github.com/halhen/viz-pub/blob/master/sports-time-of-day/2_gen_chart.R)
 
+[`ggjoy` package by Claus Wilke](https://github.com/clauswilke/ggjoy) -- github page
+
 ---
 
 ### Further Reading
