@@ -8,6 +8,10 @@ But start here:
 
 * Alan Smith, ["Data visualisation: it is not all about technology"](https://www.ft.com/content/aba6c58e-5a8e-11e7-9bc8-8055f264aa8b?accessToken=zwAAAVz0i_FYkdOrpsWOWo4R59ObyIBV8mSqiw.MEQCIFBdm394GSC6W-YIMME93SN8BgAuLEfyK8nFshbAiyu-AiBx6Qx4Ivd3qh-VSfIlwrf5tYKdnbGId1n0pzxZFUwDsQ&sharetype=gift), _Financial Times_, 2017-06-28
 
+#### General resources
+
+Tamara Munzer, [list and links to talks](http://www.cs.ubc.ca/~tmm/talks.html?utm_content=bufferd5cd8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#cj16)
+
 ---
 
 ### R Resources
