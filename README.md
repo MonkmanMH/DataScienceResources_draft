@@ -45,6 +45,8 @@ The topics thus far:
 
 * [Imputation of missing data (or missing values)](docs/MissingValue-Imputation.md)
 
+* [Machine Learning](docs/MachineLearning.md)
+
 * [Population pyramids](docs/PopulationPyramids.md)
 
 * [Quantile regression](docs/QuantileRegression.md)
