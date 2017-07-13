@@ -36,6 +36,8 @@ Kim, Jae-kwang, Seunghwan Park and Seo-young Kim (2015) ["Small area estimation 
 
 Longford, Nicholas T. (2005) _Missing Data and Small-Area Estimation: Modern Analytical Equipment for the Survey Statistician_. Springer.
 
+Longford, Nicholas T. (2006) ["Sample size calculation for small-area estimation"](http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=12-001-X20060019259&ObjType=47&lang=en), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol. 32, No. 1, pp. 87-96.
+
 Molina, Isabel, J.N.K. Rao and Gauri Sankar Datta (2015) ["Small area estimation under a Fay-Herriot model with preliminary testing for the presence of random area effects"](http://www.statcan.gc.ca/pub/12-001-x/2015001/article/14161-eng.htm), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol.41 No.1, June 2015.
 
 Pfeffermann, Danny (2002) ["Small Area Estimation – New Developments and Directions"](http://eprints.soton.ac.uk/38494/2/38494.pdf), International Statistical Review.
