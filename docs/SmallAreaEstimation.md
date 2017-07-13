@@ -15,7 +15,7 @@ Cadwell, Betsy L., Theodore J. Thompson, James P. Boyle and Lawrence E. Barker (
 
 Chen, C.X., T. Lumley and J. Wakefield (?) ["The Use of Sampling Weights in Bayesian Hierarchical Models for Small Area Estimation"](https://www.stat.washington.edu/research/reports/2011/tr583.pdf)_, Technical Report no.583, Department of Statistics, University of Washington, Seattle.
 
-Fox, Carla et al. (2016) ["Small Area Estimation: New Developments "](https://ssc.ca/en/2016-small-area-estimation-new-developments), Statistical Society of Canada.
+Fox, Carla et al. (2016) ["Small Area Estimation: New Developments "](https://ssc.ca/en/2016-small-area-estimation-new-developments), Statistical Society of Canada. (From [Statistical Society of Canada annual meeting, May 29 to June 1, 2016](https://ssc.ca/en/session-schedule-monday-may-30-2016#D1-I1).)
 
 Ghosh, M. and J. N. K. Rao (1994). "Small area estimation: An appraisal." _Statistical Science_ 9(1), 55–76.
 
