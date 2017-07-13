@@ -48,6 +48,8 @@ Rao, J. N. K. (2003). _Small Area Estimation_. John Wiley & Sons, Inc., Hoboken,
 
 Song, Lin; Laina Mercer; Jon Wakefield; Amy Laurent; David Solet (2016) ["Using Small-Area Estimation to Calculate the Prevalence of Smoking by Subcounty Geographic Areas in King County, Washington, Behavioral Risk Factor Surveillance System, 2009–2013"](https://www.cdc.gov/pcd/issues/2016/15_0536.htm), _Preventing Chronic Disease_ 2016; 13:150536
 
+Whitworth, Adam (ed.) (2013) [_Evaluations and improvements in small area estimation methodologies_](http://eprints.ncrm.ac.uk/3210/)
+
 Wieczorek, Jerzy (2013) [Small Area Estimation resources](http://civilstat.com/2013/02/small-area-estimation-resources/), at [civilstat.com](http://civilstat.com/)
 
 Wieczorek, Jerzy (2015) [Small Area Estimation 101: old materials posted](http://civilstat.com/2015/04/small-area-estimation-101-old-materials-posted/), at [civilstat.com](http://civilstat.com/)
@@ -72,6 +74,8 @@ U.S. Census Bureau, [Center for Statistical Research and Methodology: Small Area
 #### Academic community
 
 [Mahmoud Torabi](http://umanitoba.ca/faculties/health_sciences/medicine/units/chs/faculty_and_staff/4837.html), University of Manitoba, Rady Faculty of Health Sciences.
+
+[Adam Whitworth](https://www.sheffield.ac.uk/geography/staff/whitworth_adam/ncrm)
 
 ---
 ### R
