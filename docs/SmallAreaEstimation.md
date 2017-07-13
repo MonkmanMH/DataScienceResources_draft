@@ -9,6 +9,8 @@ Many of these approaches are based upon Bayesian hierarchical models (see Gómez
 ---
 ### Theory and methods
 
+Australian Bureau of Statistics, Methodology Advisory Committee (2009) [Small Area Estimation with Simulated Samples from the Population Census](http://www.abs.gov.au/ausstats/abs@.nsf/mf/1352.0.55.106), research paper.
+
 BIAS Project. http://www.bias-project.org.uk
 
 Cadwell, Betsy L., Theodore J. Thompson, James P. Boyle and Lawrence E. Barker (2010) ["Bayesian Small Area Estimates of Diabetes Prevalence by U.S. County, 2005"](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwisj47SqsvPAhUUHGMKHa-9AB4QFggeMAA&url=http%3A%2F%2Fwww.jds-online.com%2Ffile_download%2F239%2FJDS-650.pdf&usg=AFQjCNG9xh-s5GcntozTl2vf-zWoNVFhKQ&sig2=hRZklC7V_USYwmbZdXzW4Q), _Journal of Data Science_, 8, 173-188.
@@ -30,6 +32,8 @@ Hidiroglou, Michael (2007) "[Small-Area Estimation: Theory and Practice](https:/
 
 Holt, D. and Fernando A.S. Moura (1999) ["Small area estimation using multilevel models"](http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=12-001-X19990014714&ObjType=47&lang=en), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol.25 No.1,, pp.73-80, June 2015.
 
+Jiang, Jiming (2010) [_Large Sample Techniques for Statistics_](https://link.springer.com/chapter/10.1007%2F978-1-4419-6827-2_13) (Chapter 13, "Small-Area Estimation).
+
 Kim, Jae-kwang, Seunghwan Park and Seo-young Kim (2015) ["Small area estimation combining information from several sources"](http://www.statcan.gc.ca/pub/12-001-x/2015001/article/14150-eng.pdf), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol.41 No.1, June 2015.
 
 Longford, Nicholas T. (2005) _Missing Data and Small-Area Estimation: Modern Analytical Equipment for the Survey Statistician_. Springer.
@@ -45,6 +49,8 @@ Phadia, Eswar G. (2016) _Prior Processes and Their Applications: Nonparametric B
 Rahman, Azizur and Ann Harding (2017) [_Small Area Estimation and Microsimulation Modeling_](https://www.crcpress.com/Small-Area-Estimation-and-Microsimulation-Modeling/Rahman-Harding/p/book/9781482260724) (CRC Press page)
 
 Rao, J. N. K. (2003). _Small Area Estimation_. John Wiley & Sons, Inc., Hoboken, New Jersey.
+
+Seliske, L., T. A. Norwood, J. R. McLaughlin, S. Wang, C. Palleschi and E. Holowaty (2016) ["Estimating micro area behavioural risk factor prevalence from large population-based surveys: a full Bayesian approach"](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-016-3144-4), _BMC Public Health_.
 
 Song, Lin; Laina Mercer; Jon Wakefield; Amy Laurent; David Solet (2016) ["Using Small-Area Estimation to Calculate the Prevalence of Smoking by Subcounty Geographic Areas in King County, Washington, Behavioral Risk Factor Surveillance System, 2009–2013"](https://www.cdc.gov/pcd/issues/2016/15_0536.htm), _Preventing Chronic Disease_ 2016; 13:150536
 
