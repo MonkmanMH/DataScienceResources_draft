@@ -57,6 +57,11 @@ Zhang, Xingyou, James B. Holt, Hua Lu, Anne G. Wheaton, Earl S. Ford, Kurt J. Gr
 
 Zhou, Qian and Yong You (2011) [_Hierarchical Bayes small area estimation under a spatial model with application to health survey data_](http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=12-001-X201100111445&ObjType=47&lang=en), Statistics Canada, Survey Methodology Series (12-001-X)
 
+
+#### Academics
+
+[Mahmoud Torabi](http://umanitoba.ca/faculties/health_sciences/medicine/units/chs/faculty_and_staff/4837.html), University of Manitoba, Rady Faculty of Health Sciences.
+
 ---
 ### R
 
