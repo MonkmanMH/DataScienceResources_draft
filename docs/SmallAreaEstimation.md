@@ -26,7 +26,11 @@ Gómez-Rubio, V., N. Best, S. Richardson and P. Clarke (2007) [_Bayesian Statist
 
 Gómez-Rubio, V., N. Best, S. Richardson and G. Li (2010) "[Bayesian Statistics for Small Area Estimation](http://www.bias-project.org.uk/papers/BayesianSAE.pdf)" [alternate source via ResearchGate](https://www.researchgate.net/publication/228918362_Bayesian_Statistics_Small_Area_Estimation)
 
+Hidiroglou, Michael (2007) "[Small-Area Estimation: Theory and Practice](https://ww2.amstat.org/sections/srms/Proceedings/y2007/Files/JSM2007-000789.pdf)", _Proceedings of the Joint Statistical Meetings: Section on Survey Research Methods_
+
 Longford, Nicholas T. (2005) _Missing Data and Small-Area Estimation: Modern Analytical Equipment for the Survey Statistician_. Springer.
+
+Molina, Isabel, J.N.K. Rao and Gauri Sankar Datta (2015) ["Small area estimation under a Fay-Herriot model with preliminary testing for the presence of random area effects"](http://www.statcan.gc.ca/pub/12-001-x/2015001/article/14161-eng.htm), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol.41 No.1, June 2015.
 
 Pfeffermann, Danny (2002) ["Small Area Estimation – New Developments and Directions"](http://eprints.soton.ac.uk/38494/2/38494.pdf), International Statistical Review.
 
