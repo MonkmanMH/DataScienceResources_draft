@@ -15,8 +15,6 @@ Cadwell, Betsy L., Theodore J. Thompson, James P. Boyle and Lawrence E. Barker (
 
 Chen, C.X., T. Lumley and J. Wakefield (?) ["The Use of Sampling Weights in Bayesian Hierarchical Models for Small Area Estimation"](https://www.stat.washington.edu/research/reports/2011/tr583.pdf)_, Technical Report no.583, Department of Statistics, University of Washington, Seattle.
 
-Fox, Carla et al. (2016) ["Small Area Estimation: New Developments "](https://ssc.ca/en/2016-small-area-estimation-new-developments), Statistical Society of Canada. (From [Statistical Society of Canada annual meeting, May 29 to June 1, 2016](https://ssc.ca/en/session-schedule-monday-may-30-2016#D1-I1).)
-
 Ghosh, M. and J. N. K. Rao (1994). "Small area estimation: An appraisal." _Statistical Science_ 9(1), 55–76.
 
 Goldstein, H. and D. J. Spiegelhalter (1996). "League tables and their limitations: Statistical issues in comparisons of institutional performance (with discussion)." _Journal of the Royal Statistical Society_, Series A 159(3), 385–443.
@@ -48,6 +46,8 @@ Rahman, Azizur and Ann Harding (2017) [_Small Area Estimation and Microsimulatio
 
 Rao, J. N. K. (2003). _Small Area Estimation_. John Wiley & Sons, Inc., Hoboken, New Jersey.
 
+Song, Lin; Laina Mercer; Jon Wakefield; Amy Laurent; David Solet (2016) ["Using Small-Area Estimation to Calculate the Prevalence of Smoking by Subcounty Geographic Areas in King County, Washington, Behavioral Risk Factor Surveillance System, 2009–2013"](https://www.cdc.gov/pcd/issues/2016/15_0536.htm), _Preventing Chronic Disease_ 2016; 13:150536
+
 Wieczorek, Jerzy (2013) [Small Area Estimation resources](http://civilstat.com/2013/02/small-area-estimation-resources/), at [civilstat.com](http://civilstat.com/)
 
 Wieczorek, Jerzy (2015) [Small Area Estimation 101: old materials posted](http://civilstat.com/2015/04/small-area-estimation-101-old-materials-posted/), at [civilstat.com](http://civilstat.com/)
@@ -60,7 +60,16 @@ Zhang, Xingyou, James B. Holt, Hua Lu, Anne G. Wheaton, Earl S. Ford, Kurt J. Gr
 Zhou, Qian and Yong You (2011) [_Hierarchical Bayes small area estimation under a spatial model with application to health survey data_](http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=12-001-X201100111445&ObjType=47&lang=en), Statistics Canada, Survey Methodology Series (12-001-X)
 
 
-#### Academics
+#### Conferences, symposia, and other confabs
+
+[Statistical Society of Canada annual meeting, May 29 to June 1, 2016](https://ssc.ca/en/session-schedule-monday-may-30-2016#D1-I1):  ["Small Area Estimation: New Developments"](https://ssc.ca/en/2016-small-area-estimation-new-developments), Statistical Society of Canada.
+
+U.S. Census Bureau, [Center for Statistical Research and Methodology: Small Area Estimation](https://www.census.gov/srd/csrm/SmallArea.html)
+
+[Fields Institute Symposium on the Analysis of Survey Data and Small Area Estimation](https://www.fields.utoronto.ca/programs/scientific/11-12/surveydata/abstracts.html), 2012
+
+
+#### Academic community
 
 [Mahmoud Torabi](http://umanitoba.ca/faculties/health_sciences/medicine/units/chs/faculty_and_staff/4837.html), University of Manitoba, Rady Faculty of Health Sciences.
 
