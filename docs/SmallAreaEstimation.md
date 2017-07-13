@@ -15,6 +15,8 @@ Cadwell, Betsy L., Theodore J. Thompson, James P. Boyle and Lawrence E. Barker (
 
 Chen, C.X., T. Lumley and J. Wakefield (?) ["The Use of Sampling Weights in Bayesian Hierarchical Models for Small Area Estimation"](https://www.stat.washington.edu/research/reports/2011/tr583.pdf)_, Technical Report no.583, Department of Statistics, University of Washington, Seattle.
 
+Fox, Carla et al. (2016) ["Small Area Estimation: New Developments "](https://ssc.ca/en/2016-small-area-estimation-new-developments), Statistical Society of Canada.
+
 Ghosh, M. and J. N. K. Rao (1994). "Small area estimation: An appraisal." _Statistical Science_ 9(1), 55–76.
 
 Goldstein, H. and D. J. Spiegelhalter (1996). "League tables and their limitations: Statistical issues in comparisons of institutional performance (with discussion)." _Journal of the Royal Statistical Society_, Series A 159(3), 385–443.
@@ -27,6 +29,10 @@ Gómez-Rubio, V., N. Best, S. Richardson and P. Clarke (2007) [_Bayesian Statist
 Gómez-Rubio, V., N. Best, S. Richardson and G. Li (2010) "[Bayesian Statistics for Small Area Estimation](http://www.bias-project.org.uk/papers/BayesianSAE.pdf)" [alternate source via ResearchGate](https://www.researchgate.net/publication/228918362_Bayesian_Statistics_Small_Area_Estimation)
 
 Hidiroglou, Michael (2007) "[Small-Area Estimation: Theory and Practice](https://ww2.amstat.org/sections/srms/Proceedings/y2007/Files/JSM2007-000789.pdf)", _Proceedings of the Joint Statistical Meetings: Section on Survey Research Methods_
+
+Holt, D. and Fernando A.S. Moura (1999) ["Small area estimation using multilevel models"](http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=12-001-X19990014714&ObjType=47&lang=en), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol.25 No.1,, pp.73-80, June 2015.
+
+Kim, Jae-kwang, Seunghwan Park and Seo-young Kim (2015) ["Small area estimation combining information from several sources"](http://www.statcan.gc.ca/pub/12-001-x/2015001/article/14150-eng.pdf), _Survey Methodology_ (cat. 12-001-X), Statistics Canada, Vol.41 No.1, June 2015.
 
 Longford, Nicholas T. (2005) _Missing Data and Small-Area Estimation: Modern Analytical Equipment for the Survey Statistician_. Springer.
 
