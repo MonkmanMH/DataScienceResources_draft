@@ -57,6 +57,8 @@ The topics thus far:
 
 * [Small area estimation (SAE)](docs/SmallAreaEstimation.md)
 
+* [Time series analysis](docs/TimeSeries.md)
+
 
 
 
