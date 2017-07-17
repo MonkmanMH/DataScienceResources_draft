@@ -19,6 +19,17 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 [R database interfaces](http://www.burns-stat.com/r-database-interfaces/)
 
 
+
+#### `googledrive`
+
+**package**
+
+CRAN page: [copy-paste from the cran page](cran link)
+
+tidyverse page: [`googledrive`](https://tidyverse.github.io/googledrive/)
+
+
+
 #### `foreign`
 
 **package**
