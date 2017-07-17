@@ -24,7 +24,7 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 
 **package**
 
-CRAN page: [copy-paste from the cran page](cran link)
+CRAN page: _currently only development version_, see tidyverse link below 
 
 tidyverse page: [`googledrive`](https://tidyverse.github.io/googledrive/)
 
