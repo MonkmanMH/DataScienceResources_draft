@@ -57,6 +57,8 @@ The topics thus far:
 
 * [Small area estimation (SAE)](docs/SmallAreaEstimation.md)
 
+* [Structural equation modeling (SEM)](docs/SEM.md)
+
 * [Time series analysis](docs/TimeSeries.md)
 
 
