@@ -26,6 +26,7 @@ CRAN page: [lavaan: Latent Variable Analysis](https://cran.r-project.org/web/pac
 
 Yves Rosseel, 2012-05-24, ["lavaan: An R Package for Structural Equation Modeling"](https://www.jstatsoft.org/article/view/v048i02), _Journal of Statistical Software_, Vol. 48, Issue 2.
 
+Grace Charles, 2015-05-20, [First Steps with Structural Equation Modeling](https://www.r-bloggers.com/first-steps-with-structural-equation-modeling/) -- blog post by Noam Ross, re: Charles' presention at Davis R Users' Group. 
 
 #### `sem`
 
