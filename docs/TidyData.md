@@ -30,6 +30,11 @@ For more about the principles of tidy data, see:
   + [informal and code-heavy version](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
  
 
+### Other references
+
+Karl Broman and Kara Woo, ["Data organization in spreadsheets"](https://github.com/kbroman/Paper_DataOrg) (github page with source manuscript) -- application of tidy principles to spreadsheets.
+
+* see also Karl Broman's tutorial, ["Data organization: organizing data in spreadsheets"](http://kbroman.org/dataorg/)
 
 
 ## Tidy Tools
