@@ -17,6 +17,16 @@ See also
 ---
 ### R
 
+#### `padr`
+
+**package**
+
+CRAN page: [padr: Quickly Get Datetime Data Ready for Analysis](https://cran.r-project.org/web/packages/padr/index.html)
+
+**articles**
+
+Andrew Clark, 2017-07-19, [padr package example](https://www.mytinyshinys.com/2017/07/19/user2017-padr/)
+
 
 #### `zoo`
 
