@@ -1,11 +1,13 @@
-# Subject
+# Imputation of Missing Data (or Missing Values)
 
-### Imputation of Missing Data (or Missing Values)
+Missing data can pose a challenge for a data analysis, and can limit or compromise the models and conclusions that can be drawn.
 
-A brief description of the subject
+One method of dealing with missing data is through imputation.
 
 ---
 ### Theory and methods
+
+[Missing data](https://en.wikipedia.org/wiki/Missing_data) -- wikipedia
 
 Allison, P. (2000). Multiple Imputation for Missing Data: A Cautionary Tale, _Sociological Methods and Research_, 28, 301-309.
 
