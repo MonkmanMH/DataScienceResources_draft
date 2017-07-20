@@ -39,6 +39,8 @@ An overview of doing good work
 
 The topics thus far:
 
+* [Ecological inference](docs/EcologicalInference.md)
+
 * [Forecasting](docs/Forecasting.md)
 
 * [Gini coefficient](docs/GiniCoefficient.md)
