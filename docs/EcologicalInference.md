@@ -22,4 +22,6 @@ CRAN page: [ei: Ecological Inference](https://cran.r-project.org/web/packages/ei
 
 **articles**
 
-Gary King and Margaret Roberts 
+Gary King and Margaret Roberts, [EI: A(n R) Program for Ecological Inference](https://gking.harvard.edu/eiR) -- website with assorted resources
+
+
