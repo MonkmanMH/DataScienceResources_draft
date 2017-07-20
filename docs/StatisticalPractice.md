@@ -53,3 +53,8 @@ Jacob Harris (2014) (["Distrust your data"](https://source.opennews.org/en-US/le
 ### File storage
 
 * [Sustainability of Digital Formats: Planning for Library of Congress Collections](http://www.digitalpreservation.gov/formats/index.shtml)
+
+
+### Reproducible research
+
+* Ben Marwick, 20 July 2017, [Reproducible Research Compendia via R packages](https://rawgit.com/benmarwick/Marwick-Berlin-R-users-2017/master/Marwick-Berlin-R-users-2017.html#1), presentation at Berlin R Users
