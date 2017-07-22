@@ -49,8 +49,6 @@ The topics thus far:
 
 * [Machine Learning](docs/MachineLearning.md)
 
-* [Population pyramids](docs/PopulationPyramids.md)
-
 * [Quantile regression](docs/QuantileRegression.md)
 
 * [Raking](docs/Raking.md) (also known as _iterative proportional fitting procedure_, or IPFP)
@@ -109,6 +107,9 @@ You've done a cracker-jack job with your statistics, and made some bang-up chart
 * [Data tables](docs/Data_Tables.md)
 
 * [Data visualization](docs/Data_Visualization.md)
+
+  * [Population pyramids](docs/PopulationPyramids.md)
+
 
 * [Effective presentations]
 
