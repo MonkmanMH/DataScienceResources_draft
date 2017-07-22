@@ -79,6 +79,11 @@ Henrik Lindberg, [Sports: Time of Day](https://github.com/halhen/viz-pub/tree/ma
 
 [`ggjoy` package by Claus Wilke](https://github.com/clauswilke/ggjoy) -- github page
 
+
+#### Population Pyramids
+
+[Population pyramid plots get their own page](PopulationPyramid.md)
+
 ---
 
 ### Further Reading
