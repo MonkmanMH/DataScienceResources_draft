@@ -82,7 +82,7 @@ Henrik Lindberg, [Sports: Time of Day](https://github.com/halhen/viz-pub/tree/ma
 
 #### Population Pyramids
 
-[Population pyramid plots get their own page](PopulationPyramid.md)
+[Population pyramid plots get their own page](PopulationPyramids.md)
 
 ---
 
