@@ -45,3 +45,9 @@ Hadley Wickham, ["Style Guide"](http://adv-r.had.co.nz/Style.html) chapter from 
 
 [Coding etiquette](https://ourcodingclub.github.io/2017/04/25/etiquette.html), a guide to writing clear, informative and easy-to-use #RStats code by @CodingClub 
 
+#### Functions in R
+
+Colin Fay, [Playing with R, infix functions, and pizza ](http://colinfay.me/playing-r-infix-functions/)
+
+
+-30-
