@@ -49,11 +49,13 @@ The topics thus far:
 
 * [Machine Learning](docs/MachineLearning.md)
 
-* [Quantile regression](docs/QuantileRegression.md)
+* [Random walk](docs/RandomWalk.md)
 
 * [Raking](docs/Raking.md) (also known as _iterative proportional fitting procedure_, or IPFP)
 
 * [Regression](docs/Regression.md)
+
+  - [Quantile regression](docs/QuantileRegression.md)
 
 * [Seasonal adjustment](docs/SeasonalAdjustment.md)
 
