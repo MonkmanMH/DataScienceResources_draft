@@ -27,6 +27,9 @@ Tamara Munzer, [list and links to talks](http://www.cs.ubc.ca/~tmm/talks.html?ut
 [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php), by Eric-Jan Wagenmakers and Quentin F. Gronau
 
 
+** Note:**
+
+There are many extension packages to `ggplot2`; they are referenced below.
 
 
 ---
@@ -83,6 +86,12 @@ Henrik Lindberg, [Sports: Time of Day](https://github.com/halhen/viz-pub/tree/ma
 #### Population Pyramids
 
 [Population pyramid plots get their own page](PopulationPyramids.md)
+
+
+
+#### Ternary plots
+
+[`ggtern` - an extension to `ggplot2`](http://www.ggtern.com/) for plotting ternary diagrams.
 
 ---
 
