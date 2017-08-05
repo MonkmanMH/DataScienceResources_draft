@@ -25,9 +25,11 @@ An overview of doing good work
 
 * [RStudio, the IDE of choice](docs/RStudio.md)
 
+* [Data wrangling techniques](docs/DataWrangling.md)
+
 * [R Markdown](docs/RMarkdown.md)
 
-* [Data wrangling techniques](docs/DataWrangling.md)
+* [Shiny, for web apps in R](docs/Shiny.md)
 
 
 ### Data Sources & How to Read Them
