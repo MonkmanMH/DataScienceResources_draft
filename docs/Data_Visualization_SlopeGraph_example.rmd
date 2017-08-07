@@ -39,6 +39,35 @@ library(readxl)
 
 dat <- read_excel("../data/WPP2017_POP_F15_1_ANNUAL_POPULATION_BY_AGE_BOTH_SEXES.xlsx", range = cell_rows(c(17, NA)))
 
+
+ls.str(dat)
+
+```
+
+
+Additional wrangling to make 2015 file work
+
+```{r}
+# rename and drop variables
+dat1 <- dat %>%
+  rename('Location' = 'Region, subregion, country or area *',
+         'Time' = 'Reference date (as of 1 July)') 
+
+var_list <- c('0-4','5-9', '10-14', '15-19', '20-24', '25-29',
+              '30-34', '35-39', '40-44', '45-49',  
+              '50-54', '55-59', '60-64', '65-69', '70-74', '75-79', 
+              '80-84', '80+', '85-89', '90-94', '95-99', '100+')
+
+#THINGS TO DO
+# use quo() to replace all the "..." with NA
+dat1 <- dat1 %>%
+  mutate(x = replace())
+
+# gather dat1 into long format
+data1_long <- dat1 %>%
+  gather('0-4':'100+', key = 'Time', value = 'Pop')
+  
+
 ```
 
 
@@ -47,9 +76,13 @@ dat <- read_excel("../data/WPP2017_POP_F15_1_ANNUAL_POPULATION_BY_AGE_BOTH_SEXES
 # These are the region names in the dataset
 regions <- c("Africa", "Latin America and the Caribbean", "Northern America", "Europe", "Oceania", "Asia")
 
+
+
+
 # Filter down to 2015 and 2099 and the medium projection variant, and calculate millions & billions 
 dat2 <- dat %>%
-  filter(VarID == 2, Location %in% regions, Time %in% c(2015, 2099)) %>%
+#  filter(VarID == 2, Location %in% regions, Time %in% c(2015, 2099)) %>%
+  filter(Location %in% regions, Time %in% c(2015, 2099)) %>%
   mutate(millions = round((PopTotal / 1000), 0), billions = round((PopTotal / 1000000), 1)) %>%
   select(Location, Time, millions, billions)
 
