@@ -114,7 +114,10 @@ You've done a cracker-jack job with your statistics, and made some bang-up chart
 
 * [Data visualization](docs/Data_Visualization.md)
 
-  * [Population pyramids](docs/PopulationPyramids.md)
+  * [Population pyramids](docs/Data_Visualization_PopulationPyramids.md)
+
+  * [Slopegraphs](docs/Data_Visualization_Slopegraphs.md)
+
 
 
 * [Effective presentations]
