@@ -203,4 +203,17 @@ vignettes: Edzer Pebesma and Roger S. Bivand (2005): [Classes and Methods for Sp
 Edzer Pebesma (2008) [Introduction to R and package sp](http://pebesma.staff.ifgi.de/Aufbaukurs/R/slides_R.pdf)
 
 
+#### `tmap`
+
+**package**
+
+CRAN: [tmap: Thematic Maps](https://cran.r-project.org/web/packages/tmap/index.html)
+
+vignettes: [tmap in a nutshell](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-nutshell.html)
+
+GitHub: [`tmap`](https://github.com/mtennekes/tmap)
+
+
+
+
 -30-
