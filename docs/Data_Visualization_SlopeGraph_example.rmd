@@ -1,0 +1,165 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+## Slopegraph example
+
+A blog post by Jens Van Bergen at Mountain Doodles, ["Millenials Redux"](http://doodles.mountainmath.ca/blog/2017/08/06/millennials-redux/) got me thinking about the way he represented the change in proprotions...might a slope graph be a better solution?
+
+
+plagarized from Kyle Walker
+https://rpubs.com/walkerke/slopegraph
+
+
+#### packages
+
+Nothing but the [tidyverse](http://www.tidyverse.org/)
+
+```{r}
+
+library(tidyverse)
+#library(readr)
+#library(dplyr)
+#library(ggplot2)
+#library(magrittr)
+library(readxl)
+
+```
+
+
+---
+
+```{r}
+
+#dat <- read_csv("http://esa.un.org/wpp/ASCII-Data/ASCII_FILES/WPP2012_DB02_POPULATIONS_ANNUAL.csv")
+# https://esa.un.org/unpd/wpp/Download/Standard/Population/
+
+#dat <- read_excel("https://esa.un.org/unpd/wpp/DVD/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2017_POP_F15_1_ANNUAL_POPULATION_BY_AGE_BOTH_SEXES.xlsx")
+
+dat <- read_excel("../data/WPP2017_POP_F15_1_ANNUAL_POPULATION_BY_AGE_BOTH_SEXES.xlsx", range = cell_rows(c(17, NA)))
+
+```
+
+
+
+```{r}
+# These are the region names in the dataset
+regions <- c("Africa", "Latin America and the Caribbean", "Northern America", "Europe", "Oceania", "Asia")
+
+# Filter down to 2015 and 2099 and the medium projection variant, and calculate millions & billions 
+dat2 <- dat %>%
+  filter(VarID == 2, Location %in% regions, Time %in% c(2015, 2099)) %>%
+  mutate(millions = round((PopTotal / 1000), 0), billions = round((PopTotal / 1000000), 1)) %>%
+  select(Location, Time, millions, billions)
+
+# Shorten a couple region names which I'll be using for labels
+dat2$Location <- gsub("Latin America and the Caribbean", "Latin America", dat2$Location)
+dat2$Location <- gsub("Northern America", "North America", dat2$Location)
+
+# Prepare some label columns for the slopegraph
+dat2 %<>%
+  mutate(label15 = ifelse(billions > 1, 
+                          paste0(Location, " ", as.character(billions), "b  "),
+                          paste0(Location, " ", as.character(millions), "m  ")), 
+         label99 = ifelse(billions > 1, 
+                          paste0("  ", as.character(billions), "b"), 
+                          paste0("  ", as.character(millions), "m")))
+```
+
+
+```{r}
+locs_to_adjust1 <- c("Africa", "Europe", "North America")
+
+locs_to_adjust2 <- c("Asia", "Latin America")
+
+ggplot(dat2) + 
+  geom_line(aes(x = as.factor(Time), y = millions, group = Location, color = Location), size = 2) + 
+  geom_point(aes(x = as.factor(Time), y = millions, color = Location), size = 5) + 
+  theme_minimal(base_size = 18) + 
+  scale_color_brewer(palette = "Dark2") + 
+  xlab("") + 
+  geom_text(data = subset(dat2, Time == 2015 & Location != "Latin America"), 
+            aes(x = as.factor(Time), y = millions, color = Location, label = label15), 
+            size = 6, hjust = 1) + 
+  geom_text(data = subset(dat2, Time == 2015 & Location == "Latin America"), 
+            aes(x = as.factor(Time), y = millions, color = Location, label = label15), 
+            size = 6, hjust = 1, vjust = 0.8) + 
+  geom_text(data = subset(dat2, Time == 2099 & Location %in% locs_to_adjust1), 
+            aes(x = as.factor(Time), y = millions, color = Location, label = label99), 
+            size = 6, hjust = 0, vjust = 0.8) + 
+  geom_text(data = subset(dat2, Time == 2099 & Location %in% locs_to_adjust2), 
+            aes(x = as.factor(Time), y = millions, color = Location, label = label99), 
+            size = 6, hjust = 0, vjust = 0.2) + 
+  geom_text(data = subset(dat2, Time == 2099 & Location == "Oceania"), 
+            aes(x = as.factor(Time), y = millions, color = Location, label = label99), 
+            size = 6, hjust = 0) + 
+  scale_y_log10() + 
+  theme(legend.position = "none", 
+        panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank(),
+        panel.grid.major.x = element_blank(), 
+        axis.ticks.y = element_blank(),
+        axis.ticks.x = element_blank(), 
+        axis.title.y = element_blank(), 
+        axis.text.y = element_blank(), 
+        plot.title = element_text(size = 18)) + 
+  ggtitle("Projected population change by region, 2015-2099")
+```
+
+
+
+---
+
+#### Add the data
+
+Currently approximations based on eyeballing the chart
+
+```{r}
+
+MetroVan_millenials <- read.csv("../data/MetroVan_millenials.csv")
+
+```
+
+
+
+And the plot
+
+```{r}
+
+ggplot(MetroVan_millenials) + 
+  geom_line(aes(x = as.factor(Year), y = 'pct_25-39', group = Municipality, color = Municipality), size = 2) + 
+  geom_point(aes(x = as.factor(Year), y = 'pct_25-39', color = Municipality), size = 5) + 
+  theme_minimal(base_size = 18) + 
+  scale_color_brewer(palette = "Dark2") + 
+  xlab("") + 
+  geom_text(data = subset(dat2, Time == 2015 & Location != "Latin America"), 
+            aes(x = as.factor(Time), y = millions, color = Location, label = label15), 
+            size = 6, hjust = 1) + 
+  geom_text(data = subset(dat2, Time == 2015 & Location == "Latin America"), 
+            aes(x = as.factor(Time), y = millions, color = Location, label = label15), 
+            size = 6, hjust = 1, vjust = 0.8) + 
+  geom_text(data = subset(dat2, Time == 2099 & Location %in% locs_to_adjust1), 
+            aes(x = as.factor(Time), y = millions, color = Location, label = label99), 
+            size = 6, hjust = 0, vjust = 0.8) + 
+  geom_text(data = subset(dat2, Time == 2099 & Location %in% locs_to_adjust2), 
+            aes(x = as.factor(Time), y = millions, color = Location, label = label99), 
+            size = 6, hjust = 0, vjust = 0.2) + 
+  geom_text(data = subset(dat2, Time == 2099 & Location == "Oceania"), 
+            aes(x = as.factor(Time), y = millions, color = Location, label = label99), 
+            size = 6, hjust = 0) + 
+  scale_y_log10() + 
+  theme(legend.position = "none", 
+        panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank(),
+        panel.grid.major.x = element_blank(), 
+        axis.ticks.y = element_blank(),
+        axis.ticks.x = element_blank(), 
+        axis.title.y = element_blank(), 
+        axis.text.y = element_blank(), 
+        plot.title = element_text(size = 18)) + 
+  ggtitle("Projected population change by region, 2015-2099")
+
+
+```
+
