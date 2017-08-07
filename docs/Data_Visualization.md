@@ -89,9 +89,9 @@ Henrik Lindberg, [Sports: Time of Day](https://github.com/halhen/viz-pub/tree/ma
 
 
 
-#### Slope graphys
+#### Slopegraphs
 
-[Slope graphs get their own page](Data_Visualization_SlopeGraphs.md)
+[Slopegraphs get their own page](Data_Visualization_Slopegraphs.md)
 
 
 
