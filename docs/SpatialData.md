@@ -63,6 +63,8 @@ Francisco Rodriguez-Sanchez, 2013-12-18, [Spatial data in R: Using R as a GIS](h
 
 [Maps and Data Visualisations with R](http://spatial.ly/r/) (from [spatial.ly](spatial.ly))
 
+[Maps in R](https://sesync-ci.github.io/maps-in-R-lesson/)
+
 
 
 **tips and tricks**
