@@ -214,6 +214,9 @@ vignettes: [tmap in a nutshell](https://cran.r-project.org/web/packages/tmap/vig
 GitHub: [`tmap`](https://github.com/mtennekes/tmap)
 
 
+**articles**
+
+Corentin M. Barbu, 2015-11-06, ["tmap R package"](http://spatcontrol.net/SpatialControl/2015/11/06/tmap-r-package/)
 
 
 -30-
