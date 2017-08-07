@@ -85,7 +85,13 @@ Henrik Lindberg, [Sports: Time of Day](https://github.com/halhen/viz-pub/tree/ma
 
 #### Population Pyramids
 
-[Population pyramid plots get their own page](PopulationPyramids.md)
+[Population pyramid plots get their own page](Data_Visualization_PopulationPyramids.md)
+
+
+
+#### Slope graphys
+
+[Slope graphs get their own page](Data_Visualization_SlopeGraphs.md)
 
 
 
