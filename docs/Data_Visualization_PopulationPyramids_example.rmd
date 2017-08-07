@@ -142,10 +142,11 @@ write_csv(nigeria, "nigeria.csv")
 
 # create the plot
 g1 <- ggplot(nigeria, aes(x = AGE, y = POP, fill = SEX, width = 1, frame = time)) +
-  coord_fixed() +
-  coord_flip() +
   geom_bar(data = subset(nigeria, SEX == "Female"), stat = "identity", position = 'identity') +
   geom_bar(data = subset(nigeria, SEX == "Male"), stat = "identity", position = 'identity') +
+  coord_fixed() +
+  coord_flip() +     # x is y and y is x
+  # note: y axis goes from negative to positive (breaks) but the labels are hard-coded to correct
   scale_y_continuous(breaks = seq(-5000000, 5000000, 2500000),
                      labels = c('5m', '2.5m', '0', '2.5m', '5m'),
                      limits = c(min(nigeria$POP), max(nigeria$POP))) +
