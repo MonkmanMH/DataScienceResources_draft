@@ -14,6 +14,15 @@ It also facilitates creating dynamic documents and notebooks.
 [RStudio IDE Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf) {PDF}
 
 
+
+---
+
+### Linking to GitHub
+
+Jenny Bryan and the STAT545 TAs, 2017-06-07, [Happy Git and GitHub for the useR](http://happygitwithr.com/)
+
+Mark Christie, 2013-11-12, [Using GitHub with R and RStudio](http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/)
+
 ---
 ### Tips and Tricks
 
