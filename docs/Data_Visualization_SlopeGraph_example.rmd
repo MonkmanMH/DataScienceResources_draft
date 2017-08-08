@@ -14,7 +14,9 @@ https://rpubs.com/walkerke/slopegraph
 
 #### packages
 
-Nothing but the [tidyverse](http://www.tidyverse.org/)
+Nothing but the [`tidyverse`](http://www.tidyverse.org/)
+
+* except `readxl` isn't a `tidyverse` auto-load
 
 ```{r}
 
@@ -44,7 +46,7 @@ library(readxl)
 
 
 # this is slow...but it works eventually
-dat <- read_excel("../data/WPP2017_POP_F15_1_ANNUAL_POPULATION_BY_AGE_BOTH_SEXES.xlsx", sheet = "ESTIMATES",
+WPP2017_data <- read_excel("../data/WPP2017_POP_F15_1_ANNUAL_POPULATION_BY_AGE_BOTH_SEXES.xlsx", sheet = "ESTIMATES",
                   range = cell_rows(c(17, NA)), 
                   col_types = c("text", "text", "text", "text",
                                 "numeric", "numeric", "numeric", "numeric",
@@ -56,12 +58,32 @@ dat <- read_excel("../data/WPP2017_POP_F15_1_ANNUAL_POPULATION_BY_AGE_BOTH_SEXES
                                 )
                   )
 
-ls.str(dat)
+
+saveRDS(WPP2017_data, "../data/WPP2017_data.rds")
+
+
+ls.str(WPP2017_data)
 
 ```
 
 
-Additional wrangling to make 2015 file work
+### Additional wrangling 
+
+Necessary to make 2017 file work with the previous code.
+
+
+#### Already saved the data file? Start here...
+
+```{r}
+
+WPP2017_data <- readRDS("../data/WPP2017_data.rds")
+
+dat <- WPP2017_data
+
+```
+
+
+#### Wrangling
 
 
 ```{r}
@@ -92,44 +114,66 @@ ls.str(dat1)
 
 # gather dat1 into long format
 dat1_long <- dat1 %>%
-  gather(`0-4`:`100+`, key = 'Age_grp', value = 'Pop')
+  gather(`0-4`:`100+`, key = 'Age_grp', value = 'Pop', na.rm=TRUE)
 
 
+dat2_long <- dat1_long %>%
+  group_by(Location, Time) %>%
+  summarise(PopTotal = sum(Pop))
+
+
+unique(dat2_long$Location)
+
+min(dat2_long$Time)
+max(dat2_long$Time)
 
 ```
 
 
 
+
+
 ```{r}
+
 # These are the region names in the dataset
-regions <- c("Africa", "Latin America and the Caribbean", "Northern America", "Europe", "Oceania", "Asia")
+regions <- c("AFRICA", "LATIN AMERICA AND THE CARIBBEAN", "NORTHERN AMERICA", "EUROPE", "OCEANIA", "ASIA")
 
 
 
 
 # Filter down to 2015 and 2099 and the medium projection variant, and calculate millions & billions 
-dat2 <- dat1 %>%
+dat2 <- dat2_long %>%
 #  filter(VarID == 2, Location %in% regions, Time %in% c(2015, 2099)) %>%
-  filter(Location %in% regions, Time %in% c(2015, 2099)) %>%
+  filter(Location %in% regions, Time %in% c(1950, 2015)) %>%
   mutate(millions = round((PopTotal / 1000), 0), billions = round((PopTotal / 1000000), 1)) %>%
   select(Location, Time, millions, billions)
 
+
 # Shorten a couple region names which I'll be using for labels
-dat2$Location <- gsub("Latin America and the Caribbean", "Latin America", dat2$Location)
-dat2$Location <- gsub("Northern America", "North America", dat2$Location)
+dat2$Location <- gsub("AFRICA", "Africa", dat2$Location)
+dat2$Location <- gsub("LATIN AMERICA AND THE CARIBBEAN", "Latin America", dat2$Location)
+dat2$Location <- gsub("NORTHERN AMERICA", "North America", dat2$Location)
+dat2$Location <- gsub("EUROPE", "Europe", dat2$Location)
+dat2$Location <- gsub("OCEANIA", "Oceania", dat2$Location)
+dat2$Location <- gsub("ASIA", "Asia", dat2$Location)
+
 
 # Prepare some label columns for the slopegraph
-dat2 %<>%
+dat2 <- dat2 %>%
   mutate(label15 = ifelse(billions > 1, 
                           paste0(Location, " ", as.character(billions), "b  "),
                           paste0(Location, " ", as.character(millions), "m  ")), 
          label99 = ifelse(billions > 1, 
                           paste0("  ", as.character(billions), "b"), 
                           paste0("  ", as.character(millions), "m")))
+
+dat2
+
 ```
 
 
 ```{r}
+
 locs_to_adjust1 <- c("Africa", "Europe", "North America")
 
 locs_to_adjust2 <- c("Asia", "Latin America")
@@ -140,19 +184,19 @@ ggplot(dat2) +
   theme_minimal(base_size = 18) + 
   scale_color_brewer(palette = "Dark2") + 
   xlab("") + 
-  geom_text(data = subset(dat2, Time == 2015 & Location != "Latin America"), 
+  geom_text(data = subset(dat2, Time == 1950 & Location != "Latin America"), 
             aes(x = as.factor(Time), y = millions, color = Location, label = label15), 
             size = 6, hjust = 1) + 
-  geom_text(data = subset(dat2, Time == 2015 & Location == "Latin America"), 
+  geom_text(data = subset(dat2, Time == 1950 & Location == "Latin America"), 
             aes(x = as.factor(Time), y = millions, color = Location, label = label15), 
             size = 6, hjust = 1, vjust = 0.8) + 
-  geom_text(data = subset(dat2, Time == 2099 & Location %in% locs_to_adjust1), 
+  geom_text(data = subset(dat2, Time == 2015 & Location %in% locs_to_adjust1), 
             aes(x = as.factor(Time), y = millions, color = Location, label = label99), 
             size = 6, hjust = 0, vjust = 0.8) + 
-  geom_text(data = subset(dat2, Time == 2099 & Location %in% locs_to_adjust2), 
+  geom_text(data = subset(dat2, Time == 2015 & Location %in% locs_to_adjust2), 
             aes(x = as.factor(Time), y = millions, color = Location, label = label99), 
             size = 6, hjust = 0, vjust = 0.2) + 
-  geom_text(data = subset(dat2, Time == 2099 & Location == "Oceania"), 
+  geom_text(data = subset(dat2, Time == 2015 & Location == "Oceania"), 
             aes(x = as.factor(Time), y = millions, color = Location, label = label99), 
             size = 6, hjust = 0) + 
   scale_y_log10() + 
@@ -165,7 +209,9 @@ ggplot(dat2) +
         axis.title.y = element_blank(), 
         axis.text.y = element_blank(), 
         plot.title = element_text(size = 18)) + 
-  ggtitle("Projected population change by region, 2015-2099")
+  ggtitle("Projected population change by region, 1950-2015")
+
+
 ```
 
 
