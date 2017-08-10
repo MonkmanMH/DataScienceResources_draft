@@ -66,6 +66,7 @@ Jacob Harris (2014) (["Distrust your data"](https://source.opennews.org/en-US/le
 
 * Ben Marwick, 20 July 2017, [Reproducible Research Compendia via R packages](https://rawgit.com/benmarwick/Marwick-Berlin-R-users-2017/master/Marwick-Berlin-R-users-2017.html#1), presentation at Berlin R Users
 
+* Gordon Shotwell, 2017-02-02, [R for Excel Users](http://blog.shotwell.ca/post/r_for_excel_users/)
 
 
 -30-
