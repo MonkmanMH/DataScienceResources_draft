@@ -58,12 +58,14 @@ Jacob Harris (2014) (["Distrust your data"](https://source.opennews.org/en-US/le
 
 ### Reproducible research
 
-* Ben Marwick, 20 July 2017, [Reproducible Research Compendia via R packages](https://rawgit.com/benmarwick/Marwick-Berlin-R-users-2017/master/Marwick-Berlin-R-users-2017.html#1), presentation at Berlin R Users
-
 > I read "Data analysis without scripting" as "Dystopian moonscape of unrecorded user actions". I may not be Tableau's target market. #rstats
-> - [Gordon Shotwell](https://twitter.com/gshotwell/status/577485681146097664)
+> - [Gordon Shotwell](https://twitter.com/gshotwell/status/577485681146097664), tweet 2015-03-16
 
 * Jenny Bryan's [spreadsheets](https://speakerdeck.com/jennybc/spreadsheets) talk given May & June 2016 reframes Shotwell as "Spreadsheets: a dystopian moonscape of unrecorded user actions."
-* live in-person (https://pbs.twimg.com/media/CmDykgRWAAE-_MP.jpg)
+  - live in-person (https://pbs.twimg.com/media/CmDykgRWAAE-_MP.jpg)
+
+* Ben Marwick, 20 July 2017, [Reproducible Research Compendia via R packages](https://rawgit.com/benmarwick/Marwick-Berlin-R-users-2017/master/Marwick-Berlin-R-users-2017.html#1), presentation at Berlin R Users
+
+
 
 -30-
