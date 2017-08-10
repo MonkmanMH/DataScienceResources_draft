@@ -83,6 +83,12 @@ Henrik Lindberg, [Sports: Time of Day](https://github.com/halhen/viz-pub/tree/ma
 [`ggjoy` package by Claus Wilke](https://github.com/clauswilke/ggjoy) -- github page
 
 
+#### Network graphs
+
+[ggnet2: network visualization with ggplot2](https://briatte.github.io/ggnet/) -- part of the [`GGally`](https://www.rdocumentation.org/packages/GGally/versions/1.3.2) package
+
+
+
 #### Population Pyramids
 
 [Population pyramid plots get their own page](Data_Visualization_PopulationPyramids.md)
