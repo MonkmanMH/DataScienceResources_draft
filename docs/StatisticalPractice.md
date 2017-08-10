@@ -58,3 +58,11 @@ Jacob Harris (2014) (["Distrust your data"](https://source.opennews.org/en-US/le
 ### Reproducible research
 
 * Ben Marwick, 20 July 2017, [Reproducible Research Compendia via R packages](https://rawgit.com/benmarwick/Marwick-Berlin-R-users-2017/master/Marwick-Berlin-R-users-2017.html#1), presentation at Berlin R Users
+
+> Spreadsheets: a dystopian moonscape of unrecorded user actions.
+> - Gordon Shotwell
+
+Jenny Bryan[spreadsheets](https://speakerdeck.com/jennybc/spreadsheets) -- talk given May & June 2016
+* live in-person (https://pbs.twimg.com/media/CmDykgRWAAE-_MP.jpg)
+
+-30-
