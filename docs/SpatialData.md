@@ -65,7 +65,7 @@ Francisco Rodriguez-Sanchez, 2013-12-18, [Spatial data in R: Using R as a GIS](h
 
 [Maps in R](https://sesync-ci.github.io/maps-in-R-lesson/)
 
-
+Sharp Sight Labs, [Simple practice: basic maps with the Tidyverse](http://sharpsightlabs.com/blog/simple-practice-maps-tidyverse/)
 
 **tips and tricks**
 
