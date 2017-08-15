@@ -27,7 +27,13 @@ Tamara Munzer, [list and links to talks](http://www.cs.ubc.ca/~tmm/talks.html?ut
 [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php), by Eric-Jan Wagenmakers and Quentin F. Gronau
 
 
-** Note:**
+** ggplot2 tips and tricks **
+
+Simon Jackson, 2016-08-11, [Plotting background data for groups with ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2)
+
+
+
+** _Note:_**
 
 There are many extension packages to `ggplot2`; they are referenced below.
 
@@ -35,6 +41,8 @@ There are many extension packages to `ggplot2`; they are referenced below.
 ---
 
 ### Chart types: theory and methods
+
+
 
 #### Box plots (a way to visualize distributions)
 
