@@ -7,6 +7,7 @@ Forecasting methods extrapolate past trends. There is a wealth of material suppo
 ---
 ### Theory and methods
 
+Kamala Kanta Mishra, [Selecting Forecasting Methods in Data Science](http://www.datasciencecentral.com/profiles/blogs/selecting-forecasting-methods-in-data-science) (2017-02-13)
 
 ---
 ### R
