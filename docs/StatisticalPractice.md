@@ -50,9 +50,13 @@ Jacob Harris (2014) (["Distrust your data"](https://source.opennews.org/en-US/le
 
 ---
 
-### File storage
+### File storage and naming conventions
 
 * [Sustainability of Digital Formats: Planning for Library of Congress Collections](http://www.digitalpreservation.gov/formats/index.shtml)
+
+* Jenny Bryan, [naming things](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf),
+Reproducible Science Workshop, 2015
+
 
 ---
 
