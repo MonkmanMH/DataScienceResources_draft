@@ -16,6 +16,11 @@ Tamara Munzer, [list and links to talks](http://www.cs.ubc.ca/~tmm/talks.html?ut
 
 ### R Resources
 
+#### general
+
+[Shiny apps for statistics](https://statistics.calpoly.edu/shiny) -- by the Statistics Department at CalPoly
+
+
 #### ggplot2 -- the pre-eminent way to create charts and graphs in R
 
 [ggplot2: part of the tidyverse](http://ggplot2.tidyverse.org/index.html) -- reference materials, examples, etc etc. Start here.
