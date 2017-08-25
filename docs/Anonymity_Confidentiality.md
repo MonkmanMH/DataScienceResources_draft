@@ -20,6 +20,15 @@ A related topic is data masking, "the process of hiding original data with rando
 [Data masking page at Wikipedia](https://en.wikipedia.org/wiki/Data_masking)
 
 
+** Sidebar: The Mosaic Effect **
+
+Often bandied about is the term "the mosaic effect". A good definition comes from Vivek Kundra, who at the time was the U.S. Government's Chief Information Officer:
+
+> Individual pieces of data when released independently may not reveal sensitive information but when combined, this “mosaic effect” could be used to derive personal information or information vital to national security. (["Testimony Resolving the Shroud of Secrecy", 2010-03-23](https://www.cio.gov/2010/03/23/vivek-kundra-testimony-resolving-the-shroud-of-secrecy/))
+
+Aggregation, masking, and other SDC methods should reduce (if not entirely eliminate) a "mosaic effect". More research into this topic is required.
+
+
 #### Laws, Ethics, and Morals
 
 The Canadian [Panel on Research Ethics](http://www.pre.ethics.gc.ca/eng/index/) had created a policy document that includes a chapter on [Privacy and Confidentiality](http://www.pre.ethics.gc.ca/eng/policy-politique/initiatives/tcps2-eptc2/chapter5-chapitre5/), covering the full range of concerns about the use of individual data.
