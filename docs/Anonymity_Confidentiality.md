@@ -12,7 +12,7 @@ Limitation (SDL) seeks to protect statistical data in such a way that they can b
 released without giving away confidential information that can be linked to specific
 individuals or entities. (Hundepool et al., 2012, p.1)
 
-This role means much of the material on the topic comes directly or indirectly from those agencies (see, for example, the Australian National Statistical Service and Statistics Canada publications listed below).
+Because statistical agencies have this role and take the responsibility very seriously (their reputations rest heavily on the willingness of individuals, businesses, and other public agencies to provide data to them) means much of the material on the topic comes directly or indirectly from those agencies (see, for example, the Australian National Statistical Service and Statistics Canada publications listed below).
 
 A related topic is data masking, "the process of hiding original data with random characters or data." 
 
@@ -20,7 +20,7 @@ A related topic is data masking, "the process of hiding original data with rando
 [Data masking page at Wikipedia](https://en.wikipedia.org/wiki/Data_masking)
 
 
-** Sidebar: The Mosaic Effect **
+**Sidebar: The Mosaic Effect**
 
 Often bandied about is the term "the mosaic effect". A good definition comes from Vivek Kundra, who at the time was the U.S. Government's Chief Information Officer:
 
