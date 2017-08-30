@@ -94,18 +94,22 @@ Census Bureau: [Statistical Disclosure Control (SDC)](http://www.census.gov/srd/
 
 * "Links and conventional references to research sponsored by the U.S. Census Bureau in the areas of statistical disclosure control, confidentiality, and disclosurelimitation."
 
-### Health agencies: "de-identification"
+### Other resources
+
+#### Health agencies: "de-identification"
 
 U.S. Department of Health & Human Sciences, [Guidance Regarding Methods for De-identification of Protected Health Information in Accordance with the Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html)
 
 Committee on Strategies for Responsible Sharing of Clinical Trial Data; Board on Health Sciences Policy; Institute of Medicine.
 Washington (DC): National Academies Press (US); 2015 Apr 20.  _Sharing Clinical Trial Data: Maximizing Benefits, Minimizing Risk_: [Appendix B: Concepts and Methods for De-identifying Clinical Trial Data](https://www.ncbi.nlm.nih.gov/books/NBK285994/)
 
-### Privacy Offices
+
+#### others
 
 Information and Privacy Commissioner of Ontario, June 2016, [_De-identification Guidelines for Structured Data_](https://www.ipc.on.ca/wp-content/uploads/2016/08/Deidentification-Guidelines-for-Structured-Data.pdf)
 
-#### Other resources
+Simson L. Garfinkel, October 2015, [_De-Identification of Personal Information_](http://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8053.pdf), NISTIR 8053, National Institute of Standards and Technology.
+
 
 Jelke Bethlehem, 2009: [_Applied Survey Methods: A Statistical Perspective_](http://ca.wiley.com/WileyCDA/WileyTitle/productCd-0470373083.html), Wiley (Wiley Series in Survey Methodology)
 
