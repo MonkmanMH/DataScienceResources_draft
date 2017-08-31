@@ -1,5 +1,11 @@
 # Statistical & Data Science Practice
 
+First, an excellent list of data science resources:
+
+* [Practical Data Science for Stats - a PeerJ Collection](https://peerj.com/collections/50-practicaldatascistats/)
+
+
+
 ### Introduction
 
 How does one approach a statistics or data science project?
@@ -28,6 +34,9 @@ How does one approach a statistics or data science project?
   
   - Roger Peng: most organizations don't realize that they are explicitly making these trade-offs, can't maximize all. Have to make a choice, and that's very unsatisfactory for people.
 
+
+Hilary Parker, 2017-08-30, [Opinionated Analysis Development
+](https://peerj.com/preprints/3210.pdf)
 
 ---
 
