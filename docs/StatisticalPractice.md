@@ -62,6 +62,9 @@ Reproducible Science Workshop, 2015
 
 ### Reproducible research
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I read &quot;Data analysis without scripting&quot; as &quot;Dystopian moonscape of unrecorded user actions&quot;. I may not be Tableau&#39;s target market. <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a></p>&mdash; Gordon Shotwell (@gshotwell) <a href="https://twitter.com/gshotwell/status/577485681146097664">March 16, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 > I read "Data analysis without scripting" as "Dystopian moonscape of unrecorded user actions". I may not be Tableau's target market. #rstats
 > - [Gordon Shotwell](https://twitter.com/gshotwell/status/577485681146097664), tweet 2015-03-16
 
