@@ -118,6 +118,13 @@ Henrik Lindberg, [Sports: Time of Day](https://github.com/halhen/viz-pub/tree/ma
 
 [`ggtern` - an extension to `ggplot2`](http://www.ggtern.com/) for plotting ternary diagrams.
 
+
+
+#### Waffle plots
+
+[Infographic-style charts using the R waffle package](https://nsaunders.wordpress.com/2017/09/08/infographic-style-charts-using-the-r-waffle-package/amp/)
+
+
 ---
 
 ### Further Reading
