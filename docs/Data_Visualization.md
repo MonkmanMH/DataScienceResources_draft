@@ -73,29 +73,6 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 [Mosaic or Marimekko charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
 
 
-#### Joyplot
-
-The name "Joyplot" is a reference to the style of chart seen on the cover of Joy Division's debut album [_Unknown Pleasures_](https://en.wikipedia.org/wiki/Unknown_Pleasures) (1979).
-
-* Jen Christiansen, 2015-02-18, [Pop Culture Pulsar: Origin Story of Joy Division’s Unknown Pleasures Album Cover](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-origin-story-of-joy-division-s-unknown-pleasures-album-cover-video/) - _Scientific American_, [SA Visual](https://blogs.scientificamerican.com/sa-visual/) -- a great piece that traces the Joy Division album cover image directly back to the PhD dissertation of Harold D. Craft, Jr.
-
-  - Adam Cap, 2011-05-19 - 2016-02-13, [The History of Joy Division’s “Unknown Pleasures” Album Art](https://adamcap.com/2011/05/19/history-of-joy-division-unknown-pleasures-album-art/)
-
-  - [Data Visualization, Reinterpreted by VISUALIZED](https://vimeo.com/51365288): Peter Saville on the Design + Effect of Joy Division's "Unknown Pleasures" - ([from Visualized](https://vimeo.com/visualized))
-
-** joyplots in R **
-
-Alex Whan, 2016-03-24, [ggplot2 and Joy Division](http://alexwhan.com/2016-03-24-joy-division-plot) - at Incrutable Errors
-
-Mauricio Vargas S., 2016-11-08, [Joy Division’s Unknown PleasuRes](https://www.r-bloggers.com/joy-divisions-unknown-pleasures/) - at R-Bloggers
-
-Henrik Lindberg, [Sports: Time of Day](https://github.com/halhen/viz-pub/tree/master/sports-time-of-day)
-
-* [plot code](https://github.com/halhen/viz-pub/blob/master/sports-time-of-day/2_gen_chart.R)
-
-[`ggjoy` package by Claus Wilke](https://github.com/clauswilke/ggjoy) -- github page
-
-
 #### Network graphs
 
 [ggnet2: network visualization with ggplot2](https://briatte.github.io/ggnet/) -- part of the [`GGally`](https://www.rdocumentation.org/packages/GGally/versions/1.3.2) package
@@ -105,6 +82,36 @@ Henrik Lindberg, [Sports: Time of Day](https://github.com/halhen/viz-pub/tree/ma
 #### Population Pyramids
 
 [Population pyramid plots get their own page](Data_Visualization_PopulationPyramids.md)
+
+
+
+#### Ridgeline plot
+
+
+** ridgeline plots in R **
+
+[`ggridges` package by Claus Wilke](https://cran.r-project.org/web/packages/ggridges/index.html) -- CRAN page
+
+Alex Whan, 2016-03-24, [ggplot2 and Joy Division](http://alexwhan.com/2016-03-24-joy-division-plot) - at Incrutable Errors
+
+Mauricio Vargas S., 2016-11-08, [Joy Division’s Unknown PleasuRes](https://www.r-bloggers.com/joy-divisions-unknown-pleasures/) - at R-Bloggers
+
+Henrik Lindberg, [Sports: Time of Day](https://github.com/halhen/viz-pub/tree/master/sports-time-of-day)
+
+* [plot code](https://github.com/halhen/viz-pub/blob/master/sports-time-of-day/2_gen_chart.R)
+
+
+
+** _Unknown Pleasures_ **
+
+The over of Joy Division's debut album [_Unknown Pleasures_](https://en.wikipedia.org/wiki/Unknown_Pleasures) (1979) is perhaps the most famous ridgeline plot.
+
+* Jen Christiansen, 2015-02-18, [Pop Culture Pulsar: Origin Story of Joy Division’s Unknown Pleasures Album Cover](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-origin-story-of-joy-division-s-unknown-pleasures-album-cover-video/) - _Scientific American_, [SA Visual](https://blogs.scientificamerican.com/sa-visual/) -- a great piece that traces the Joy Division album cover image directly back to the PhD dissertation of Harold D. Craft, Jr.
+
+  - Adam Cap, 2011-05-19 - 2016-02-13, [The History of Joy Division’s “Unknown Pleasures” Album Art](https://adamcap.com/2011/05/19/history-of-joy-division-unknown-pleasures-album-art/)
+
+  - [Data Visualization, Reinterpreted by VISUALIZED](https://vimeo.com/51365288): Peter Saville on the Design + Effect of Joy Division's "Unknown Pleasures" - ([from Visualized](https://vimeo.com/visualized))
+
 
 
 
