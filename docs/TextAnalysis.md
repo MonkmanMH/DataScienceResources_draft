@@ -39,6 +39,9 @@ github page: [monkeylearn: R package for text analysis with Monkeylearn](https:/
 
 #### `quanteda`
 
+[quanteda.io](http://quanteda.io/)
+
+
 **package**
 
 CRAN page: [quanteda: Quantitative Analysis of Textual Data](https://cran.r-project.org/web/packages/quanteda/index.html)
