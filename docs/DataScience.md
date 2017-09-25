@@ -31,4 +31,8 @@ Chester Ismay, 2017-03-020, [Getting used to R, RStudio, and R Markdown](https:/
 [R for Journalists](http://www.scoop.it/t/r-for-journalists) at scoop.it
 
 
+### Data Science and Public Policy
+
+[Using Big Data to Solve Economic and Social Problems](http://www.equality-of-opportunity.org/bigdatacourse/) -- course at The Equality of Opportunity Project
+
 -30-
