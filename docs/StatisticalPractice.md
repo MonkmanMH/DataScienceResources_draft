@@ -85,4 +85,11 @@ Reproducible Science Workshop, 2015
 * Gordon Shotwell, 2017-02-02, [R for Excel Users](http://blog.shotwell.ca/post/r_for_excel_users/)
 
 
+---
+
+### The function of data science: solving business problems
+
+Emily Robinson, 2017-09-27, [Managing Business Challenges In Data Science](https://robinsones.github.io/Managing-Business-Challenges-in-Data-Science/)
+
+
 -30-
