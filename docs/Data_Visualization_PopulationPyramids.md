@@ -7,6 +7,7 @@ A common visualization in demography to show the age and gender distribution of 
 ---
 ### Theory and methods
 
+Lauren Boucher (2016-03-10) [What are the different types of population pyramids?](https://www.populationeducation.org/content/what-are-different-types-population-pyramids)
 
 ---
 ### R
