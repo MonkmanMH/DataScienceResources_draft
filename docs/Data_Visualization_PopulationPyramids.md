@@ -27,3 +27,5 @@ Kyle Walker (2016-06-06) [idbr: access the US Census Bureau International Data B
 Ilya Kashnitsky, 2017-03-31, ["Who is old? Visualizing the concept of prospective ageing with animated population pyramids"](https://ikashnitsky.github.io/2017/who-is-old/)
 
 * ["Visualizing the concept of prospective aging with R"](http://urbandemographics.blogspot.ca/2017/05/visualizing-concept-of-prospective.html)
+
+acarioli (2016-01-11) [Population pyramids in ggplot](https://aledemogr.wordpress.com/2016/01/11/population-pyramids-in-ggplot/)
