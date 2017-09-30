@@ -16,9 +16,17 @@ Lauren Boucher (2016-03-10) [What are the different types of population pyramids
 
 * uses `ggplot2` to create pyramids
 
+[Simpler population pyramid in ggplot2](https://stackoverflow.com/questions/14680075/simpler-population-pyramid-in-ggplot2)
+
+
+
+** Kyle Walker's stuff **
 
 Kyle Walker (2014-06-07) [Interactive international population pyramids with R, rCharts](https://walkerke.github.io/2014/06/rcharts-pyramids/)
 
+Kyle Walker (2014-07-06) [International population pyramids with ggplot2](https://rpubs.com/walkerke/pyramids_ggplot2)
+
+Kyle Walker (2015-04-07) [Animated population pyramid of India with rcdimple](https://rpubs.com/walkerke/india_pyramid)
 
 Kyle Walker (2016-06-06) [idbr: access the US Census Bureau International Data Base in R](http://www.arilamstein.com/blog/2016/06/06/idbr-access-us-census-bureau-international-data-base-r/?utm_source=recurpost) (http://personal.tcu.edu/kylewalker/)
 
