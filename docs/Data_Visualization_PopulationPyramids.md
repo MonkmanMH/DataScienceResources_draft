@@ -16,7 +16,10 @@ A common visualization in demography to show the age and gender distribution of 
 * uses `ggplot2` to create pyramids
 
 
-[idbr: access the US Census Bureau International Data Base in R](http://www.arilamstein.com/blog/2016/06/06/idbr-access-us-census-bureau-international-data-base-r/?utm_source=recurpost), by Kyle Walker (http://personal.tcu.edu/kylewalker/)
+Kyle Walker (2014-06-07) [Interactive international population pyramids with R, rCharts](https://walkerke.github.io/2014/06/rcharts-pyramids/)
+
+
+Kyle Walker (2016-06-06) [idbr: access the US Census Bureau International Data Base in R](http://www.arilamstein.com/blog/2016/06/06/idbr-access-us-census-bureau-international-data-base-r/?utm_source=recurpost) (http://personal.tcu.edu/kylewalker/)
 
 * Example: ["Japan's aging population in R "](http://urbandemographics.blogspot.ca/2016/03/japans-aging-population-in-r.html)
 
