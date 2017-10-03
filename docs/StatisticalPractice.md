@@ -44,6 +44,8 @@ Hilary Parker, 2017-08-30, [Opinionated Analysis Development
 
 ### Data Informed or Data Driven?
 
+Ricardo Bion, Robert Chang, and Jason Goodman (2017-08-23) [How R Helps Airbnb Make the Most of Its Data](https://peerj.com/preprints/3182.pdf)
+
 [The Stitch Fix Algorithms Tour](http://algorithms-tour.stitchfix.com/)
 
 
