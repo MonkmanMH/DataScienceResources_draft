@@ -9,6 +9,11 @@ A common visualization in demography to show the age and gender distribution of 
 
 Lauren Boucher (2016-03-10) [What are the different types of population pyramids?](https://www.populationeducation.org/content/what-are-different-types-population-pyramids)
 
+
+#### Examples
+
+[Estimated U.S. Population Distribution, 1980 to 2050](https://www.reddit.com/r/dataisbeautiful/comments/73u5po/estimated_us_population_distribution_1980_to_2050/)
+
 ---
 ### R
 
