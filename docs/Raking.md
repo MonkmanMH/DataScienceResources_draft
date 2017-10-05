@@ -27,7 +27,9 @@ Robin Lovelace, ["Population synthesis with R"](http://robinlovelace.net/spatial
 ---
 ### R
 
-Arranged by package
+DIY Solution
+
+* Christopher Waldhauser (2014-04-13) [Survey: Computing Your Own Post-Stratification Weights in R](https://www.r-bloggers.com/survey-computing-your-own-post-stratification-weights-in-r/) (at R-Bloggers)
 
 #### `anesrake`
 
@@ -36,6 +38,10 @@ Arranged by package
 CRAN page: [anesrake: ANES Raking Implementation](https://cran.r-project.org/web/packages/anesrake/index.html)
 
 **articles**
+
+Josh Pasek (2010-03-15) ["ANES Weighting Algorithm: A Description"](https://web.stanford.edu/group/iriss/cgi-bin/anesrake/resources/RakingDescription.pdf) {PDF}
+
+Josh Pasek, Matthew DeBell, Jon A. Krosnick (2014-07-26) ["Standardizing!and!Democratizing!Survey!Weights: The ANES Weighting System and anesrake"](http://surveyinsights.org/wp-content/uploads/2014/07/Full-anesrake-paper.pdf) {PDF}
 
 [Raking weights with R](http://sdaza.com/survey/2012/08/25/raking/)
 
