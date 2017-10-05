@@ -55,7 +55,7 @@ The topics thus far:
 
 * [Random walk](docs/RandomWalk.md)
 
-* [Raking](docs/Raking.md) (also known as _iterative proportional fitting procedure_, or IPFP)
+* [Raking](docs/Raking.md) (also known as _iterative proportional fitting procedure_, or IPFP; uses include weighting survey responses to accurately match the population proportions)
 
 * [Regression](docs/Regression.md)
 
