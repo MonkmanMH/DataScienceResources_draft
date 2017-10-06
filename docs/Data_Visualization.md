@@ -66,11 +66,17 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 
 [Interactive flow visualization in R](http://personal.tcu.edu/kylewalker/interactive-flow-visualization-in-r.html); Kyle Walker, 2016-06-26
 
+[How to Make a D3 Sankey diagram in R](http://emapr.ceoas.oregonstate.edu/pages/education/how_to/sankey_diagram/sankey_diagram_to_visualize_landcover_change.html)
+
+
+
 #### Histograms and their variants
 
 [Variable width column charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
 
 [Mosaic or Marimekko charts](https://learnr.wordpress.com/2009/03/29/ggplot2_marimekko_mosaic_chart/) (in ggplot2)
+
+Aran Lunzer and Amelia McNamara, [What's so hard about histograms?](http://tinlizzie.org/histograms/)
 
 
 #### Lexis diagrams
