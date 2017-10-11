@@ -9,18 +9,18 @@ First, an excellent list of data science resources:
 
 How does one approach a statistics or data science project?
 
-** The function of data science: solving business problems **
+#### The function of data science: solving business problems
 
 Emily Robinson, 2017-09-27, [Managing Business Challenges In Data Science](https://robinsones.github.io/Managing-Business-Challenges-in-Data-Science/)
 
-** Opinionated Analysis Development **
+#### Opinionated Analysis Development
 
 An over-arching structure of what a project could (or should?) look like is found here:
 
 * Hilary Parker, 2017-08-30, [Opinionated Analysis Development](https://peerj.com/preprints/3210.pdf)
 
 
-** General practice and workflow **
+#### General practice and workflow
 
 * Kass RE, Caffo BS, Davidian M, Meng X-L, Yu B, Reid N (2016) ["Ten Simple Rules for Effective Statistical Practice"](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004961). PLoS Comput Biol 12(6): e1004961. doi:10.1371/journal.pcbi.1004961
 
