@@ -94,10 +94,11 @@ Reproducible Science Workshop, 2015
 
 * Gordon Shotwell, 2017-02-02, [R for Excel Users](http://blog.shotwell.ca/post/r_for_excel_users/)
 
-* Ignasi Bartomeus and F Rodriguez-Sanchez,  On reproducible workflow:
+* Ignasi Bartomeus and F Rodriguez-Sanchez,  _Non-reproducible workflows: a horror movie_ :
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">That awesome video on reproducibility with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> by <a href="https://twitter.com/ibartomeus?ref_src=twsrc%5Etfw">@ibartomeus</a> and <a href="https://twitter.com/frod_san?ref_src=twsrc%5Etfw">@frod_san</a> you can find here: <a href="https://t.co/indBflvupv">https://t.co/indBflvupv</a> <a href="https://t.co/QcdonwVTk8">https://t.co/QcdonwVTk8</a></p>&mdash; David Smith (@revodavid) <a href="https://twitter.com/revodavid/status/917779772385656832?ref_src=twsrc%5Etfw">October 10, 2017</a></blockquote>
 
+    - with more at [Reproducibilidad](http://ecoinfaeet.github.io/2016/07/06/reproducibilidad/)
 
 
 
