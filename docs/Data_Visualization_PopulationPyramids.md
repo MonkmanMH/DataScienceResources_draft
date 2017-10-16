@@ -37,6 +37,10 @@ Kyle Walker (2016-06-06) [idbr: access the US Census Bureau International Data B
 
 * Example: ["Japan's aging population in R "](http://urbandemographics.blogspot.ca/2016/03/japans-aging-population-in-r.html)
 
+Arizona pyramids:
+
+* [gist](https://gist.github.com/walkerke/47414a289ccf8eca2a5281cc09b41077)
+
 
 Ilya Kashnitsky, 2017-03-31, ["Who is old? Visualizing the concept of prospective ageing with animated population pyramids"](https://ikashnitsky.github.io/2017/who-is-old/)
 
