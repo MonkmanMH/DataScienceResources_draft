@@ -9,7 +9,9 @@ One method of dealing with missing data is through imputation.
 
 [Missing data](https://en.wikipedia.org/wiki/Missing_data) -- wikipedia
 
-Allison, P. (2000). Multiple Imputation for Missing Data: A Cautionary Tale, _Sociological Methods and Research_, 28, 301-309.
+Allison, P. (2000). [Multiple Imputation for Missing Data: A Cautionary Tale](http://journals.sagepub.com/doi/abs/10.1177/0049124100028003003), _Sociological Methods and Research_, 28, 301-309. ([Preprint]((http://www.ssc.upenn.edu/~allison/MultInt99.pdf)))
+
+Fichman, Mark and Jonathon N. Cummings (2003) ["Multiple Imputation for Missing Data: Making the most of What you Know"](http://journals.sagepub.com/doi/abs/10.1177/1094428103255532), _Organizational Research Methods_, Volume: 6 issue: 3, page(s): 282-308.
 
 Gelman, Andrew and Jennifer Hill (2006) _Data Analysis Using Regression and Multilevel/Hierarchical Models_, Cambridge University Press.
  * ["Chapter 25: Missing Data Imputation"](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
