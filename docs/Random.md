@@ -13,6 +13,9 @@ Randomization and random number generation has a variety of applications in data
 
 Martin Monkman, 2013-12-01, ["A few random things"](http://bayesball.blogspot.ca/2013/12/a-few-random-things.html)
 
+[correlated random variables: a gist](https://gist.github.com/MonkmanMH/a8b58f9cb140d702139b75467806c6d1)
+
+
 #### `Random` {base R}
 
 **package**
