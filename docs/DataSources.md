@@ -11,13 +11,21 @@ University of Alberta Libraries, Economics: [List of databases](http://guides.li
 
 Simon Fraser University Library: [Gender, Sexuality & Women's Studies Information Resources: Facts & Data](http://www.lib.sfu.ca/help/research-assistance/subject/gsws/factsdata)
 
+#### R packages
+
+
+##### `cancensus`
+
+[Census of Canada (including the National Household Survey)](https://github.com/mountainMath/cancensus)
+
+
+
 ---
-### R
+### R readers
 
 **articles**
 
 [R database interfaces](http://www.burns-stat.com/r-database-interfaces/)
-
 
 
 #### `googledrive`
