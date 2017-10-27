@@ -60,6 +60,7 @@ github: [hadley/dplyr](https://github.com/hadley/dplyr)
 
 * [A purrr tutorial](https://github.com/Cascadia-R/purrr-tutorial) -- Cascadia-R, 2017-06-03
 
+* Charlotte Wickham, [purr tutorial](https://github.com/cwickham/purrr-tutorial) -- github
 
 ### more about tidy data
 
