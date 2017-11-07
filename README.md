@@ -43,6 +43,8 @@ An overview of doing good work
 
 The topics thus far:
 
+* [Business analytics](docs/BusinessAnalytics.md) (a catch-all for the quantification, analysis, and modeling of organization performance)
+
 * [Ecological inference](docs/EcologicalInference.md)
 
 * [Forecasting](docs/Forecasting.md)
