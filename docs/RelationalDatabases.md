@@ -3,6 +3,8 @@
 
 **Start here** [Using databases with R](http://db.rstudio.com/) -- from RStudio
 
+Nathan Stevens (2017-10-18) [Database Queries With R](https://rviews.rstudio.com/2017/10/18/database-queries-with-r/)
+
 
 ## SQL tutorials
 
