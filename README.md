@@ -27,10 +27,6 @@ An overview of doing good work
 
 * [Data wrangling techniques](docs/DataWrangling.md)
 
-* [R Markdown](docs/RMarkdown.md)
-
-* [Shiny, for web apps in R](docs/Shiny.md)
-
 
 ### Data Sources & How to Read Them
 
@@ -104,7 +100,7 @@ The methods associated with this protection are sometimes refered to by the umbr
 * [Spatial data](docs/SpatialData.md)
 
 
-### Communicating about numbers
+### Communicating
 
 You've done a cracker-jack job with your statistics, and made some bang-up charts, graphs, and other visualizations. Now how do you tell the world? 
 
@@ -116,12 +112,18 @@ You've done a cracker-jack job with your statistics, and made some bang-up chart
 
 * [Data visualization](docs/Data_Visualization.md)
 
-  * [Population pyramids](docs/Data_Visualization_PopulationPyramids.md)
+  - [Population pyramids](docs/Data_Visualization_PopulationPyramids.md)
 
-  * [Slopegraphs](docs/Data_Visualization_Slopegraphs.md)
-
-
+  - [Slopegraphs](docs/Data_Visualization_Slopegraphs.md)
 
 * [Effective presentations]
+
+
+#### Using R to communicate your results
+
+* [R Markdown and Bookdown](docs/RMarkdown.md)
+
+* [Shiny, for web apps in R](docs/Shiny.md)
+
 
 
