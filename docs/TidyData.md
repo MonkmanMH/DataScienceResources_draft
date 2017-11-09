@@ -34,8 +34,12 @@ For more about the principles of tidy data, see:
 
 Karl Broman and Kara Woo, ["Data organization in spreadsheets"](https://github.com/kbroman/Paper_DataOrg) (github page with source manuscript) -- application of tidy principles to spreadsheets.
 
-* see also Karl Broman's tutorial, ["Data organization: organizing data in spreadsheets"](http://kbroman.org/dataorg/)
+* see also Karl Broman's tutorial, ["Data organization: organizing data in spreadsheets)
 
+
+Jesse Sadler, [Excel vs R: A Brief Introduction to R  (With examples using dplyr and ggplot"](http://kbroman.org/dataorg/](https://www.jessesadler.com/post/excel-vs-r/) (2017-10-02)
+
+---
 
 ## Tidy Tools
 
