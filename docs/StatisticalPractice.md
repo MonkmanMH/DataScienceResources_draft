@@ -89,7 +89,9 @@ Reproducible Science Workshop, 2015
 
 * Jenny Bryan's [spreadsheets](https://speakerdeck.com/jennybc/spreadsheets) talk given May & June 2016 reframes Shotwell as "Spreadsheets: a dystopian moonscape of unrecorded user actions."
   - live in-person (https://pbs.twimg.com/media/CmDykgRWAAE-_MP.jpg)
-
+  
+ * Jeremy Anglin, [Reproducible analysis with knitr, R Markdown, and RStudio](https://github.com/jeromyanglim/rmarkdown-rmeetup-2012)
+ 
 * Ben Marwick, 20 July 2017, [Reproducible Research Compendia via R packages](https://rawgit.com/benmarwick/Marwick-Berlin-R-users-2017/master/Marwick-Berlin-R-users-2017.html#1), presentation at Berlin R Users
 
 * Roger Peng, 2015-06-15, ["The reproducibility crisis in science: A statistical counterattack"](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2015.00827.x/full), [_Significance_](http://rss.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1740-9713/)
