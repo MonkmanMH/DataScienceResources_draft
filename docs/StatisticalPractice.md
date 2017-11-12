@@ -104,6 +104,10 @@ Reproducible Science Workshop, 2015
 
     - with more at [Reproducibilidad](http://ecoinfaeet.github.io/2016/07/06/reproducibilidad/)
 
+* [reproducibleresearch.net](http://reproducibleresearch.net/)
+
+* Rich FitzJohn, Matt Pennell, Amy Zanne, Will Cornwell (2014-06-09) [Reproducible research is still a challenge](https://ropensci.org/blog/2014/06/09/reproducibility/) (at [R OpenSci](https://ropensci.org/))
+
 ***
 
 ### Coding practice
