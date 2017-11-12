@@ -96,6 +96,8 @@ Reproducible Science Workshop, 2015
 
 * Roger Peng, 2015-06-15, ["The reproducibility crisis in science: A statistical counterattack"](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2015.00827.x/full), [_Significance_](http://rss.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1740-9713/)
 
+* Roger Peng (2014-06-06) [The Real Reason Reproducible Research is Important](https://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/)
+
 * Gordon Shotwell, 2017-02-02, [R for Excel Users](http://blog.shotwell.ca/post/r_for_excel_users/)
 
 * Ignasi Bartomeus and F Rodriguez-Sanchez,  _Non-reproducible workflows: a horror movie_ :
@@ -106,7 +108,7 @@ Reproducible Science Workshop, 2015
 
 * [reproducibleresearch.net](http://reproducibleresearch.net/)
 
-* Rich FitzJohn, Matt Pennell, Amy Zanne, Will Cornwell (2014-06-09) [Reproducible research is still a challenge](https://ropensci.org/blog/2014/06/09/reproducibility/) (at [R OpenSci](https://ropensci.org/))
+* Rich FitzJohn, Matt Pennell, Amy Zanne, Will Cornwell (2014-06-09) [Reproducible research is still a challenge](https://ropensci.org/blog/2014/06/09/reproducibility/) (at [rOpenSci](https://ropensci.org/))
 
 ***
 
