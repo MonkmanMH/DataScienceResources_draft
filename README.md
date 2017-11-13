@@ -81,7 +81,7 @@ The topics thus far:
 * [Text analysis and text mining](docs/TextAnalysis.md)
 
 
-
+***
 
 
 ### Anonymity and confidentiality of individual (personal) data
@@ -93,12 +93,16 @@ The methods associated with this protection are sometimes refered to by the umbr
 * [Anonymity and confidentiality](docs/Anonymity_Confidentiality.md)
 
 
+***
+
 ### Spatial data: creating maps
 
 * [Mapping with R -- a list of tutorials and examples](docs/http://spatial.ly/r/)
 
 * [Spatial data](docs/SpatialData.md)
 
+
+***
 
 ### Communicating
 
