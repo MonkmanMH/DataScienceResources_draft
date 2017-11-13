@@ -11,6 +11,17 @@ Thomas H. Davenport, ["Competing on Analytics"](https://hbr.org/2006/01/competin
 
 * see also Thomas H. Davenport and Jeanne G. Harris, [_Competing on Analytics: The New Science of Winning_], Harvard Business Press, 2007.
 
+
+#### Balanced Scorecard
+
+Kaplan and North introduced the balanced scorecard in 1992 in the _Harvard Business Review_
+
+* Robert S. Kaplan and David P. Norton, ["The Balanced Scorecard—Measures that Drive Performance"](https://hbr.org/1992/01/the-balanced-scorecard-measures-that-drive-performance-2), _Harvard Business Review_, January-February 1992.
+
+* Robert S. Kaplan and David P. Norton, ["Putting the Balanced Scorecard to Work"](https://hbr.org/1993/09/putting-the-balanced-scorecard-to-work), _Harvard Business Review_, September-October 1993.
+
+* [all HBR articles on the topic of the balanced scorecard](https://hbr.org/topic/balanced-scorecard)
+
 ---
 ### R
 
