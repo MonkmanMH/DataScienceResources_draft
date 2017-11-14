@@ -9,7 +9,8 @@ R has a variety of colour palettes available beyond what's possibe in base R; th
 
 
 
----
+***
+
 ### R
 
 Jenny Bryan, [Using colors in R](https://www.stat.ubc.ca/~jenny/STAT545A/block14_colors.html) -- part of the [UBC _Exploratory Data Analysis - STAT545A_ materials](https://www.stat.ubc.ca/~jenny/STAT545A/#stat-545a-exploratory-data-analysis)
@@ -31,6 +32,7 @@ CRAN page: [RColorBrewer: ColorBrewer Palettes](https://cran.r-project.org/web/p
 
 chelsea, 2015-04-15, [Create Colorful Graphs in R with RColorBrewer and Plotly](https://moderndata.plot.ly/create-colorful-graphs-in-r-with-rcolorbrewer-and-plotly/)
 
+---
 
 #### Other R packages
 
