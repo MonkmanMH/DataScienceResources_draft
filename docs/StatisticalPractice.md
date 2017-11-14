@@ -117,6 +117,12 @@ Reproducible Science Workshop, 2015
 
 * Rich FitzJohn, Matt Pennell, Amy Zanne, Will Cornwell (2014-06-09) [Reproducible research is still a challenge](https://ropensci.org/blog/2014/06/09/reproducibility/) (at [rOpenSci](https://ropensci.org/))
 
+
+#### Versioned data
+
+* Daniel Falster, Richard G FitzJohn, Matthew W. Pennell, William K. Cornwell (2017-11-10) [Versioned data: why it is needed and how it can be achieved (easily and cheaply)](https://peerj.com/preprints/3401/)
+
+
 ***
 
 ### Coding practice
