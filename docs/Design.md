@@ -2,11 +2,15 @@
 
 Design elements come into play when producing a finished artifact, be it a report, chart, web page, ...
 
+* [Data Graphics Research](http://geog.uoregon.edu/datagraphics/index.htm), Department of Geography, Oregon State University -- "The data graphics research program seeks to _further scientific and technical communication by improving the quality of data graphics._"  
+
+
+
+***
 
 ## Colour
 
 R has a variety of colour palettes available beyond what's possibe in base R; this isn't intended to be comprehensive but instead useful.
-
 
 
 ***
