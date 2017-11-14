@@ -13,8 +13,6 @@ Design elements come into play when producing a finished artifact, be it a repor
 R has a variety of colour palettes available beyond what's possibe in base R; this isn't intended to be comprehensive but instead useful.
 
 
-***
-
 ### R
 
 Jenny Bryan, [Using colors in R](https://www.stat.ubc.ca/~jenny/STAT545A/block14_colors.html) -- part of the [UBC _Exploratory Data Analysis - STAT545A_ materials](https://www.stat.ubc.ca/~jenny/STAT545A/#stat-545a-exploratory-data-analysis)
