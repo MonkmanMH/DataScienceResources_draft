@@ -32,7 +32,7 @@ CRAN page: [RColorBrewer: ColorBrewer Palettes](https://cran.r-project.org/web/p
 
 chelsea, 2015-04-15, [Create Colorful Graphs in R with RColorBrewer and Plotly](https://moderndata.plot.ly/create-colorful-graphs-in-r-with-rcolorbrewer-and-plotly/)
 
----
+
 
 #### Other R packages
 
