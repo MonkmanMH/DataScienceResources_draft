@@ -15,9 +15,16 @@ Emily Robinson, 2017-09-27, [Managing Business Challenges In Data Science](https
 
 #### Opinionated Analysis Development
 
-An over-arching structure of what a project could (or should?) look like is found here:
+An over-arching structure of what a project could (or should?) look like can be boiled down into three features: it is
 
-* Hilary Parker, 2017-08-30, [Opinionated Analysis Development](https://peerj.com/preprints/3210.pdf)
+1. Reproducible and auditable
+
+2. Accurate
+
+3. Collaborative
+
+
+* Hilary Parker, 2017-08-30, [Opinionated Analysis Development](https://peerj.com/preprints/3210/)
 
   - some of Hilary Parker's earlier / supporting thoughts on this topic can be found in [her talk "Opinionated Analysis Development" from rstudio::conf2017 (2017-01-14)](https://www.rstudio.com/resources/videos/opinionated-analysis-development/) ([slides alone at slideshare](https://www.slideshare.net/hilaryparker/opinionated-analysis-development)), as well as the slides from her [keynote at EARL SF (2017-06-15)](https://www.slideshare.net/hilaryparker/opinionated-analysis-development-earl-sf-keynote)
 
