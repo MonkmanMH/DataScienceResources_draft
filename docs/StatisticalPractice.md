@@ -13,6 +13,7 @@ How does one approach a statistics or data science project?
 
 Emily Robinson, 2017-09-27, [Managing Business Challenges In Data Science](https://robinsones.github.io/Managing-Business-Challenges-in-Data-Science/)
 
+
 #### Opinionated Analysis Development
 
 An over-arching structure of what a project could (or should?) look like can be boiled down into three features: it is
@@ -27,6 +28,7 @@ An over-arching structure of what a project could (or should?) look like can be 
 * Hilary Parker, 2017-08-30, [Opinionated Analysis Development](https://peerj.com/preprints/3210/)
 
   - some of Hilary Parker's earlier / supporting thoughts on this topic can be found in [her talk "Opinionated Analysis Development" from rstudio::conf2017 (2017-01-14)](https://www.rstudio.com/resources/videos/opinionated-analysis-development/) ([slides alone at slideshare](https://www.slideshare.net/hilaryparker/opinionated-analysis-development)), as well as the slides from her [keynote at EARL SF (2017-06-15)](https://www.slideshare.net/hilaryparker/opinionated-analysis-development-earl-sf-keynote)
+
 
 
 #### General practice and workflow
@@ -53,6 +55,7 @@ An over-arching structure of what a project could (or should?) look like can be 
   - Different systems need different constraints.
   
   - Roger Peng: most organizations don't realize that they are explicitly making these trade-offs, can't maximize all. Have to make a choice, and that's very unsatisfactory for people.
+
 
 
 ---
@@ -90,6 +93,26 @@ Reproducible Science Workshop, 2015
 
 ### Reproducible research
 
+
+* [reproducibleresearch.net](http://reproducibleresearch.net/)
+
+* Roger Peng (2014-06-06) [The Real Reason Reproducible Research is Important](https://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/)
+
+* Roger Peng, 2015-06-15, ["The reproducibility crisis in science: A statistical counterattack"](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2015.00827.x/full), [_Significance_](http://rss.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1740-9713/)
+
+* Rich FitzJohn, Matt Pennell, Amy Zanne, Will Cornwell (2014-06-09) [Reproducible research is still a challenge](https://ropensci.org/blog/2014/06/09/reproducibility/) (at [rOpenSci](https://ropensci.org/))
+
+
+#### Reproducible research with R
+
+* Jeremy Anglin, [Reproducible analysis with knitr, R Markdown, and RStudio](https://github.com/jeromyanglim/rmarkdown-rmeetup-2012)
+ 
+* Ben Marwick, 20 July 2017, [Reproducible Research Compendia via R packages](https://rawgit.com/benmarwick/Marwick-Berlin-R-users-2017/master/Marwick-Berlin-R-users-2017.html#1), presentation at Berlin R Users
+
+
+
+#### spreadsheets: the anti-reproducible research
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I read &quot;Data analysis without scripting&quot; as &quot;Dystopian moonscape of unrecorded user actions&quot;. I may not be Tableau&#39;s target market. <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a></p>&mdash; Gordon Shotwell (@gshotwell) <a href="https://twitter.com/gshotwell/status/577485681146097664">March 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -97,25 +120,17 @@ Reproducible Science Workshop, 2015
 * Jenny Bryan's [spreadsheets](https://speakerdeck.com/jennybc/spreadsheets) talk given May & June 2016 reframes Shotwell as "Spreadsheets: a dystopian moonscape of unrecorded user actions."
   - live in-person (https://pbs.twimg.com/media/CmDykgRWAAE-_MP.jpg)
   
- * Jeremy Anglin, [Reproducible analysis with knitr, R Markdown, and RStudio](https://github.com/jeromyanglim/rmarkdown-rmeetup-2012)
- 
-* Ben Marwick, 20 July 2017, [Reproducible Research Compendia via R packages](https://rawgit.com/benmarwick/Marwick-Berlin-R-users-2017/master/Marwick-Berlin-R-users-2017.html#1), presentation at Berlin R Users
-
-* Roger Peng, 2015-06-15, ["The reproducibility crisis in science: A statistical counterattack"](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2015.00827.x/full), [_Significance_](http://rss.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1740-9713/)
-
-* Roger Peng (2014-06-06) [The Real Reason Reproducible Research is Important](https://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/)
-
-* Gordon Shotwell, 2017-02-02, [R for Excel Users](http://blog.shotwell.ca/post/r_for_excel_users/)
-
 * Ignasi Bartomeus and F Rodriguez-Sanchez,  _Non-reproducible workflows: a horror movie_ :
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">That awesome video on reproducibility with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> by <a href="https://twitter.com/ibartomeus?ref_src=twsrc%5Etfw">@ibartomeus</a> and <a href="https://twitter.com/frod_san?ref_src=twsrc%5Etfw">@frod_san</a> you can find here: <a href="https://t.co/indBflvupv">https://t.co/indBflvupv</a> <a href="https://t.co/QcdonwVTk8">https://t.co/QcdonwVTk8</a></p>&mdash; David Smith (@revodavid) <a href="https://twitter.com/revodavid/status/917779772385656832?ref_src=twsrc%5Etfw">October 10, 2017</a></blockquote>
 
     - with more at [Reproducibilidad](http://ecoinfaeet.github.io/2016/07/06/reproducibilidad/)
 
-* [reproducibleresearch.net](http://reproducibleresearch.net/)
 
-* Rich FitzJohn, Matt Pennell, Amy Zanne, Will Cornwell (2014-06-09) [Reproducible research is still a challenge](https://ropensci.org/blog/2014/06/09/reproducibility/) (at [rOpenSci](https://ropensci.org/))
+* Gordon Shotwell, 2017-02-02, [R for Excel Users](http://blog.shotwell.ca/post/r_for_excel_users/)
+
+* Luis A. Apiolaza, 2017-11-11, [Reducing friction in R to avoid Excel](http://www.quantumforest.com/2017/11/reducing-friction-to-avoid-excel/)
+
 
 
 #### Versioned data
