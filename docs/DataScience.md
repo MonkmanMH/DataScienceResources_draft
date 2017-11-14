@@ -21,7 +21,10 @@ Roger Peng, [_R Programming for Data Science_](https://leanpub.com/rprogramming)
 
 * Roger Peng's [other books on LeanPub](https://leanpub.com/u/rdpeng)
 
-Chester Ismay, 2017-03-020, [Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/)
+Chester Ismay, 2017-03-02, [Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/)
+
+Chester Ismay and Albert Y. Kim, 2017-08-02, [An Introduction to Statistical and Data Sciences via R](http://moderndive.com/)
+
 
 
 #### Using R for Data Journalism
