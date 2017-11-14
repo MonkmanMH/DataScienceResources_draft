@@ -25,6 +25,10 @@ CRAN page: [RColorBrewer: ColorBrewer Palettes](https://cran.r-project.org/web/p
 
 * based on the [ColorBrewer palattes](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) developed by Dr. Cynthia Brewer. 
 
+  - Cynthia A. Brewer, Geoffrey W. Hatchard & Mark A. Harrower, 2003, ["ColorBrewer in Print: A Catalog of Color Schemes for Maps"](http://www.tandfonline.com/doi/abs/10.1179/000870403235002042), _Cartography and Geographic Information Science_, Vol.30, pp.5-32.
+
+- Mark Harrower & Cynthia A. Brewer, 2013, ["ColorBrewer.org: An Online Tool for Selecting Colour Schemes for Maps"](http://www.tandfonline.com/doi/abs/10.1179/000870403235002042), _The Cartographic Journal_, Vol.40, pp.27-37.
+
   - [additional ColorBrewer reference material](http://www.personal.psu.edu/cab38/ColorBrewer/ColorBrewer_updates.html)
 
 
