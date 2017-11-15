@@ -136,7 +136,9 @@ Reproducible Science Workshop, 2015
 
 ### Data practice
 
-Karl Broman, [data organization](http://kbroman.org/dataorg/)
+* Karl Broman, [data organization](http://kbroman.org/dataorg/)
+
+* Karl Broman and Kara Woo, ["Data organization in spreadsheets"](http://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989), _The American Statistician_, 2017-09-29.
 
 
 #### Versioned data
