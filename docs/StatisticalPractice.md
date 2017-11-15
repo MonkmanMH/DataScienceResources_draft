@@ -132,6 +132,12 @@ Reproducible Science Workshop, 2015
 * Luis A. Apiolaza, 2017-11-11, [Reducing friction in R to avoid Excel](http://www.quantumforest.com/2017/11/reducing-friction-to-avoid-excel/)
 
 
+***
+
+### Data practice
+
+Karl Broman, [data organization](http://kbroman.org/dataorg/)
+
 
 #### Versioned data
 
