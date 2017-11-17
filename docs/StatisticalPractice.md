@@ -58,39 +58,6 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 
 
----
-
-### Data Informed or Data Driven?
-
-Ricardo Bion, Robert Chang, and Jason Goodman (2017-08-23) [How R Helps Airbnb Make the Most of Its Data](https://peerj.com/preprints/3182.pdf)
-
-[The Stitch Fix Algorithms Tour](http://algorithms-tour.stitchfix.com/)
-
-
----
-
-### Agile practice
-
-[Agile Scrum Guide](http://agile-guide.pathfinder.bcgov/), BC Government DevEx
-
----
-
-### Data Quality
-
-Jacob Harris (2014) (["Distrust your data"](https://source.opennews.org/en-US/learning/distrust-your-data/), 2014-05-24.
-
----
-
-### File storage and naming conventions
-
-* [Sustainability of Digital Formats: Planning for Library of Congress Collections](http://www.digitalpreservation.gov/formats/index.shtml)
-
-* Jenny Bryan, [naming things](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf),
-Reproducible Science Workshop, 2015
-
-
----
-
 ### Reproducible research
 
 
@@ -130,6 +97,49 @@ Reproducible Science Workshop, 2015
 * Gordon Shotwell, 2017-02-02, [R for Excel Users](http://blog.shotwell.ca/post/r_for_excel_users/)
 
 * Luis A. Apiolaza, 2017-11-11, [Reducing friction in R to avoid Excel](http://www.quantumforest.com/2017/11/reducing-friction-to-avoid-excel/)
+
+
+
+#### Collaboration
+
+* Amit Bhattacharyya, 2017-11-01, [Become a Better Statistician by Actively Collaborating](http://magazine.amstat.org/blog/2017/11/01/collaborating/) (at [_Amstatnews_](http://magazine.amstat.org/))
+
+
+
+
+
+---
+
+### Data Informed or Data Driven?
+
+Ricardo Bion, Robert Chang, and Jason Goodman (2017-08-23) [How R Helps Airbnb Make the Most of Its Data](https://peerj.com/preprints/3182.pdf)
+
+[The Stitch Fix Algorithms Tour](http://algorithms-tour.stitchfix.com/)
+
+
+---
+
+### Agile practice
+
+[Agile Scrum Guide](http://agile-guide.pathfinder.bcgov/), BC Government DevEx
+
+---
+
+### Data Quality
+
+Jacob Harris (2014) (["Distrust your data"](https://source.opennews.org/en-US/learning/distrust-your-data/), 2014-05-24.
+
+---
+
+### File storage and naming conventions
+
+* [Sustainability of Digital Formats: Planning for Library of Congress Collections](http://www.digitalpreservation.gov/formats/index.shtml)
+
+* Jenny Bryan, [naming things](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf),
+Reproducible Science Workshop, 2015
+
+
+---
 
 
 ***
