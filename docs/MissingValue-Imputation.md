@@ -63,7 +63,7 @@ CRAN page: [mi: Missing Data Imputation and Model Checking](https://cran.r-proje
 Su, Gelman, Hill and Yajima (2011) [Multiple Imputation with Diagnostics (mi) in R: Opening Windows into the Black Box](http://www.stat.columbia.edu/~gelman/research/published/mipaper.pdf), _Journal of Statistical Software_, vol. 45.
 
 
-#### `MICE`
+#### `mice`
 
 **package**
 
