@@ -77,6 +77,8 @@ package `miceadds` on CRAN: [miceadds: Some Additional Multiple Imputation Funct
 
 **articles**
 
+Stef van Buuren & Karin Groothuis-Oudshoorn, 2011-12-12, ["mice: Multivariate Imputation by Chained Equations in R"](https://www.jstatsoft.org/article/view/v045i03), _Journal of Statistical Software_, Vol 45, Issue 3.
+
 Michy Alice, ["Imputing missing data with R; MICE package"](https://www.r-bloggers.com/imputing-missing-data-with-r-mice-package/)
 
 * [original source](https://datascienceplus.com/imputing-missing-data-with-r-mice-package/)
