@@ -105,7 +105,7 @@ An over-arching structure of what a project could (or should?) look like can be 
 * Amit Bhattacharyya, 2017-11-01, [Become a Better Statistician by Actively Collaborating](http://magazine.amstat.org/blog/2017/11/01/collaborating/) (at [_Amstatnews_](http://magazine.amstat.org/))
 
 
-
+* Peter Seibel, 2017-11-19, [Repo style wars: mono vs multi](http://www.gigamonkeys.com/mono-vs-multi/)
 
 
 ---
