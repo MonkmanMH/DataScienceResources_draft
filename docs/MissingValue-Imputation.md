@@ -22,6 +22,8 @@ Karen Grace-Martin (2016?) ["Two Recommended Solutions for Missing Data: Multipl
 
 Karen Grace-Martin, ["Two Recommended Solutions for Missing Data: Multiple Imputation and Maximum Likelihood"](http://www.theanalysisfactor.com/missing-data-two-recommended-solutions/)
 
+Neil J Perkins, Stephan R Cole, et al. (2017) ["Principled Approaches to Missing Data in Epidemiologic Studies"](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwx348/4642951#.WhPyM47tFQc.twitter), _American Journal of Epidemiology_
+
 ---
 ### R
 
