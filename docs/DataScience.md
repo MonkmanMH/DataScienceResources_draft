@@ -38,4 +38,13 @@ Chester Ismay and Albert Y. Kim, 2017-08-02, [An Introduction to Statistical and
 
 [Using Big Data to Solve Economic and Social Problems](http://www.equality-of-opportunity.org/bigdatacourse/) -- course at The Equality of Opportunity Project
 
+
+***
+
+### Data Science & Statistics Quotes
+
+"The plural of anecdote is data." -- Raymond Wolfinger, 1969-70
+
+* see [The plural of anecdote is data, after all](http://blog.revolutionanalytics.com/2011/04/the-plural-of-anecdote-is-data-after-all.html)
+
 -30-
