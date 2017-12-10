@@ -24,6 +24,11 @@ Karen Grace-Martin, ["Two Recommended Solutions for Missing Data: Multiple Imput
 
 Neil J Perkins, Stephan R Cole, et al. (2017) ["Principled Approaches to Missing Data in Epidemiologic Studies"](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwx348/4642951#.WhPyM47tFQc.twitter), _American Journal of Epidemiology_
 
+
+Karen, The Analysis Factor, [Multiple Imputation of Categorical Variables](https://www.theanalysisfactor.com/multiple-imputation-of-categorical-variables/)
+
+Jeff Meyer, The Analysis Factor, [Multiple Imputation for Missing Data: Indicator Variables versus Categorical Variables](https://www.theanalysisfactor.com/multiple-imputation-for-missing-data-indicator-variables-versus-categorical-variable/)
+
 ---
 ### R
 
@@ -64,13 +69,13 @@ CRAN page: [mi: Missing Data Imputation and Model Checking](https://cran.r-proje
 
 Su, Gelman, Hill and Yajima (2011) [Multiple Imputation with Diagnostics (mi) in R: Opening Windows into the Black Box](http://www.stat.columbia.edu/~gelman/research/published/mipaper.pdf), _Journal of Statistical Software_, vol. 45.
 
+Ben Goodrich and Jonathan Kropko, 2014-06-16, ["An Example of mi Usage"](https://cran.r-project.org/web/packages/mi/vignettes/mi_vignette.pdf)
 
 #### `mice`
 
 **package**
 
 CRAN page: [mice: Multivariate Imputation by Chained Equations](https://cran.r-project.org/web/packages/mice/index.html)
-
 
 **see also**
 
@@ -85,6 +90,7 @@ Michy Alice, ["Imputing missing data with R; MICE package"](https://www.r-blogge
 
 * [original source](https://datascienceplus.com/imputing-missing-data-with-r-mice-package/)
 
+datascience+, 2015-10-04 and updated 2017-04-28, [Imputing Missing Data with R; MICE package](https://datascienceplus.com/imputing-missing-data-with-r-mice-package/)
 
 #### `missMDA`
 
