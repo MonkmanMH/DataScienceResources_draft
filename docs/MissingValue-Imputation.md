@@ -86,6 +86,18 @@ Michy Alice, ["Imputing missing data with R; MICE package"](https://www.r-blogge
 * [original source](https://datascienceplus.com/imputing-missing-data-with-r-mice-package/)
 
 
+#### `missMDA`
+
+**package**
+
+CRAN page: [missMDA: Handling Missing Values with Multivariate Data Analysis](https://cran.r-project.org/web/packages/missMDA/index.html)
+
+**articles**
+
+francoishusson, 2017-08-15, [Multiple imputation for continuous and categorical data](https://www.r-bloggers.com/multiple-imputation-for-continuous-and-categorical-data/)
+
+
+
 #### `missForest`
 
 **package**
