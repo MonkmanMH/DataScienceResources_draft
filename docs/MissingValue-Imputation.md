@@ -36,7 +36,12 @@ Robert I. Kabacoff, (2011) [_R in Action: Data analysis and graphics with R_], M
 
 Joseph Rickert, ["Missing Values, Data Science and R"](https://rviews.rstudio.com/2016/11/30/missing-values-data-science-and-r/), 2016-11-30
 
+Thomas Leeper, [Multiple imputation](http://thomasleeper.com/Rcourse/Tutorials/mi.html) {tutorial for `Amelia`, `mi`, and `mice`}
+
+
 ["Tutorial on 5 Powerful R Packages used for imputing missing values"](https://www.analyticsvidhya.com/blog/2016/03/tutorial-powerful-packages-imputing-missing-values/) {`MICE`, `Amelia`, `missForest`, `Hmisc`, `mi`}
+
+
 
 #### `Amelia`
 
