@@ -56,6 +56,12 @@ description: [Amelia II: A Program for Missing Data](http://gking.harvard.edu/am
 github page for [Amelia II](https://github.com/IQSS/Amelia)
 
 
+#### `BaBooN`
+
+CRAN page: [BaBooN: Bayesian Bootstrap Predictive Mean Matching - Multiple and Single Imputation for Discrete Data](https://cran.r-project.org/web/packages/BaBooN/index.html)
+
+
+
 #### `Hmisc`
 
 **package**
@@ -115,6 +121,10 @@ francoishusson, 2017-08-15, [Multiple imputation for continuous and categorical 
 
 CRAN page: [missForest: Nonparametric Missing Value Imputation using Random Forest](https://cran.r-project.org/web/packages/missForest/index.html)
 
+
+#### `NPBayesImpute`
+
+CRAN page: [NPBayesImpute: Non-Parametric Bayesian Multiple Imputation for Categorical Data](https://cran.r-project.org/web/packages/NPBayesImpute/index.html)
 
 
 #### `VIM`
