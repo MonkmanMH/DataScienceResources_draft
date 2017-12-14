@@ -120,7 +120,7 @@ You've done a cracker-jack job with your statistics, and made some bang-up chart
 
   - [Slopegraphs](docs/Data_Visualization_Slopegraphs.md)
 
-* [Design elements](Design.md) -- including colours, fonts, etc.
+* [Design elements](docs/Design.md) -- including colours, fonts, etc.
 
 * [Effective presentations]
 
