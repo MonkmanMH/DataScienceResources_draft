@@ -18,14 +18,16 @@ Tamara Munzer, [list and links to talks](http://www.cs.ubc.ca/~tmm/talks.html?ut
 
 #### general
 
+[R Graph Catalog](http://shiny.stat.ubc.ca/r-graph-catalog/) -- an unbeatable resource for making good graphs in R, described by the creators as "a complement to _Creating More Effective Graphs_ by Naomi Robbins." 
+
 [Shiny apps for statistics](https://statistics.calpoly.edu/shiny) -- by the Statistics Department at CalPoly
+
+Kieran Healy, [_Data Visualization for Social Science_](http://socviz.co/)
 
 
 #### ggplot2 -- the pre-eminent way to create charts and graphs in R
 
 [ggplot2: part of the tidyverse](http://ggplot2.tidyverse.org/index.html) -- reference materials, examples, etc etc. Start here.
-
-[R Graph Catalog](http://shiny.stat.ubc.ca/r-graph-catalog/) -- an unbeatable resource for making good graphs in R, described by the creators as "a complement to _Creating More Effective Graphs_ by Naomi Robbins." 
 
 [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 
