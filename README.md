@@ -110,7 +110,7 @@ You've done a cracker-jack job with your statistics, and made some bang-up chart
 
 * [Writing in general](docs/Writing.md)
 
-* [Writing about numbers]
+* [Writing about numbers](docs/Writing-about-numbers.md)
 
 * [Data tables](docs/Data_Tables.md)
 
