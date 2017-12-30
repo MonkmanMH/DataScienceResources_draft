@@ -18,6 +18,18 @@ Jeremy Anglin, ["Using R to replicate common SPSS multiple regression output"](h
 #### `broom`
 
 
+#### `brms`
+
+[brms: Bayesian Regression Models using Stan](https://cran.r-project.org/web/packages/brms/index.html)
+
+"...an interface to fit Bayesian generalized (non-)linear multivariate multilevel models using Stan"
+
+[github page](https://github.com/paul-buerkner/brms)
+
+##### `brmstools`
+
+* [tools and helpers for `brms`](https://mvuorre.github.io/brmstools/)
+
 
 
 #### `modelr`
