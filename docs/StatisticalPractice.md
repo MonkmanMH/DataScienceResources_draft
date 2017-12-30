@@ -139,8 +139,6 @@ Jacob Harris (2014) (["Distrust your data"](https://source.opennews.org/en-US/le
 Reproducible Science Workshop, 2015
 
 
----
-
 
 ***
 
@@ -163,6 +161,10 @@ Reproducible Science Workshop, 2015
 Hadley Wickham, ["Style Guide"](http://adv-r.had.co.nz/Style.html) chapter from [_Advanced R_](http://adv-r.had.co.nz/)
 
 [Coding etiquette](https://ourcodingclub.github.io/2017/04/25/etiquette.html), a guide to writing clear, informative and easy-to-use #RStats code by @CodingClub 
+
+
+Joel Lee, 2017-12=22, [The Weirdest Programming Principles You’ve Never Heard Of](https://www.makeuseof.com/tag/weird-programming-principles/)
+
 
 
 #### Literate programming
