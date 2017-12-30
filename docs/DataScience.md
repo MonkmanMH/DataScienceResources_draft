@@ -9,7 +9,9 @@ What is this thing called "data science"?
 
 David Donoho (2015) [_50 Years of Data Science_](http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf), based on a presentation at the Tukey Centennial workshop, Princeton NJ Sept 18 2015.
 
-* Jenny Bryan and Hadley Wickham, "Data	Science:	A	Three	Ring	Circus	or	a	Big	Tent?"(https://arxiv.org/ftp/arxiv/papers/1712/1712.07349.pdf) {discussion of Donoho, _50 Years of Data Science_}
+* reprinted in [_Journal of Computational and Graphical Statistics_](http://amstat.tandfonline.com/toc/ucgs20/26/4?nav=tocList), Volume 26, No. 4 (2017), including a variety of discussion papers / responses, including: 
+
+  - Jenny Bryan and Hadley Wickham, "Data	Science:	A	Three	Ring	Circus	or	a	Big	Tent?"(https://arxiv.org/ftp/arxiv/papers/1712/1712.07349.pdf) {discussion of Donoho, _50 Years of Data Science_}
 
 ---
 ### The Practice of Data Science
