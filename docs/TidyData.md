@@ -49,6 +49,9 @@ Jesse Sadler, [Excel vs R: A Brief Introduction to R  (With examples using dplyr
 
 [The tidyverse R packages on github](https://github.com/hadley/tidyverse)
 
+#### `broom`
+
+
 #### `dplyr`
 
 CRAN: [dplyr: A Grammar of Data Manipulation](https://CRAN.R-project.org/package=dplyr)
