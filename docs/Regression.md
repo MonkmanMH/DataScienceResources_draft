@@ -15,7 +15,15 @@ John Fox and Sanford Weisberg, 2011, [_An R Companion to Applied Regression, Sec
 
 Jeremy Anglin, ["Using R to replicate common SPSS multiple regression output"](http://jeromyanglim.blogspot.ca/2013/12/using-r-to-replicate-common-spss.html) (2013-12-04)
 
+### Logistic Regression (Generalized Linear Models, GLM)
+
 Michy Alice, [How to perform a Logistic Regression in R](https://www.r-bloggers.com/how-to-perform-a-logistic-regression-in-r/) (2015-09-13)
+
+Data Flair, [Generalized Linear Models in R](https://data-flair.training/blogs/generalized-linear-models-in-r/), 2018-01-17  in R by Data Flair
+
+### ---
+
+### Packages
 
 #### `broom`
 
