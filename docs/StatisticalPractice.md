@@ -60,6 +60,9 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 ### Reproducible research
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is the future. Show. Your. Damn. Work. <a href="https://t.co/4GWFdXSs17">https://t.co/4GWFdXSs17</a></p>&mdash; Chris Albon (@chrisalbon) <a href="https://twitter.com/chrisalbon/status/953078784084754433?ref_src=twsrc%5Etfw">January 16, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 * [reproducibleresearch.net](http://reproducibleresearch.net/)
 
