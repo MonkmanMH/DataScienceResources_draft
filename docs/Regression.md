@@ -17,6 +17,8 @@ Jeremy Anglin, ["Using R to replicate common SPSS multiple regression output"](h
 
 ### Logistic Regression (Generalized Linear Models, GLM)
 
+ Tavish Srivastava, [Building a Logistic Regression model from scratch](https://www.analyticsvidhya.com/blog/2015/10/basics-logistic-regression/) (2015-10-04)
+
 Michy Alice, [How to perform a Logistic Regression in R](https://www.r-bloggers.com/how-to-perform-a-logistic-regression-in-r/) (2015-09-13)
 
 Data Flair, [Generalized Linear Models in R](https://data-flair.training/blogs/generalized-linear-models-in-r/), 2018-01-17  in R by Data Flair
