@@ -17,7 +17,7 @@ Jeremy Anglin, ["Using R to replicate common SPSS multiple regression output"](h
 
 ### Logistic Regression (Generalized Linear Models, GLM)
 
-Michael Friendly and David Meyer, _Discrete Data Analysis with R: Visualizatin and Modeling Techniques for Categorical and Count Data_, CRC Press (2016)
+Michael Friendly and David Meyer, _Discrete Data Analysis with R: Visualization and Modeling Techniques for Categorical and Count Data_, CRC Press (2016)
 
 * see Chapter 7, "Logistic Regression Models"
 
