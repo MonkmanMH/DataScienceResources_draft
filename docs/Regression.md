@@ -37,6 +37,8 @@ Michy Alice, [How to perform a Logistic Regression in R](https://www.r-bloggers.
 
 Data Flair, [Generalized Linear Models in R](https://data-flair.training/blogs/generalized-linear-models-in-r/), 2018-01-17  in R by Data Flair
 
+stackoverflow: ["Confidence intervals for predictions from logistic regression"](https://stackoverflow.com/questions/14423325/confidence-intervals-for-predictions-from-logistic-regression)
+
 ### ---
 
 ### Packages
