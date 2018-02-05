@@ -39,6 +39,8 @@ Data Flair, [Generalized Linear Models in R](https://data-flair.training/blogs/g
 
 stackoverflow: ["Confidence intervals for predictions from logistic regression"](https://stackoverflow.com/questions/14423325/confidence-intervals-for-predictions-from-logistic-regression)
 
+http://andrewgelman.com/2017/03/04/interpret-confidence-intervals/
+
 ### ---
 
 ### Packages
