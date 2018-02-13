@@ -77,6 +77,7 @@ Statistics Canada, ["Disclosure control"](http://www.statcan.gc.ca/pub/12-539-x/
 
 Statistics Canada, 2011: [A New Approach for the Development of a Public Use Microdata File for Canada's 2011 National Household Survey](https://www12.statcan.gc.ca/nhs-enm/2011/ref/pumf-fmgd/index-eng.cfm), Catalogue no. 99-137-XWE2015001.
 
+Mark Stinner, 2017, ["Disclosure Control and Random Tabular Adjustment"], SSC Annual Meeting, June 2017.
 
 #### United Kingdom
 
