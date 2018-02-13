@@ -18,6 +18,9 @@ A brief description of the subject
 Pete Mohanty (2017-11-07) [Automating Summary of Surveys with RMarkdown](https://rviews.rstudio.com/2017/11/07/automating-summary-of-surveys-with-rmarkdown/)
 
 
+Andrew MacDonald (2018-02-09) [How I use Rmarkdown](http://thestudyofthehousehold.com/post/how-i-use-rmarkdown/) -- three handy tips on how to use markdown.
+
+
 ### bookdown
 
 Yihui Xie, [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
