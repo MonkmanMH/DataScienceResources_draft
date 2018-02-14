@@ -171,8 +171,7 @@ Joel Lee, 2017-12=22, [The Weirdest Programming Principles You’ve Never Heard 
 
 ### Documentation
 
-> <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Writing documentation is all about making future you remember things that present you knows future you will forget&quot; -- <a href="https://twitter.com/data_stephanie?ref_src=twsrc%5Etfw">@data_stephanie</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/Rladies?src=hash&amp;ref_src=twsrc%5Etfw">#Rladies</a></p>&mdash; R-Ladies Chicago (@RLadiesChicago) <a href="https://twitter.com/RLadiesChicago/status/963576859152744456?ref_src=twsrc%5Etfw">February 14, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Writing documentation is all about making future you remember things that present you knows future you will forget&quot; -- <a href="https://twitter.com/data_stephanie?ref_src=twsrc%5Etfw">@data_stephanie</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/Rladies?src=hash&amp;ref_src=twsrc%5Etfw">#Rladies</a></p>&mdash; R-Ladies Chicago (@RLadiesChicago) <a href="https://twitter.com/RLadiesChicago/status/963576859152744456?ref_src=twsrc%5Etfw">February 14, 2018</a></blockquote>
 
 
 
