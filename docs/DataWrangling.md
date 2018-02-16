@@ -1,4 +1,4 @@
-# Data Wrangling
+# Data Wrangling (emphasis on `dplyr`)
 
 ### Introduction
 
@@ -10,6 +10,12 @@ Data is rarely in condition to use it...there's invariably something amiss.  Dat
 
 [Stat 545: Data wrangling, exploration, and analysis with R](http://stat545.com/index.html) -- course materials associated with the University of British Columbia's Statistics 545 course. Prepared in large part by Dr. Jenny Bryan.
 
+
+#### Tidy evaluation
+
+* programming with `dplyr`
+
+Edwin Thoen, 2017-08-25 [Tidy evaluation, most common actions](https://edwinth.github.io/blog/dplyr-recipes/)
 
 #### Reading messy files
 
