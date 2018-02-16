@@ -54,13 +54,7 @@ Jesse Sadler, [Excel vs R: A Brief Introduction to R  (With examples using dplyr
 
 #### `dplyr`
 
-CRAN: [dplyr: A Grammar of Data Manipulation](https://CRAN.R-project.org/package=dplyr)
-
-github: [hadley/dplyr](https://github.com/hadley/dplyr)
-
-**Articles**
-
-* [Introduction to dplyr](http://stat545.com/block009_dplyr-intro.html), part of the UBC [STAT545: Data wrangling, exploration, and analysis with R](http://stat545.com/index.html) course materials
+`dplyr` now gets its own page, labelled [**Data Wrangling**](DataWrangling.md)
 
 
 #### `purrr`
