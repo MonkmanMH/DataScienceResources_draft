@@ -37,10 +37,15 @@ Arranged by package
 
 **package**
 
-CRAN page: [dplyr: A Grammar of Data Manipulation](https://cran.r-project.org/web/packages/dplyr/index.html)
+CRAN: [dplyr: A Grammar of Data Manipulation](https://CRAN.R-project.org/package=dplyr)
+
+github: [hadley/dplyr](https://github.com/hadley/dplyr)
 
 **articles**
 
-Examples of how the package can be applied
+* [Introduction to dplyr](http://stat545.com/block009_dplyr-intro.html), part of the UBC [STAT545: Data wrangling, exploration, and analysis with R](http://stat545.com/index.html) course materials
 
 
+
+
+-30-
