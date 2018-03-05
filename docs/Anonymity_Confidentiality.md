@@ -202,6 +202,22 @@ CRAN page: [sdcMicroGUI: Graphical User Interface for Package 'sdcMicro'](https:
 Matthias Templ, Bernhard Meindl and Alexander Kowarik, [Tutorial for sdcMicroGUI (and sdcMicro)](https://cran.r-project.org/web/packages/sdcMicroGUI/vignettes/gui_tutorial.pdf), 2015
 
 
+
+#### `sdcTable`
+
+CRAN page: [sdcTable: Methods for Statistical Disclosure Control in Tabular Data](https://cran.r-project.org/web/packages/sdcTable/index.html)
+
+
+#### `easySdcTable`
+
+** package**
+
+CRAN page: [easySdcTable: Easy Interface to the Statistical Disclosure Control Package 'sdcTable'](https://cran.r-project.org/web/packages/easySdcTable/)
+
+vignette: [`easySdcTable` Vignette](https://cran.r-project.org/web/packages/easySdcTable/vignettes/easySdcTableVignette.html)
+
+
+
 #### `digest`
 
 **package**
