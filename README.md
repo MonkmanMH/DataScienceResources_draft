@@ -34,10 +34,18 @@ An overview of doing good work
 
 
 ***
+### Statistics
+
+* [Distributions](docs/Distributions.md)
+
+* [Randomization and random number generation](docs/Random.md)
+
 
 ### Quantitative Methods
 
-The topics thus far:
+* [Statistical methods (general resources)](docs/StatisticalMethods.md)
+
+The specific topics thus far:
 
 * [Business analytics](docs/BusinessAnalytics.md) (a catch-all for the quantification, analysis, and modeling of organization performance)
 
@@ -70,11 +78,6 @@ The topics thus far:
 
 
 
-### Statistics
-
-* [Distributions](docs/Distributions.md)
-
-* [Randomization and random number generation](docs/Random.md)
 
 ### Analysis of text
 
