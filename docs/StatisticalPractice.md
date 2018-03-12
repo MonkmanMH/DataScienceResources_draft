@@ -72,6 +72,8 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 * Rich FitzJohn, Matt Pennell, Amy Zanne, Will Cornwell (2014-06-09) [Reproducible research is still a challenge](https://ropensci.org/blog/2014/06/09/reproducibility/) (at [rOpenSci](https://ropensci.org/))
 
+* Melissa Assel, MS; Andrew J. Vickers, PhD (2018-02-06) ["Statistical Code for Clinical Research Papers in a High-Impact Specialist Medical Journal"](http://annals.org/aim/article-abstract/2671924/statistical-code-clinical-research-papers-high-impact-specialist-medical-journal), _Annals of Internal Medicine_
+
 
 #### Reproducible research with R
 
