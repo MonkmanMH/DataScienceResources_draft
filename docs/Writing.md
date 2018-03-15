@@ -16,8 +16,10 @@ Stephen King, _On Writing_, 2000
 ---
 ### Articles
 
+Rob Dimeo, sketch of ["The Infectiousness of Pompous Language"](https://www.flickr.com/photos/dimeophotos/20775615464)
 
 
+---
 ### Podcasts
 
 **[Longform](https://longform.org/podcast)**
