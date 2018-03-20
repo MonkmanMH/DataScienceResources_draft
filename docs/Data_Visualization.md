@@ -10,6 +10,13 @@ But start here:
 
 #### General resources
 
+Claus O. Wilke (2018, work in progress) [_Fundamentals of Data Visualization_](http://serialmentor.com/dataviz/)
+
+* Note that Wilke notes that this is a platform-agnostic book, but it was written in R's `bookdown` and uses `ggplot2` for all of the figures.
+
+* [the github repo for the book](https://github.com/clauswilke/dataviz) (in case you want to plagiarize the code for a specific figure)
+
+
 Tamara Munzer, [list and links to talks](http://www.cs.ubc.ca/~tmm/talks.html?utm_content=bufferd5cd8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#cj16)
 
 ---
