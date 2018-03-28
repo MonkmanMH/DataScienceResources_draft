@@ -13,6 +13,10 @@ David Donoho (2015) [_50 Years of Data Science_](http://courses.csail.mit.edu/18
 
   - Jenny Bryan and Hadley Wickham, "Data	Science:	A	Three	Ring	Circus	or	a	Big	Tent?"(https://arxiv.org/ftp/arxiv/papers/1712/1712.07349.pdf) {discussion of Donoho, _50 Years of Data Science_}
 
+
+Hadley Wickham (2018) [Readings in Applied Data Science](https://github.com/hadley/stats337), course materials for Standford Stats337 (spring 2018)
+
+
 ---
 ### The Practice of Data Science
 
