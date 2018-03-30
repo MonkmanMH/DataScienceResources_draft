@@ -41,10 +41,14 @@ Chester Ismay and Albert Y. Kim, 2017-08-02, [An Introduction to Statistical and
 [R for Journalists](http://www.scoop.it/t/r-for-journalists) at scoop.it
 
 
-### Data Science and Public Policy
+#### Data Science and Public Policy
 
 [Using Big Data to Solve Economic and Social Problems](http://www.equality-of-opportunity.org/bigdatacourse/) -- course at The Equality of Opportunity Project
 
+
+#### Data Science Careers
+
+Jonny Brooks-Bartlett (2018-03-28) [Here’s why so many data scientists are leaving their jobs](https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4) -- a splash of cold water realism in the face
 
 ***
 
