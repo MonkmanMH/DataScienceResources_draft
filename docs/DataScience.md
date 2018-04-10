@@ -24,7 +24,9 @@ Angela Bassa (2017) [Data Alone Isn’t Ground Truth … and why you should alwa
 
 Tim Davies and Mark Frank (2013) [‘There’s no such thing as raw data’. Exploring the sociotechnical life of a government dataset](https://eprints.soton.ac.uk/352115/), conference paper from Web Science 2013, France (02 - 04 May 2013)
 
-* [alternate source](http://students.ecs.soton.ac.uk/mwra1g13/msc/comp6037/timed_ex_pdf/p75-davies.pdf)
+* [alternate source 1](https://dl.acm.org/citation.cfm?id=2464472)
+
+* [alternate source 2](http://students.ecs.soton.ac.uk/mwra1g13/msc/comp6037/timed_ex_pdf/p75-davies.pdf)
 
 
 ---
