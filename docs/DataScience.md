@@ -18,6 +18,16 @@ Hadley Wickham (2018) [Readings in Applied Data Science](https://github.com/hadl
 
 
 ---
+### Philosophy
+
+Angela Bassa (2017) [Data Alone Isn’t Ground Truth … and why you should always carry a healthy dose of skepticism in your back pocket](https://medium.com/@angebassa/data-alone-isnt-ground-truth-9e733079dfd4)
+
+Tim Davies and Mark Frank (2013) [‘There’s no such thing as raw data’. Exploring the sociotechnical life of a government dataset](https://eprints.soton.ac.uk/352115/), conference paper from Web Science 2013, France (02 - 04 May 2013)
+
+* [alternate source](http://students.ecs.soton.ac.uk/mwra1g13/msc/comp6037/timed_ex_pdf/p75-davies.pdf)
+
+
+---
 ### The Practice of Data Science
 
 #### Using R for Data Science
