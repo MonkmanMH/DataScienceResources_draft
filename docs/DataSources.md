@@ -7,9 +7,19 @@ What is data science without _data_?  Links to tools to import data from a varie
 ---
 ### Sources
 
+#### listings
+
 University of Alberta Libraries, Economics: [List of databases](http://guides.library.ualberta.ca/c.php?g=329741&p=2334221)
 
 Simon Fraser University Library: [Gender, Sexuality & Women's Studies Information Resources: Facts & Data](http://www.lib.sfu.ca/help/research-assistance/subject/gsws/factsdata)
+
+#### open data sources
+
+[OECD world data, by country](https://data.oecd.org/)
+
+[Gapminder](https://www.gapminder.org/data/) - all indicators displayed in Gapminder World
+
+
 
 #### R packages
 
