@@ -15,6 +15,10 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 
 #### open data sources
 
+[United Nations Population Prospects](https://esa.un.org/unpd/wpp/) - detailed country population data 
+
+* [populationpyramid.net](https://www.populationpyramid.net/) uses this data
+
 [OECD world data, by country](https://data.oecd.org/)
 
 [Gapminder](https://www.gapminder.org/data/) - all indicators displayed in Gapminder World
