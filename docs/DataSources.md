@@ -19,6 +19,15 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 [Census of Canada (including the National Household Survey)](https://github.com/mountainMath/cancensus)
 
 
+##### `gapminder`
+
+[gapminder: Data from Gapminder](https://cran.r-project.org/web/packages/gapminder/index.html) An excerpt of the data available at [Gapminder.org]. For each of 142 countries, the package provides values for life expectancy, GDP per capita, and population, every five years, from 1952 to 2007. 
+
+
+##### `Lahman`
+
+[Lahman: Sean 'Lahman' Baseball Database](https://cran.r-project.org/web/packages/Lahman/)  Provides the tables from the 'Sean Lahman Baseball Database' as a set of R data.frames. It uses the data on pitching, hitting and fielding performance and other tables from 1871 through 2015, as recorded in the 2016 version of the database.
+
 
 ---
 ### R readers
