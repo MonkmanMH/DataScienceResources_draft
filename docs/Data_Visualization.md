@@ -92,7 +92,15 @@ Aran Lunzer and Amelia McNamara, [What's so hard about histograms?](http://tinli
 
 Tim RiffeEmail author, Jonas Schöley and Francisco Villavicencio (2017) ["A unified framework of demographic time"](http://genus.springeropen.com/articles/10.1186/s41118-017-0024-4), _Genus: Journal of Population Sciences_, 2017 73:7
 
+
 #### Network graphs
+
+[DiagramR: Graph and network visualization using tabular data in R](DiagrammeR: Graph/Network Visualization)
+
+* [github repo](https://github.com/rich-iannone/DiagrammeR)
+
+* [DiagrammeRsvg: Export DiagrammeR Graphviz Graphs as SVG](https://cran.r-project.org/web/packages/DiagrammeRsvg/index.html)
+
 
 [ggnet2: network visualization with ggplot2](https://briatte.github.io/ggnet/) -- part of the [`GGally`](https://www.rdocumentation.org/packages/GGally/versions/1.3.2) package
 
