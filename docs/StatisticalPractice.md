@@ -115,12 +115,14 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 ---
 
-### Data Informed or Data Driven?
+### Data Informed or Data Driven? Data Science at Work
 
 Ricardo Bion, Robert Chang, and Jason Goodman (2017-08-23) [How R Helps Airbnb Make the Most of Its Data](https://peerj.com/preprints/3182.pdf)
 
 [The Stitch Fix Algorithms Tour](http://algorithms-tour.stitchfix.com/)
 
+
+Behavioural Insights Team (UK), 2017-12-14, [Using Data Science in Policy](http://www.behaviouralinsights.co.uk/publications/using-data-science-in-policy/)
 
 ---
 
