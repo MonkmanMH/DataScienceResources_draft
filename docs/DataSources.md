@@ -51,6 +51,16 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 [R database interfaces](http://www.burns-stat.com/r-database-interfaces/)
 
 
+#### `rio`
+
+**package**
+
+CRAN page: _currently only development version_, see tidyverse link below 
+
+vignette: [Import, Export, and Convert Data Files](https://cran.r-project.org/web/packages/rio/vignettes/rio.html)
+
+
+
 #### `googledrive`
 
 **package**
@@ -70,6 +80,26 @@ CRAN page: [foreign: Read Data Stored by Minitab, S, SAS, SPSS, Stata, Systat, W
 **articles**
 
 * [How to open an SPSS file into R](http://www.milanor.net/blog/how-to-open-an-spss-file-into-r/), by Davide Massidda (2014-03-26)
+
+
+
+#### Stata files
+
+**package `read.dta`**
+
+Reads a file in Stata version 5–12 binary format into a data frame.
+
+CRAN page: [`read.dta`: Read Stata Binary Files](http://stat.ethz.ch/R-manual/R-devel/library/foreign/html/read.dta.html)
+
+
+**package readstata13**
+
+Function to read and write the 'Stata' file format.
+
+CRAN Page: [readstata13: Import 'Stata' Data Files](readstata13: Import 'Stata' Data Files)
+
+
+
 
 
 #### `TSdbi` and related packages
