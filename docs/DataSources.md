@@ -23,14 +23,23 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 
 [Gapminder](https://www.gapminder.org/data/) - all indicators displayed in Gapminder World
 
+---
 
-
-#### R packages
+### R packages
 
 
 ##### `cancensus`
 
 [Census of Canada (including the National Household Survey)](https://github.com/mountainMath/cancensus)
+
+
+#### `CANSIM2R`
+
+[CANSIM2R: Directly Extracts Complete CANSIM Data Tables](https://cran.r-project.org/web/packages/CANSIM2R/index.html)
+
+github: [CANSIM2R](https://github.com/MarcoLugo/CANSIM2R)
+
+* Andrew Clarke (2017-08-09) [StatCan API's Discovered](https://www.mytinyshinys.com/2017/08/09/statcanapi/)
 
 
 ##### `gapminder`
