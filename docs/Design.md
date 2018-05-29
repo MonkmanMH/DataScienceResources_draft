@@ -27,6 +27,9 @@ Design elements come into play when producing a finished artifact, be it a repor
 Lisa Charlotte Rost, 2018-05-29, [What to consider when choosing colors for data visualization](https://blog.datawrapper.de/colors/)
 
 
+Gregor Aisch, [a plethora of blog posts about colour in data visualization](https://vis4.net/blog/tags/color/)
+
+
 ### R
 
 R has a variety of colour palettes available beyond what's possibe in base R; this isn't intended to be comprehensive but instead useful.
