@@ -24,6 +24,8 @@ Design elements come into play when producing a finished artifact, be it a repor
 [Color Oracle](http://colororacle.org/) -- Design for the Color Impaired
 
 
+Lisa Charlotte Rost, 2018-05-29, [What to consider when choosing colors for data visualization](https://blog.datawrapper.de/colors/)
+
 
 ### R
 
