@@ -53,6 +53,27 @@ Based on the Color Brewer palettes (see above)
 chelsea, 2015-04-15, [Create Colorful Graphs in R with RColorBrewer and Plotly](https://moderndata.plot.ly/create-colorful-graphs-in-r-with-rcolorbrewer-and-plotly/)
 
 
+#### `Scico`
+
+**package**
+
+CRAN page: []()
+
+
+**articles**
+
+* Thomas Lin Pedersen, [Scico and the Colour Conundrum](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/)
+
+* Fabio Crameri, [Scientific colour maps](http://www.fabiocrameri.ch/colourmaps.php)
+
+
+
+#### `viridis`
+
+**package**
+
+CRAN page: [viridis: Default Color Maps from 'matplotlib'](https://cran.r-project.org/web/packages/viridis/index.html)
+
 
 #### Other R packages
 
