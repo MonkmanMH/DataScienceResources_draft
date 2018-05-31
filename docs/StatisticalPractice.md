@@ -132,9 +132,13 @@ Behavioural Insights Team (UK), 2017-12-14, [Using Data Science in Policy](http:
 
 ---
 
-### Data Quality
+### Data Quality & Context Compatibility
 
-Jacob Harris (2014) (["Distrust your data"](https://source.opennews.org/en-US/learning/distrust-your-data/), 2014-05-24.
+Or, do your data really mean what you hope they do?
+
+Jacob Harris (2014) ["Distrust your data"](https://source.opennews.org/en-US/learning/distrust-your-data/), 2014-05-24.
+
+Roger Peng (2018) [Context Compatibility in Data Analysis](https://simplystatistics.org/2018/05/24/context-compatibility-in-data-analysis/), 2018-05-30
 
 ---
 
