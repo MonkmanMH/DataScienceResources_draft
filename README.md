@@ -125,7 +125,7 @@ You've done a cracker-jack job with your statistics, and made some bang-up chart
 
 * [Design elements](docs/Design.md) -- including colours, fonts, etc.
 
-* [Effective presentations]
+* [Effective presentations](docs/Presentations.md) -- what makes an effective presentation, and R tools for making slide decks
 
 
 #### Using R to communicate your results
