@@ -24,7 +24,9 @@ Melinda Seckington, 2017-07-29, [The Art of Slide Design](https://speakerdeck.co
 
 CRAN: [xaringan: Presentation Ninja](https://cran.r-project.org/web/packages/xaringan/index.html)
 
-github: [xaringan](https://github.com/yihui/xaringan)
+github: [`xaringan`](https://github.com/yihui/xaringan)
+
+wiki: [`xaringan` wiki](https://github.com/yihui/xaringan/wiki)
 
 **articles**
 
