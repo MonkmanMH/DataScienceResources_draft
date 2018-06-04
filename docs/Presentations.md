@@ -8,6 +8,12 @@ A brief description of the subject
 ### Theory and methods
 
 
+**articles**
+
+
+Melinda Seckington, 2017-07-29, [The Art of Slide Design](https://speakerdeck.com/mseckington/the-art-of-slide-design)
+
+
 ---
 ### R
 
