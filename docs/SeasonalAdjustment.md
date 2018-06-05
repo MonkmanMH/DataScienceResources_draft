@@ -11,6 +11,7 @@ From the wikipedia entry:
 
 Statistics Canada, ["Seasonal adjustment and trend-cycle estimation"](http://www.statcan.gc.ca/pub/12-539-x/2009001/seasonal-saisonnal-eng.htm)  (part of Statistics Canada [Quality Guidelines](http://www.statcan.gc.ca/pub/12-539-x/12-539-x2009001-eng.htm), Catalogue 12-539-X)
 
+U.S. Census Bureau, [The X-13ARIMA-SEATS Seasonal Adjustment Program](https://www.census.gov/srd/www/x13as/)
 
 ---
 ### R
@@ -44,6 +45,8 @@ Ellis, Peter. 2016-02-08. ["ggseas package for seasonal adjustment on the fly wi
 #### `seasonal`
 
 **[seasonal: R-interface to X-13ARIMA-SEATS](http://www.seasonal.website/seasonal.html)**
+
+Packages the U.S. Census Bureau's gold-standard X13-SEATS-ARIMA for use in R.
 
 "...the best interface on the planet to the X13-SEATS-ARIMA time series analysis application from the US Census Department, which is the industry standard particularly for official statistics agencies doing seasonal adjustment." (Peter Ellis, [vignette for `ggsdc`](https://cran.r-project.org/web/packages/ggseas/vignettes/ggsdc.html.))
 
