@@ -8,3 +8,10 @@ A collection of general reference materials (covering a variety of quantitative 
 ## general topics
 
 Greenland, Senn, et al. (2016) [Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://www.ncbi.nlm.nih.gov/pubmed/27209009) 
+
+
+## Bayesian methods
+
+Daniel Lüdecke, 2018-06-06, [R functions for Bayesian Model Statistics and Summaries](https://strengejacke.wordpress.com/2018/06/06/r-functions-for-bayesian-model-statistics-and-summaries-rstats-stan-brms/)
+
+-30-
