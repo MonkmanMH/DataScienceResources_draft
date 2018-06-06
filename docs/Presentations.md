@@ -44,6 +44,8 @@ Nan-Hung Hsieh, [TAMU Presentation Template](https://nanhung.rbind.io/slide/tamu
 
 John R. Little, 2017-08-09, [Compose Slides in R with Xaringan Slides](https://www.johnlittle.info/post/compose-slides-in-r-with-xaringan-slides/)
 
+* [Duke University slide template](https://github.com/libjohn/slide-template-dukeu)
+
 Steven V. Miller, 2018-02-03, [Make Your Presentations Fun in Xaringan](http://svmiller.com/blog/2018/02/r-markdown-xaringan-theme/)
 
 -30-
