@@ -78,6 +78,8 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 
 * a.k.a. [Circos plot](http://circos.ca/)
 
+* David Smith, [Global Migration, animated with R](http://blog.revolutionanalytics.com/2018/06/global-migration-animated-with-r.html), 2018-06-29
+
 **Sankey plots**
 
 [Interactive flow visualization in R](http://personal.tcu.edu/kylewalker/interactive-flow-visualization-in-r.html); Kyle Walker, 2016-06-26
