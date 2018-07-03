@@ -57,6 +57,13 @@ An over-arching structure of what a project could (or should?) look like can be 
   - Roger Peng: most organizations don't realize that they are explicitly making these trade-offs, can't maximize all. Have to make a choice, and that's very unsatisfactory for people.
 
 
+* Emily Robinson, [Red Flags in Data Science Interviews](http://hookedondata.org/Red-Flags-in-Data-Science-Interviews/)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New blog post, co-written with <a href="https://twitter.com/skyetetra?ref_src=twsrc%5Etfw">@skyetetra</a>! 12 red flags to watch out for in data science interviews 🚩<a href="https://t.co/hM2E7I46Da">https://t.co/hM2E7I46Da</a> <a href="https://t.co/jFVA7mmjjU">pic.twitter.com/jFVA7mmjjU</a></p>&mdash; Emily Robinson (@robinson_es) <a href="https://twitter.com/robinson_es/status/1014164367292747778?ref_src=twsrc%5Etfw">July 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 
 ### Reproducible research
 
