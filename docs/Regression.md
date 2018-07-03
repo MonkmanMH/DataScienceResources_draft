@@ -17,7 +17,7 @@ Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, _An Introduct
 
 Jeremy Anglin, ["Using R to replicate common SPSS multiple regression output"](http://jeromyanglim.blogspot.ca/2013/12/using-r-to-replicate-common-spss.html) (2013-12-04)
 
-Selva Prabhakaran, [Linear Regression](http://r-statistics.co/Linear-Regression.html) 
+Selva Prabhakaran, [Linear Regression](http://r-statistics.co/Linear-Regression.html) (part of the [r-statistics.co](http://r-statistics.co/) R tutorials)
 
 
 
