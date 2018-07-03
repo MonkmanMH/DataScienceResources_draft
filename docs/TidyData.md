@@ -43,6 +43,9 @@ Jesse Sadler, [Excel vs R: A Brief Introduction to R  (With examples using dplyr
 
 ## Tidy Tools
 
+[The tidyverse style guide](http://style.tidyverse.org/functions.html)
+
+
 ### tidyverse R packages
 
 [The tidyverse: ](http://tidyverse.org/)
