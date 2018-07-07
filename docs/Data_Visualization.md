@@ -26,6 +26,10 @@ Claus O. Wilke (2018, work in progress) [_Fundamentals of Data Visualization_](h
 
 Tamara Munzer, [list and links to talks](http://www.cs.ubc.ca/~tmm/talks.html?utm_content=bufferd5cd8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#cj16)
 
+
+Kate Moran, 2017-08-06, ["How to Present Scientific Findings Online"](https://www.nngroup.com/articles/scientific-findings-online/) (file under: Know Your Audience)
+
+
 ---
 
 ### R Resources
