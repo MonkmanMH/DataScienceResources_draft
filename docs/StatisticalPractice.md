@@ -81,6 +81,10 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 * Melissa Assel, MS; Andrew J. Vickers, PhD (2018-02-06) ["Statistical Code for Clinical Research Papers in a High-Impact Specialist Medical Journal"](http://annals.org/aim/article-abstract/2671924/statistical-code-clinical-research-papers-high-impact-specialist-medical-journal), _Annals of Internal Medicine_
 
+* V.	Orozco,	C.	Bontemps,	E.	Maigné,	V.	Piguet,	A.	Hofstetter,	A.	Lacroix,		
+F.	Levert,	J.M.	Rousselle	(2018-07) ["How	To	Make	A	Pie:	Reproducible	Research	for	Empirical	
+Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2018/wp_tse_933.pdf)
+
 
 #### Reproducible research with R
 
