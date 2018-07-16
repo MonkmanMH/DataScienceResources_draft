@@ -221,4 +221,12 @@ GitHub: [`tmap`](https://github.com/mtennekes/tmap)
 Corentin M. Barbu, 2015-11-06, ["tmap R package"](http://spatcontrol.net/SpatialControl/2015/11/06/tmap-r-package/)
 
 
+
+##### `urbnmapr`
+
+**articles**
+
+Sarah Strochak, [How to Create State and County Maps Easily in R](https://medium.com/@urban_institute/how-to-create-state-and-county-maps-easily-in-r-577d29300bb2)
+
+
 -30-
