@@ -75,8 +75,13 @@ CRAN page: []()
 CRAN page: [viridis: Default Color Maps from 'matplotlib'](https://cran.r-project.org/web/packages/viridis/index.html)
 
 
-#### Other R packages
+#### other R palette packages
+
+ * [`ghibli`, Studio Ghibli colour palettes](https://github.com/ewenme/ghibli) {github}
 
 * [`orcRe`, Australian themed colour palettes](https://github.com/ropenscilabs/ochRe) {github}
 
+* [`wesanderson`, A Wes Anderson color palette for R](https://github.com/karthik/wesanderson) {github}
 
+
+-30-
