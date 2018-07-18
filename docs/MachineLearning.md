@@ -11,7 +11,10 @@ Machine learning is a growing field of data analysis where the building of model
 ---
 ### R
 
+Laurent Gatto, 2017-10-18, [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
+
 Coursera: [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning)
+
 
 #### `h2o`
 
