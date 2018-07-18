@@ -13,6 +13,10 @@ Machine learning is a growing field of data analysis where the building of model
 
 Laurent Gatto, 2017-10-18, [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
 
+J.J. Allaire, [Machine Learning with R and TensorFlow](https://www.youtube.com/watch?v=atiYXm7JZv0&feature=youtu.be), keynote at rstudio::conf 2018 (youtube video)
+
+David Smith, 2018-02-21, [Machine Learning in R with TensorFlow](http://blog.revolutionanalytics.com/2018/02/r-with-tensorflow.html)
+
 Coursera: [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning)
 
 
