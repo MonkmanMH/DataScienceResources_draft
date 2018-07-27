@@ -19,6 +19,11 @@ Hadley Wickham (2018) [Readings in Applied Data Science](https://github.com/hadl
 
 David Robinson (2018-01-09) ["What's the difference between data science, machine learning, and artificial intelligence?"](http://varianceexplained.org/r/ds-ml-ai/)
 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Let&#39;s try that again <a href="https://t.co/1G4wHvGvdd">pic.twitter.com/1G4wHvGvdd</a></p>&mdash; Data Science Renee (@BecomingDataSci) <a href="https://twitter.com/BecomingDataSci/status/773001808096661504?ref_src=twsrc%5Etfw">September 6, 2016</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ---
 ### Philosophy
 
