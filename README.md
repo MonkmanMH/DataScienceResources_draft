@@ -36,6 +36,8 @@ An overview of doing good work
 ***
 ### Statistics
 
+* [Bayesian methods](docs/Bayesian.md)
+
 * [Distributions](docs/Distributions.md)
 
 * [Randomization and random number generation](docs/Random.md)
