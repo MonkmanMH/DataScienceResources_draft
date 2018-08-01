@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Bayesian statistical methods provide an alternative way of thinking about results.
+[Bayesian statistics: Wikipedia page](https://en.wikipedia.org/wiki/Bayesian_statistics)
 
 ---
 ### Theory and methods (with a focus on those providing examples in R)
