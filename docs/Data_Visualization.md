@@ -32,6 +32,8 @@ Kate Moran, 2017-08-06, ["How to Present Scientific Findings Online"](https://ww
 Richard Brath & Ebad Banissi, 2016, ["Using Typography to Expand the
 Design Space of Data Visualization"](https://www.sciencedirect.com/science/article/pii/S2405872616300107), _She Ji: The Journal of Design, Economics, and Innovation_, Vol. 2, Issue 1, Spring 2016
 
+Steve Franconeri, [Chart Chooser](http://experception.net/)
+
 ---
 
 ### R Resources
