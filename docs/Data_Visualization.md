@@ -60,11 +60,12 @@ Kieran Healy, [_Data Visualization for Social Science_](http://socviz.co/)
 
 Simon Jackson, 2016-08-11, [Plotting background data for groups with ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2)
 
+Laura Ellis, 2018-08-01, [Highlighting with ggplot2: The Old School and New School Way](https://www.littlemissdata.com/blog/highlight)
 
 
 ** _Note:_**
 
-There are many extension packages to `ggplot2`; they are referenced below.
+There are many extension packages that allow you to make other visualizaitons in `ggplot2`; they are referenced below.
 
 
 ---
