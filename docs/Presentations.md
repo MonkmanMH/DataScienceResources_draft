@@ -14,6 +14,13 @@ A brief description of the subject
 Melinda Seckington, 2017-07-29, [The Art of Slide Design](https://speakerdeck.com/mseckington/the-art-of-slide-design)
 
 
+**general tips and pointers**
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Some of my tips for new JSM speakers: <br><br>🔘 Avoid complete sentences on slides. They are only cues. You are a speaker, not a reader.<br><br>🔘 Try not to spend too much time on background. Your focus should be YOUR work, not others’ <br><br>🔘 Spend the most time describing plots <a href="https://twitter.com/hashtag/JSM2018?src=hash&amp;ref_src=twsrc%5Etfw">#JSM2018</a></p>&mdash; Dr. Sam Tyner (@sctyner) <a href="https://twitter.com/sctyner/status/1024776569271668736?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 ---
 ### R
 
