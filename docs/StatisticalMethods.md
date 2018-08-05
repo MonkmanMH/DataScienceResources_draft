@@ -14,4 +14,6 @@ Greenland, Senn, et al. (2016) [Statistical tests, P values, confidence interval
 
 Daniel Lüdecke, 2018-06-06, [R functions for Bayesian Model Statistics and Summaries](https://strengejacke.wordpress.com/2018/06/06/r-functions-for-bayesian-model-statistics-and-summaries-rstats-stan-brms/)
 
+[tidybayes: Bayesian analysis + tidy data + geoms](http://mjskay.github.io/tidybayes/)
+
 -30-
