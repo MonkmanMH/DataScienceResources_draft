@@ -18,6 +18,8 @@ Stephen King, _On Writing_, 2000
 
 Rob Dimeo, sketch of ["The Infectiousness of Pompous Language"](https://www.flickr.com/photos/dimeophotos/20775615464)
 
+["How to construct a _Nature_ summary paragraph"](http://s3-service-broker-live-19ea8b98-4d41-4cb4-be4c-d68f4963b7dd.s3.amazonaws.com/uploads/ckeditor/attachments/7808/2c_Summary_para.pdf) (advice on how to write an abstract)
+
 
 ---
 ### Podcasts
