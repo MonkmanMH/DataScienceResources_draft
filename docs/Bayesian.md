@@ -49,5 +49,3 @@ DataCamp course: [Bayesian modeling with `rjags`](https://www.datacamp.com/cours
 
 
 -30-
-
-## Bayesian methods
