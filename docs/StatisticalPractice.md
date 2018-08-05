@@ -232,8 +232,10 @@ Robert C. Martin, 2011, _The Clean Coder: A Code of Conduct for Professional Pro
 
 Dani Marillas, 2017-01-25, ["Don’t document your code. Code your documentation."](https://dev.to/raddikx/dont-document-your-code-code-your-documentation)
 
+
+## General research practice
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I didn&#39;t think my &quot;start-up&quot; document for my grad students (the resources I wish *I* had when I started a PhD) would prove to be so popular, so I figured I would share them here. So, here&#39;s what I&#39;ve compiled so far. <a href="https://twitter.com/hashtag/hiddencurriculum?src=hash&amp;ref_src=twsrc%5Etfw">#hiddencurriculum</a> 1/12</p>&mdash; Matt Hauer (@thehauer) <a href="https://twitter.com/thehauer/status/1021179403680862218?ref_src=twsrc%5Etfw">July 22, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
