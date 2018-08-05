@@ -33,6 +33,8 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 ### General practice and workflow
 
+* Keiran Healy, [_The Plain Person's Guide to Plain Text Social Science_](https://kieranhealy.org/files/papers/plain-person-text.pdf) {pdf}
+
 * Kass RE, Caffo BS, Davidian M, Meng X-L, Yu B, Reid N (2016) ["Ten Simple Rules for Effective Statistical Practice"](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004961). PLoS Comput Biol 12(6): e1004961. doi:10.1371/journal.pcbi.1004961
 
 * Ray Li (2016) ["7 habits of highly effective data analysis"](http://dataconomy.com/2016/02/7-habits-of-highly-effective-data-analysis/). [Dataconomy.com](Dataconomy.com), 2016-02-16.
