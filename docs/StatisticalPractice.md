@@ -5,16 +5,16 @@ First, an excellent list of data science resources:
 * [Practical Data Science for Stats - a PeerJ Collection](https://peerj.com/collections/50-practicaldatascistats/)
 
 
-### Introduction
+## Introduction
 
 How does one approach a statistics or data science project?
 
-#### The function of data science: solving business problems
+### The function of data science: solving business problems
 
 Emily Robinson, 2017-09-27, [Managing Business Challenges In Data Science](https://robinsones.github.io/Managing-Business-Challenges-in-Data-Science/)
 
 
-#### Opinionated Analysis Development
+### Opinionated Analysis Development
 
 An over-arching structure of what a project could (or should?) look like can be boiled down into three features: it is
 
@@ -31,7 +31,7 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 
 
-#### General practice and workflow
+### General practice and workflow
 
 * Kass RE, Caffo BS, Davidian M, Meng X-L, Yu B, Reid N (2016) ["Ten Simple Rules for Effective Statistical Practice"](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004961). PLoS Comput Biol 12(6): e1004961. doi:10.1371/journal.pcbi.1004961
 
@@ -65,7 +65,7 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 
 
-### Reproducible research
+## Reproducible research
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is the future. Show. Your. Damn. Work. <a href="https://t.co/4GWFdXSs17">https://t.co/4GWFdXSs17</a></p>&mdash; Chris Albon (@chrisalbon) <a href="https://twitter.com/chrisalbon/status/953078784084754433?ref_src=twsrc%5Etfw">January 16, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -86,7 +86,7 @@ F.	Levert,	J.M.	Rousselle	(2018-07) ["How	To	Make	A	Pie:	Reproducible	Research	f
 Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2018/wp_tse_933.pdf)
 
 
-#### Reproducible research with R
+### Reproducible research with R
 
 * Jeremy Anglin, [Reproducible analysis with knitr, R Markdown, and RStudio](https://github.com/jeromyanglim/rmarkdown-rmeetup-2012)
  
@@ -94,7 +94,7 @@ Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documen
 
 
 
-#### spreadsheets: the anti-reproducible research
+### spreadsheets: the anti-reproducible research
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I read &quot;Data analysis without scripting&quot; as &quot;Dystopian moonscape of unrecorded user actions&quot;. I may not be Tableau&#39;s target market. <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a></p>&mdash; Gordon Shotwell (@gshotwell) <a href="https://twitter.com/gshotwell/status/577485681146097664">March 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -114,9 +114,9 @@ Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documen
 
 * Luis A. Apiolaza, 2017-11-11, [Reducing friction in R to avoid Excel](http://www.quantumforest.com/2017/11/reducing-friction-to-avoid-excel/)
 
+---
 
-
-#### Collaboration
+## Collaboration
 
 * Amit Bhattacharyya, 2017-11-01, [Become a Better Statistician by Actively Collaborating](http://magazine.amstat.org/blog/2017/11/01/collaborating/) (at [_Amstatnews_](http://magazine.amstat.org/))
 
@@ -126,7 +126,7 @@ Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documen
 
 ---
 
-### Data Informed or Data Driven? Data Science at Work
+## Data Informed or Data Driven? Data Science at Work
 
 Ricardo Bion, Robert Chang, and Jason Goodman (2017-08-23) [How R Helps Airbnb Make the Most of Its Data](https://peerj.com/preprints/3182.pdf)
 
@@ -137,13 +137,13 @@ Behavioural Insights Team (UK), 2017-12-14, [Using Data Science in Policy](http:
 
 ---
 
-### Agile practice
+## Agile practice
 
 [Agile Scrum Guide](http://agile-guide.pathfinder.bcgov/), BC Government DevEx
 
 ---
 
-### Data Quality & Context Compatibility
+## Data Quality & Context Compatibility
 
 Or, do your data really mean what you hope they do?
 
@@ -153,7 +153,7 @@ Roger Peng (2018) [Context Compatibility in Data Analysis](https://simplystatist
 
 ---
 
-### File storage and naming conventions
+## File storage and naming conventions
 
 * [Sustainability of Digital Formats: Planning for Library of Congress Collections](http://www.digitalpreservation.gov/formats/index.shtml)
 
@@ -164,21 +164,21 @@ Reproducible Science Workshop, 2015
 
 ***
 
-### Data practice
+## Data practice
 
 * Karl Broman, [data organization](http://kbroman.org/dataorg/)
 
 * Karl Broman and Kara Woo, ["Data organization in spreadsheets"](http://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989), _The American Statistician_, 2017-09-29.
 
 
-#### Versioned data
+### Versioned data
 
 * Daniel Falster, Richard G FitzJohn, Matthew W. Pennell, William K. Cornwell (2017-11-10) [Versioned data: why it is needed and how it can be achieved (easily and cheaply)](https://peerj.com/preprints/3401/)
 
 
 ***
 
-### Coding practice
+## Coding practice
 
 Hadley Wickham, ["Style Guide"](http://adv-r.had.co.nz/Style.html) chapter from [_Advanced R_](http://adv-r.had.co.nz/)
 
@@ -188,13 +188,19 @@ Hadley Wickham, ["Style Guide"](http://adv-r.had.co.nz/Style.html) chapter from 
 Joel Lee, 2017-12=22, [The Weirdest Programming Principles You’ve Never Heard Of](https://www.makeuseof.com/tag/weird-programming-principles/)
 
 
+### Version control
+
+Jenny Bryan and the STAT 545 TAs, [_Happy Git and GitHub for the useR_](http://happygitwithr.com/)
+
+John D. Blischak, Emily R. Davenport, Greg Wilson (2016-01-19) ["A Quick Introduction to Version Control with Git and GitHub"](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668), _PLoS Computational Biology_.
+
 ### Documentation
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Writing documentation is all about making future you remember things that present you knows future you will forget&quot; -- <a href="https://twitter.com/data_stephanie?ref_src=twsrc%5Etfw">@data_stephanie</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/Rladies?src=hash&amp;ref_src=twsrc%5Etfw">#Rladies</a></p>&mdash; R-Ladies Chicago (@RLadiesChicago) <a href="https://twitter.com/RLadiesChicago/status/963576859152744456?ref_src=twsrc%5Etfw">February 14, 2018</a></blockquote>
 
 
 
-#### Literate programming
+### Literate programming
 
 The practice of explaining the program logic in a natural language"; it goes beyond what might be called "documentation". In the world of R, the RMarkdown functionality within [RStudio](https://www.rstudio.com/products/rstudio/), including [R notebooks](http://rmarkdown.rstudio.com/r_notebooks.html), is a way to program in this manner.
 
@@ -206,14 +212,14 @@ The concept was introduced by Donald Knuth in 1984; the original article is
 * [Wikipedia entry](https://en.wikipedia.org/wiki/Literate_programming)
 
 
-#### Functions in R
+### Functions in R
 
 Colin Fay, [Playing with R, infix functions, and pizza ](http://colinfay.me/playing-r-infix-functions/)
 
 
 
 
-#### Naming variables
+### Naming variables
 
 "There are only two hard things in Computer Science: cache invalidation and naming things."
 -- Phil Karlton
@@ -221,17 +227,18 @@ Colin Fay, [Playing with R, infix functions, and pizza ](http://colinfay.me/play
 Andy Lester, ["The World's Two Worst Variable Names"](http://archive.oreilly.com/pub/post/the_worlds_two_worst_variable.html)
 
 
-#### Clean coding 
+### Clean coding 
 
 Robert C. Martin, 2008, _Clean Code: A Handbook of Agile Software Development_, Prentice Hall.
 
 Robert C. Martin, 2011, _The Clean Coder: A Code of Conduct for Professional Programmers_, Prentice Hall.
 
 
-#### Further reading
+### Further reading
 
 Dani Marillas, 2017-01-25, ["Don’t document your code. Code your documentation."](https://dev.to/raddikx/dont-document-your-code-code-your-documentation)
 
+---
 
 ## General research practice
 
