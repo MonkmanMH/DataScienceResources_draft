@@ -13,6 +13,10 @@ A brief description of the subject
 
 Melinda Seckington, 2017-07-29, [The Art of Slide Design](https://speakerdeck.com/mseckington/the-art-of-slide-design)
 
+Kieran Healy, 2018-03-24, [Making Slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/)
+
+Jessica Calarco, July 31, 2018-07-31, [Conference Talks](http://www.jessicacalarco.com/tips-tricks/2018/7/31/conference-talks)
+
 
 **general tips and pointers**
 
