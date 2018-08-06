@@ -22,6 +22,8 @@ Jim Albert, 2009, _Bayesian Computation with R_ (second edition), Springer
 
 David Robinson, [_Introduction to Empirical Bayes_](https://gumroad.com/l/empirical-bayes)
 
+* [github page](https://github.com/dgrtwo/empirical-bayes-book/blob/master/beta-distribution.Rmd)
+
 * [book announcement](http://varianceexplained.org/r/empirical-bayes-book/) (2017-12-27)
 
 * based on 10 blog posts: the final post has a listing of the previous 9 
