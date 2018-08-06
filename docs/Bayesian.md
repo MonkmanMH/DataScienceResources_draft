@@ -5,7 +5,20 @@
 [Bayesian statistics: Wikipedia page](https://en.wikipedia.org/wiki/Bayesian_statistics)
 
 ---
-### Theory and methods (with a focus on those providing examples in R)
+### Theory and methods
+
+Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, and Donald B. Rubin, 2014, _Bayesian Data Analysis_ (third edition), CRC Press.
+
+
+#### R-based
+
+Richard McElreath, 2016, _Statistical Rethinking: A Bayesian Course with Examples in R and Stan_, CRC Press.
+
+* [`rethinking`](https://github.com/rmcelreath/rethinking), the companion R package
+
+
+Jim Albert, 2009, _Bayesian Computation with R_ (second edition), Springer
+
 
 David Robinson, [_Introduction to Empirical Bayes_](https://gumroad.com/l/empirical-bayes)
 
@@ -16,24 +29,15 @@ David Robinson, [_Introduction to Empirical Bayes_](https://gumroad.com/l/empiri
 
 Daniel Lüdecke, 2018-06-06, [R functions for Bayesian Model Statistics and Summaries](https://strengejacke.wordpress.com/2018/06/06/r-functions-for-bayesian-model-statistics-and-summaries-rstats-stan-brms/)
 
+
+#### other
+
 Tarek Amr, ["Experimenting the Bayesian way"](https://www.datascience.com/blog/experimenting-the-bayesian-way); summary of Bayesian approach with Python examples (2018-07-18)
 
 ---
 ### R
 
 Arranged by package
-
-#### `tidybayes`
-
-**package**
-
-CRAN page: [tidybayes: Tidy Data and 'Geoms' for Bayesian Models](https://cran.r-project.org/web/packages/tidybayes/index.html)
-
-GitHub page: [Bayesian analysis + tidy data + geoms (R package)](https://github.com/mjskay/tidybayes)
-
-**articles**
-
-Matthew Kay, [tidybayes: Bayesian analysis + tidy data + geoms](http://mjskay.github.io/tidybayes/)
 
 
 #### `rjags`
@@ -46,6 +50,18 @@ CRAN page: [rjags: Bayesian Graphical Models using MCMC](https://cran.r-project.
 
 DataCamp course: [Bayesian modeling with `rjags`](https://www.datacamp.com/courses/bayesian-modeling-with-rjags)
 
+
+#### `tidybayes`
+
+**package**
+
+CRAN page: [tidybayes: Tidy Data and 'Geoms' for Bayesian Models](https://cran.r-project.org/web/packages/tidybayes/index.html)
+
+GitHub page: [Bayesian analysis + tidy data + geoms (R package)](https://github.com/mjskay/tidybayes)
+
+**articles**
+
+Matthew Kay, [tidybayes: Bayesian analysis + tidy data + geoms](http://mjskay.github.io/tidybayes/)
 
 
 -30-
