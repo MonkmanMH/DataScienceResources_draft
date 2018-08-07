@@ -34,6 +34,8 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 Steve Franconeri, [Chart Chooser](http://experception.net/)
 
+PolicyViz, [DataViz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/) (2018-08-07)
+
 ---
 
 ### R Resources
