@@ -9,6 +9,8 @@
 
 Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, and Donald B. Rubin, 2014, _Bayesian Data Analysis_ (third edition), CRC Press.
 
+Robert Grant (2018-08-07) [How (not) to introduce newcomers to Bayesian analysis](https://robertgrantstats.wordpress.com/2018/08/07/how-not-to-introduce-newcomers-to-bayesian-analysis/)
+
 
 #### R-based
 
