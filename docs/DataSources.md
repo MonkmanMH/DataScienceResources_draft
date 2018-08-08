@@ -33,6 +33,18 @@ Simon Fraser University Library: [Gender, Sexuality & Women's Studies Informatio
 [Census of Canada (including the National Household Survey)](https://github.com/mountainMath/cancensus)
 
 
+
+#### `cansim`
+
+**package**
+
+[github](https://github.com/mountainMath/cansim)
+
+**articles**
+
+Dmitry Shkolnik (2018-08-01) [The CANSIM package, Canadian tourism, and slopegraphs](https://www.dshkol.com/2018/cansim-package-tourism-slopegraphs/)
+
+
 #### `CANSIM2R`
 
 [CANSIM2R: Directly Extracts Complete CANSIM Data Tables](https://cran.r-project.org/web/packages/CANSIM2R/index.html)
