@@ -10,6 +10,20 @@ Design elements come into play when producing a finished artifact, be it a repor
 
 ## Colour
 
+[Color Oracle](http://colororacle.org/) -- Design for the Color Impaired
+
+
+Lisa Charlotte Rost, 2018-05-29, [What to consider when choosing colors for data visualization](https://blog.datawrapper.de/colors/)
+
+
+Gregor Aisch, [a plethora of blog posts about colour in data visualization](https://vis4.net/blog/tags/color/)
+
+
+Betsy Mason (2018-08-09) [End of the Rainbow? New Map Scale is More Readable by People Who Are Color Blind](https://www.scientificamerican.com/article/end-of-the-rainbow-new-map-scale-is-more-readable-by-people-who-are-color-blind/?sf195206045=1), _Scientific American_
+
+
+### ColorBrewer
+
 [ColorBrewer palattes](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) developed by Dr. Cynthia Brewer. 
 
   - Cynthia A. Brewer, 1996, ["Guidelines for Selecting Colors for Diverging Schemes on Maps"](http://www.tandfonline.com/doi/abs/10.1179/caj.1996.33.2.79?src=recsys), _The Cartographic Journal_, Vol.33, pp.79-86.
@@ -21,16 +35,12 @@ Design elements come into play when producing a finished artifact, be it a repor
   - [additional ColorBrewer reference material](http://www.personal.psu.edu/cab38/ColorBrewer/ColorBrewer_updates.html)
 
 
-[Color Oracle](http://colororacle.org/) -- Design for the Color Impaired
+
+### Viridis
+
+Doug McNeall (2018-06-04) [Playing “Hunt the Discontinuity”](https://betterfigures.org/2018/06/04/playing-hunt-the-discontinuity/)
 
 
-Lisa Charlotte Rost, 2018-05-29, [What to consider when choosing colors for data visualization](https://blog.datawrapper.de/colors/)
-
-
-Gregor Aisch, [a plethora of blog posts about colour in data visualization](https://vis4.net/blog/tags/color/)
-
-
-Betsy Mason (2018-08-09) [End of the Rainbow? New Map Scale is More Readable by People Who Are Color Blind](https://www.scientificamerican.com/article/end-of-the-rainbow-new-map-scale-is-more-readable-by-people-who-are-color-blind/?sf195206045=1), _Scientific American_
 
 ---
 
