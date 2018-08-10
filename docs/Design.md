@@ -30,6 +30,10 @@ Lisa Charlotte Rost, 2018-05-29, [What to consider when choosing colors for data
 Gregor Aisch, [a plethora of blog posts about colour in data visualization](https://vis4.net/blog/tags/color/)
 
 
+Betsy Mason (2018-08-09) [End of the Rainbow? New Map Scale is More Readable by People Who Are Color Blind](https://www.scientificamerican.com/article/end-of-the-rainbow-new-map-scale-is-more-readable-by-people-who-are-color-blind/?sf195206045=1), _Scientific American_
+
+---
+
 ### R
 
 R has a variety of colour palettes available beyond what's possibe in base R; this isn't intended to be comprehensive but instead useful.
