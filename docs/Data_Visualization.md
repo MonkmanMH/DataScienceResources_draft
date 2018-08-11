@@ -80,6 +80,8 @@ There are many extension packages that allow you to make other visualizaitons in
 
 R package [`boxplot`](https://stat.ethz.ch/R-manual/R-devel/library/graphics/html/boxplot.html)
 
+Laura DeCicco, 2018-08-10, [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://owi.usgs.gov/blog/boxplots/)
+
 Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers.com/boxplots-and-beyond-part-i/) (first in a multi-part series on various distribution plots)
 
 
