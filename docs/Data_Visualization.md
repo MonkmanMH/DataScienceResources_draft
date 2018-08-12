@@ -36,6 +36,10 @@ Steve Franconeri, [Chart Chooser](http://experception.net/)
 
 PolicyViz, [DataViz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/) (2018-08-07)
 
+**Theory**
+
+Kennedy Elliot (2016-05-02) [39 studies about human perception in 30 minutes](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73)
+
 ---
 
 ### R Resources
