@@ -95,18 +95,23 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 
 #### Dot plot (Cleveland dot plot, lollipop plot)
 
-UC Business Analytics R Programming Guide, [Cleveland Dot Plots](https://uc-r.github.io/cleveland-dot-plots)
+* UC Business Analytics R Programming Guide, [Cleveland Dot Plots](https://uc-r.github.io/cleveland-dot-plots)
+
+* Nina Zumel (2013-02-18) [Revisiting Cleveland’s The Elements of Graphing Data in ggplot2](http://www.win-vector.com/blog/2013/02/revisiting-clevelands-the-elements-of-graphing-data-in-ggplot2/)
+
+* [Datavis with R: Drawing a Cleveland dot plot with ggplot2](http://www.joyce-robbins.com/blog/2016/06/02/datavis-with-rdrawing-a-cleveland-dot-plot-with-ggplot2/)
+
 
 
 #### Flow visualizations
 
-**Circle plots**
+**1. Circle plots**
 
 * a.k.a. [Circos plot](http://circos.ca/)
 
 * David Smith, [Global Migration, animated with R](http://blog.revolutionanalytics.com/2018/06/global-migration-animated-with-r.html), 2018-06-29
 
-**Sankey plots**
+**2. Sankey plots**
 
 [Interactive flow visualization in R](http://personal.tcu.edu/kylewalker/interactive-flow-visualization-in-r.html); Kyle Walker, 2016-06-26
 
