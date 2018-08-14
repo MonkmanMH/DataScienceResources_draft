@@ -93,6 +93,11 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+#### Dot plot (Cleveland dot plot, lollipop plot)
+
+UC Business Analytics R Programming Guide, [Cleveland Dot Plots](https://uc-r.github.io/cleveland-dot-plots)
+
+
 #### Flow visualizations
 
 **Circle plots**
