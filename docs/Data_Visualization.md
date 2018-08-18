@@ -102,6 +102,13 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 * [Datavis with R: Drawing a Cleveland dot plot with ggplot2](http://www.joyce-robbins.com/blog/2016/06/02/datavis-with-rdrawing-a-cleveland-dot-plot-with-ggplot2/)
 
 
+#### Eikosograms
+
+> an eikosogram is a picture of probability. It visually partitions a unit square into rectangular regions whose areas give the numerical values of various probabilities. The construction is such that each rectangular region is identified with the value of one or more categorical variates. 
+> _R.W. Oldford_
+
+* R.W. Oldford (2018-08-16) [Introduction to eikosograms](https://cran.r-project.org/web/packages/eikosograms/vignettes/introduction.html)
+
 
 #### Flow visualizations
 
