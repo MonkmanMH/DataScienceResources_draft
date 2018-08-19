@@ -15,30 +15,31 @@ But start here:
 
 #### General resources
 
-Kieran Healy (2018, work in progress) [_Data Visualization: A practical introduction_](http://socviz.co/)
+* Kieran Healy (2018, work in progress) [_Data Visualization: A practical introduction_](http://socviz.co/)
 
-Claus O. Wilke (2018, work in progress) [_Fundamentals of Data Visualization_](http://serialmentor.com/dataviz/)
+* Claus O. Wilke (2018, work in progress) [_Fundamentals of Data Visualization_](http://serialmentor.com/dataviz/)
 
-* Note that Wilke notes that this is a platform-agnostic book, but it was written in R's `bookdown` and uses `ggplot2` for all of the figures.
+  - Note that Wilke notes that this is a platform-agnostic book, but it was written in R's `bookdown` and uses `ggplot2` for all of the figures.
 
-* [the github repo for the book](https://github.com/clauswilke/dataviz) (in case you want to plagiarize the code for a specific figure)
-
-
-Tamara Munzer, [list and links to talks](http://www.cs.ubc.ca/~tmm/talks.html?utm_content=bufferd5cd8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#cj16)
+  - [the github repo for the book](https://github.com/clauswilke/dataviz) (in case you want to plagiarize the code for a specific figure)
 
 
-Kate Moran, 2017-08-06, ["How to Present Scientific Findings Online"](https://www.nngroup.com/articles/scientific-findings-online/) (file under: Know Your Audience)
+* Tamara Munzer, [list and links to talks](http://www.cs.ubc.ca/~tmm/talks.html?utm_content=bufferd5cd8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#cj16)
 
-Richard Brath & Ebad Banissi, 2016, ["Using Typography to Expand the
+
+* Kate Moran, 2017-08-06, ["How to Present Scientific Findings Online"](https://www.nngroup.com/articles/scientific-findings-online/) (file under: Know Your Audience)
+
+* Richard Brath & Ebad Banissi, 2016, ["Using Typography to Expand the
 Design Space of Data Visualization"](https://www.sciencedirect.com/science/article/pii/S2405872616300107), _She Ji: The Journal of Design, Economics, and Innovation_, Vol. 2, Issue 1, Spring 2016
 
-Steve Franconeri, [Chart Chooser](http://experception.net/)
+* Steve Franconeri, [Chart Chooser](http://experception.net/)
 
-PolicyViz, [DataViz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/) (2018-08-07)
+* PolicyViz, [DataViz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/) (2018-08-07)
+
 
 **Theory**
 
-Kennedy Elliot (2016-05-02) [39 studies about human perception in 30 minutes](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73)
+* Kennedy Elliot (2016-05-02) [39 studies about human perception in 30 minutes](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73)
 
 ---
 
@@ -46,33 +47,39 @@ Kennedy Elliot (2016-05-02) [39 studies about human perception in 30 minutes](ht
 
 #### general
 
-[R Graph Catalog](http://shiny.stat.ubc.ca/r-graph-catalog/) -- an unbeatable resource for making good graphs in R, described by the creators as "a complement to _Creating More Effective Graphs_ by Naomi Robbins." 
+* [R Graph Catalog](http://shiny.stat.ubc.ca/r-graph-catalog/) -- an unbeatable resource for making good graphs in R, described by the creators as "a complement to _Creating More Effective Graphs_ by Naomi Robbins." 
 
-[Shiny apps for statistics](https://statistics.calpoly.edu/shiny) -- by the Statistics Department at CalPoly
+* [Shiny apps for statistics](https://statistics.calpoly.edu/shiny) -- by the Statistics Department at CalPoly
 
-Kieran Healy, [_Data Visualization for Social Science_](http://socviz.co/)
+* Kieran Healy, [_Data Visualization for Social Science_](http://socviz.co/)
 
 
 #### ggplot2 -- the pre-eminent way to create charts and graphs in R
 
-[ggplot2: part of the tidyverse](http://ggplot2.tidyverse.org/index.html) -- reference materials, examples, etc etc. Start here.
+* [ggplot2: part of the tidyverse](http://ggplot2.tidyverse.org/index.html) -- reference materials, examples, etc etc. Start here.
 
-[Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
+* [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 
-[A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php), by Eric-Jan Wagenmakers and Quentin F. Gronau
+* [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php), by Eric-Jan Wagenmakers and Quentin F. Gronau
 
 
 ** ggplot2 tips and tricks **
 
-Simon Jackson, 2016-08-11, [Plotting background data for groups with ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2)
+* Simon Jackson, 2016-08-11, [Plotting background data for groups with ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2)
 
-Laura Ellis, 2018-08-01, [Highlighting with ggplot2: The Old School and New School Way](https://www.littlemissdata.com/blog/highlight)
+* Laura Ellis, 2018-08-01, [Highlighting with ggplot2: The Old School and New School Way](https://www.littlemissdata.com/blog/highlight)
 
 
 ** _Note:_**
 
 There are many extension packages that allow you to make other visualizaitons in `ggplot2`; they are referenced below.
 
+
+#### Plotly
+
+Plotly for R allows you to "Create interactive, D3 and WebGL charts in R" (their words, not mine). A great resource for upping the content of online visualizations.
+
+* Carson Sievert, [_Plotly for R_](http://plotly-book.cpsievert.me/)
 
 ---
 
