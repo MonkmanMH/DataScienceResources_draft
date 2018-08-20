@@ -100,6 +100,11 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+#### Density plot
+
+* [Creating plots in R using ggplot2 - part 8: density plots](http://t-redactyl.io/blog/2016/03/creating-plots-in-r-using-ggplot2-part-8-density-plots.html)
+
+
 #### Dot plot (Cleveland dot plot, lollipop plot)
 
 * UC Business Analytics R Programming Guide, [Cleveland Dot Plots](https://uc-r.github.io/cleveland-dot-plots)
