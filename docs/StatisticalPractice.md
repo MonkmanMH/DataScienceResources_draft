@@ -89,6 +89,8 @@ Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documen
 
 * Jeffrey M. Perkel, ["A toolkit for data transparency takes shape"](https://www.nature.com/articles/d41586-018-05990-5), _Nature_, 2018-08-20.
 
+* Daniel Barron (2018-08-13) [How Freely Should Scientists Share Their Data?](https://blogs.scientificamerican.com/observations/how-freely-should-scientists-share-their-data/), _Scientific American_ blog
+
 
 ### Reproducible research with R
 
