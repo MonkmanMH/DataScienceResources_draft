@@ -87,6 +87,8 @@ An over-arching structure of what a project could (or should?) look like can be 
 F.	Levert,	J.M.	Rousselle	(2018-07) ["How	To	Make	A	Pie:	Reproducible	Research	for	Empirical	
 Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2018/wp_tse_933.pdf)
 
+* Jeffrey M. Perkel, ["A toolkit for data transparency takes shape"](https://www.nature.com/articles/d41586-018-05990-5), _Nature_, 2018-08-20.
+
 
 ### Reproducible research with R
 
