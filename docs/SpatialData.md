@@ -91,6 +91,11 @@ Sharp Sight Labs, [Simple practice: basic maps with the Tidyverse](http://sharps
 
 # R Packages
 
+#### `cartography`
+
+github page: [cartography](https://github.com/riatelab/cartography)
+
+
 #### `choroplethr`
 
 **package**
