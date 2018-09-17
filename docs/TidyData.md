@@ -78,7 +78,14 @@ Jesse Sadler, [Excel vs R: A Brief Introduction to R  (With examples using dplyr
   
 * Chester Ismay and Ted Laderas, [A gRadual-intRoduction to the tidyverse](https://github.com/Cascadia-R/gRadual-intRoduction-tidyverse?utm_content=buffer98896&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
   
+  
+***
 
+## Categorical data
+
+Emily Robinson, DataCamp course, [Categorical Data in the Tidyverse](https://www.datacamp.com/courses/categorical-data-in-the-tidyverse)
+
+***
 
 ## Tidy Text
 
