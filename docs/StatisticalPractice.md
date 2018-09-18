@@ -99,6 +99,10 @@ Economics	&	Econometrics"](https://www.tse-fr.eu/sites/default/files/TSE/documen
 * Ben Marwick, 20 July 2017, [Reproducible Research Compendia via R packages](https://rawgit.com/benmarwick/Marwick-Berlin-R-users-2017/master/Marwick-Berlin-R-users-2017.html#1), presentation at Berlin R Users
 
 
+### Reproducible data
+
+* Greg Finak (2018-09-18) [Building Reproducible Data Packages with DataPackageR](https://ropensci.org/blog/2018/09/18/datapackager/)
+
 
 ### spreadsheets: the anti-reproducible research
 
