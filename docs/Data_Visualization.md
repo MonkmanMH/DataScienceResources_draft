@@ -140,6 +140,8 @@ Ron Pearson, 2011-01-29, [Boxplots and Beyond – Part I](https://www.r-bloggers
 
 #### Heatmaps
 
+[The Heatmap function](https://www.r-graph-gallery.com/215-the-heatmap-function/) in the [R Graph Gallery](https://www.r-graph-gallery.com/)
+
 Rebecca L. Barter & Bin Yu, 2017-01-30, ["Superheat: An R package for creating beautiful and extendable heatmaps for visualizing complext data"](https://arxiv.org/pdf/1512.01524.pdf)
 
 
