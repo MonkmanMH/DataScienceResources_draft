@@ -246,6 +246,8 @@ Robert C. Martin, 2011, _The Clean Coder: A Code of Conduct for Professional Pro
 
 ### Further reading
 
+Aimee Gott, 2015-07-16, [Developing a R Validation Framework](https://www.baselr.org/wp-content/uploads/sites/4/presentations/BaselR_-_Formalising_R_Development_-_Aimee_Gott_-_20150716.pdf), BaselR
+
 Dani Marillas, 2017-01-25, ["Don’t document your code. Code your documentation."](https://dev.to/raddikx/dont-document-your-code-code-your-documentation)
 
 ---
