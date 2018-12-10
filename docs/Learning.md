@@ -27,4 +27,5 @@ Samantha Leonard, ["6 Must-Have Skills For Data Analysts"](https://www.northeast
 
 [Data Science](https://www.coursera.org/specializations/jhu-data-science), Johns Hopkins University via Coursera
 
+[Mango Solutions' R training](https://www.mango-solutions.com/additional-solutions/r-training) provides structure by user proficiency.
 
