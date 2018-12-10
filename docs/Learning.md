@@ -7,7 +7,7 @@ Of course, how you set out to learn data science hinges on how you define data s
 
 Thomas H. Davenport, ["Competing on Analytics"](https://hbr.org/2006/01/competing-on-analytics), _Harvard Business Review_, January 2006.
 
-Angela Bassa, ["Managing a Data Science Team"](https://hbr.org/2018/10/managing-a-data-science-team), _Harvard Business Review_, October 24, 2018
+Angela Bassa, ["Managing a Data Science Team"](https://hbr.org/2018/10/managing-a-data-science-team), _Harvard Business Review_, 2018-10-24
 
 [Executive Data Science](https://www.coursera.org/specializations/executive-data-science) (Coursera)
 
@@ -15,6 +15,11 @@ Angela Bassa, ["Managing a Data Science Team"](https://hbr.org/2018/10/managing-
 
 
 ## Business analytics
+
+Sahil Arora, ["Top Data Analytics Skills Required to Become a Data Analyst"](https://www.digitalvidya.com/blog/data-analytics-skills/), Digital Vidya, 2017-03-24
+
+Samantha Leonard, ["6 Must-Have Skills For Data Analysts"](https://www.northeastern.edu/levelblog/2018/08/31/6-must-have-skills-data-analyst/), Northeastern University, 2018-08-31
+
 
 
 
