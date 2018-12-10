@@ -17,3 +17,9 @@ Angela Bassa, ["Managing a Data Science Team"](https://hbr.org/2018/10/managing-
 ## Business analytics
 
 
+
+## Data science
+
+[Data Science](https://www.coursera.org/specializations/jhu-data-science), Johns Hopkins University via Coursera
+
+
