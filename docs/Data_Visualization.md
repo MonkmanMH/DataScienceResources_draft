@@ -36,6 +36,8 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 * PolicyViz, [DataViz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/) (2018-08-07)
 
+* [Enrico Bertini's homepage](http://enrico.bertini.io/) -- a plethora of articles and resources on data visualization
+
 
 **Theory**
 
