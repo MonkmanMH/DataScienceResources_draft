@@ -9,6 +9,11 @@ First, an excellent list of data science resources:
 
 How does one approach a statistics or data science project?
 
+### A theory of data analysis
+
+Roger Peng, 2018-12-11, ["The Role of Theory in Data Analysis"](https://simplystatistics.org/2018/12/11/the-role-of-theory-in-data-analysis/)
+
+
 ### The function of data science: solving business problems
 
 Emily Robinson, 2017-09-27, [Managing Business Challenges In Data Science](https://robinsones.github.io/Managing-Business-Challenges-in-Data-Science/)
