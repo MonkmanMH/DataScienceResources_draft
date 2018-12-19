@@ -59,4 +59,12 @@ John R. Little, 2017-08-09, [Compose Slides in R with Xaringan Slides](https://w
 
 Steven V. Miller, 2018-02-03, [Make Your Presentations Fun in Xaringan](http://svmiller.com/blog/2018/02/r-markdown-xaringan-theme/)
 
+
+**CSS tips and tricks**
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is one of the best explanations I&#39;ve seen of the CSS background-size properties contain vs cover: <a href="https://t.co/D5dzSmvbs0">https://t.co/D5dzSmvbs0</a><br><br>If you are an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/xaringan?src=hash&amp;ref_src=twsrc%5Etfw">#xaringan</a> user (remark.js), this is *very* helpful for understanding when to use which size property with a background image! <a href="https://t.co/SLI2jMEPf7">pic.twitter.com/SLI2jMEPf7</a></p>&mdash; Alison Hill (@apreshill) <a href="https://twitter.com/apreshill/status/1075239136691277824?ref_src=twsrc%5Etfw">December 19, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 -30-
