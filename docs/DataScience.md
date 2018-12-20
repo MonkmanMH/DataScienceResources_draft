@@ -39,6 +39,15 @@ Tim Davies and Mark Frank (2013) [‘There’s no such thing as raw data’. Exp
 ---
 ### The Practice of Data Science
 
+#### R
+
+Lucy D'Agostino McGowan, 2017-07-28, [R release names](https://livefreeordichotomize.com/2017/09/28/r-release-names/)
+
+* update: v. 3.5.2 ["Eggshell Igloos"](https://www.gocomics.com/peanuts/1960/01/25) 
+
+
+
+
 #### Using R for Data Science
 
 Hadley Wickham & Garrett Grolemund (2016) [_R for Data Science_](http://r4ds.had.co.nz/)
