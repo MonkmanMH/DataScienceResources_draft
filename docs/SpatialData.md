@@ -37,6 +37,8 @@ Choropleth maps
 
 #### Mapping in R: tutorials, etc.
 
+Aleszu Bajak, 2018-12-20, ["How to map point data and polygon shapefiles in R"](http://www.storybench.org/how-to-map-point-data-and-polygon-shapefiles-in-r/)
+
 Roger S. Bivand, Edzer J. Pebesma, and Virgilio Gómez-Rubio (2008) [_Applied Spatial Data Analysis with R_](http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf) {PDF version of text book}
 
 Frank Davenport (2012) ["Notes from A Recent Spatial R Class I Gave"](http://davenportspatialanalytics.squarespace.com/blog/2012/6/19/notes-from-a-recent-spatial-r-class-i-gave.html)
