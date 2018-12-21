@@ -104,9 +104,9 @@ The methods associated with this protection are sometimes refered to by the umbr
 
 ### Spatial data: creating maps
 
-* [Mapping with R -- a list of tutorials and examples](http://spatial.ly/r/)
-
 * [Spatial data](docs/SpatialData.md)
+
+* [Mapping with R -- a list of tutorials and examples](http://spatial.ly/r/) at [spatial.ly](http://spatial.ly/)
 
 
 ***
