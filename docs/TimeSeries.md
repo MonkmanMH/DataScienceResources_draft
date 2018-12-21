@@ -13,9 +13,23 @@ See also
 ---
 ### Theory and methods
 
+Tavish Srivastava, 2015-12-16, ["A Complete Tutorial on Time Series Modeling in R"](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
+
 
 ---
 ### R
+
+#### `tsibble`
+
+**package**
+
+CRAN page: [tsibble: Tidy Temporal Data Frames and Tools](https://cran.r-project.org/web/packages/tsibble/index.html)
+
+github page: [tsibble`: Tidy Temporal Data Frames and Tools](https://github.com/tidyverts/tsibble)
+
+**articles**
+
+Earo Wang, 2018-12-20, ["Reintroducing tsibble: data tools that melt the clock"](https://blog.earo.me/2018/12/20/reintro-tsibble/)
 
 #### `padr`
 
