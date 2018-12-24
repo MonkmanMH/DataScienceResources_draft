@@ -23,6 +23,10 @@ Selva Prabhakaran, [Linear Regression](http://r-statistics.co/Linear-Regression.
 
 ### Logistic Regression (Generalized Linear Models, GLM)
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s only called a Neural Network if it comes from the Neuralè region of France. Otherwise you have to call it a logistic regression.</p>&mdash; Vicki Boykis (@vboykis) <a href="https://twitter.com/vboykis/status/1077024069126668289?ref_src=twsrc%5Etfw">December 24, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 #### text books
 
 Michael Friendly and David Meyer, _Discrete Data Analysis with R: Visualization and Modeling Techniques for Categorical and Count Data_, CRC Press (2016)
