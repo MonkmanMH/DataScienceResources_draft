@@ -23,6 +23,8 @@ An overview of doing good work
 
 ### Using R
 
+* Sharon Machlis' ["How do I?" table](https://smach.github.io/R4JournalismBook/HowDoI.html) of common R tasks
+
 * [RStudio, the IDE of choice](docs/RStudio.md)
 
   - including linking to GitHub
