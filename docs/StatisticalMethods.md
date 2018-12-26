@@ -10,5 +10,9 @@ A collection of general reference materials (covering a variety of quantitative 
 Greenland, Senn, et al. (2016) [Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://www.ncbi.nlm.nih.gov/pubmed/27209009) 
 
 
+## Learning statistics with R
+
+Danielle Navarro, [_Learning Statistics with R_](https://learningstatisticswithr.com/)
+
 
 -30-
