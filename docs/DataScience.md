@@ -21,8 +21,8 @@ David Robinson (2018-01-09) ["What's the difference between data science, machin
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Let&#39;s try that again <a href="https://t.co/1G4wHvGvdd">pic.twitter.com/1G4wHvGvdd</a></p>&mdash; Data Science Renee (@BecomingDataSci) <a href="https://twitter.com/BecomingDataSci/status/773001808096661504?ref_src=twsrc%5Etfw">September 6, 2016</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Mango Solutions (2018-08-15) ["Demystifying Data Science Terminology"](https://www.mango-solutions.com/blog/demystifying-data-science-terminology)
 
 ---
 ### Philosophy
