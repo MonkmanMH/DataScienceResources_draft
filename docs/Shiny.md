@@ -28,6 +28,10 @@ CRAN page: [shiny: Web Application Framework for R](https://cran.r-project.org/w
 
 * [reference](http://shiny.rstudio.com/reference/shiny/latest/)
 
+* The [Dashboards chapter](https://bookdown.org/yihui/rmarkdown/dashboards.html) in the book [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) (by Yihui Xie, J. J. Allaire, and Garrett Grolemund) contains a good introduction to Shiny
+
+
+
 **articles**
 
 [The R Shiny packages you need for your web apps!](http://enhancedatascience.com/2017/07/10/the-packages-you-need-for-your-r-shiny-application/) -- 2017-07-10
