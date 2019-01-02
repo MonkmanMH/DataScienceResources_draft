@@ -21,9 +21,10 @@ CRAN page: [shiny: Web Application Framework for R](https://cran.r-project.org/w
 
 [Main Shiny page at RStudio](http://shiny.rstudio.com/) -- includes links to 
 
+
 * [gallery](http://shiny.rstudio.com/gallery/)
 
-* [tutorial](http://shiny.rstudio.com/tutorial/)
+* [tutorial](https://shiny.rstudio.com/tutorial/)
 
 * [reference](http://shiny.rstudio.com/reference/shiny/latest/)
 
