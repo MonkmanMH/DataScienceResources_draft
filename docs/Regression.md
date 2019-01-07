@@ -55,6 +55,14 @@ http://andrewgelman.com/2017/03/04/interpret-confidence-intervals/
 
 #### `broom`
 
+CRAN: [broom: Convert Statistical Analysis Objects into Tidy Tibbles](https://cran.r-project.org/web/packages/broom/index.html)
+
+[github page](https://github.com/tidymodels/broom)
+
+[Introduction to broom](https://cran.r-project.org/web/packages/broom/vignettes/broom.html)
+
+David Robinson (2015-03-19) [broom: a package for tidying statistical models into data frames](http://varianceexplained.org/r/broom-intro/)
+
 
 #### `brms`
 
