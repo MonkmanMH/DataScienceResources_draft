@@ -265,5 +265,14 @@ Dani Marillas, 2017-01-25, ["Don’t document your code. Code your documentation
 
 
 
+***
+
+### things that are no doubt useful and/or interesting but don't really fit anywhere in the existing typology
+
+Louisa Smith , [epi quals study calendar](https://docs.google.com/spreadsheets/d/1HyyfGZhAzVtyJ-tcuBWxKbmsaJ3uMkuXyfzAUYsfemw/edit#gid=0)
+
+* https://twitter.com/louisahsmith/status/1081955868864901120
+
+
 
 -30-
