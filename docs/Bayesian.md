@@ -18,6 +18,9 @@ Richard McElreath, 2016, _Statistical Rethinking: A Bayesian Course with Example
 
 * [`rethinking`](https://github.com/rmcelreath/rethinking), the companion R package
 
+* [McElreath's YouTube channel](https://www.youtube.com/channel/UCNJK6_DZvcMqNSzQdEkzvzA), with Statistical Rethinking lectures
+
+
 
 Jim Albert, 2009, _Bayesian Computation with R_ (second edition), Springer
 
