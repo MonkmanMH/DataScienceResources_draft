@@ -38,15 +38,21 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 ### General practice and workflow
 
+**Jenny Bryan on workflow:**
+
+* Jenny Bryan, [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
+
+* Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510
+
+  - Jenny Bryan (2017) [Workflow: you should have one](https://speakerdeck.com/jennybc/workflow-you-should-have-one), Keynote talk at EARL London 2017.  [Supporting documentation: earl-london-2017-bryan](https://github.com/jennybc/earl-london-2017-bryan#readme)
+
+
 * Keiran Healy, [_The Plain Person's Guide to Plain Text Social Science_](https://kieranhealy.org/files/papers/plain-person-text.pdf) {pdf}
 
 * Kass RE, Caffo BS, Davidian M, Meng X-L, Yu B, Reid N (2016) ["Ten Simple Rules for Effective Statistical Practice"](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004961). PLoS Comput Biol 12(6): e1004961. doi:10.1371/journal.pcbi.1004961
 
 * Ray Li (2016) ["7 habits of highly effective data analysis"](http://dataconomy.com/2016/02/7-habits-of-highly-effective-data-analysis/). [Dataconomy.com](Dataconomy.com), 2016-02-16.
 
-* Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510
-
-  - Jenny Bryan (2017) [Workflow: you should have one](https://speakerdeck.com/jennybc/workflow-you-should-have-one), Keynote talk at EARL London 2017.  [Supporting documentation: earl-london-2017-bryan](https://github.com/jennybc/earl-london-2017-bryan#readme)
 
 
 * Noble, William Stafford (2009-07-31) [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424),  _PLoS Comput Biol_ 5(7): e1000424. 
