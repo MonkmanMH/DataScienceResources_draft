@@ -26,6 +26,8 @@ Often bandied about is the term "the mosaic effect". A good definition comes fro
 
 > Individual pieces of data when released independently may not reveal sensitive information but when combined, this “mosaic effect” could be used to derive personal information or information vital to national security. (["Testimony Resolving the Shroud of Secrecy", 2010-03-23](https://www.cio.gov/2010/03/23/vivek-kundra-testimony-resolving-the-shroud-of-secrecy/))
 
+Further reading: ["Sorry, your data can still be identified even if it’s anonymized"](https://www.fastcompany.com/90278465/sorry-your-data-can-still-be-identified-even-its-anonymized) 
+
 Aggregation, masking, and other SDC methods should reduce (if not entirely eliminate) a "mosaic effect". More research into this topic is required.
 
 
