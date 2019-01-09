@@ -42,10 +42,17 @@ An over-arching structure of what a project could (or should?) look like can be 
 
 * Jenny Bryan, [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
 
+* Jenny Bryan, [Ode to the here package](https://github.com/jennybc/here_here)
+
 * Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510
 
-  - Jenny Bryan (2017) [Workflow: you should have one](https://speakerdeck.com/jennybc/workflow-you-should-have-one), Keynote talk at EARL London 2017.  [Supporting documentation: earl-london-2017-bryan](https://github.com/jennybc/earl-london-2017-bryan#readme)
+* Jenny Bryan (2017) [Workflow: you should have one](https://speakerdeck.com/jennybc/workflow-you-should-have-one), Keynote talk at EARL London 2017.  
 
+  - [Supporting documentation: earl-london-2017-bryan](https://github.com/jennybc/earl-london-2017-bryan#readme)
+
+
+
+**other authors**
 
 * Keiran Healy, [_The Plain Person's Guide to Plain Text Social Science_](https://kieranhealy.org/files/papers/plain-person-text.pdf) {pdf}
 
