@@ -38,6 +38,9 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 
 * [Enrico Bertini's homepage](http://enrico.bertini.io/) -- a plethora of articles and resources on data visualization
 
+* [Data Visualization Inventors, Founders, and Developers](https://policyviz.com/2019/01/09/data-visualization-inventors-founders-and-developers/) -- credit where credit is due
+
+
 
 **Theory**
 
