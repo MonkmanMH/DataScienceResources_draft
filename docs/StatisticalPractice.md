@@ -19,6 +19,12 @@ Roger Peng, 2018-12-11, ["The Role of Theory in Data Analysis"](https://simplyst
 Emily Robinson, 2017-09-27, [Managing Business Challenges In Data Science](https://robinsones.github.io/Managing-Business-Challenges-in-Data-Science/)
 
 
+### Design thinking >> data science context
+
+Roger Peng, 2019-01-09, [How Data Scientists Think - A Mini Case Study](https://simplystatistics.org/2019/01/09/how-data-scientists-think-a-mini-case-study/)
+
+
+
 ### Opinionated Analysis Development
 
 An over-arching structure of what a project could (or should?) look like can be boiled down into three features: it is
