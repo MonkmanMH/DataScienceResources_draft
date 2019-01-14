@@ -17,7 +17,7 @@ But start here:
 
 * Kieran Healy (2018, work in progress) [_Data Visualization: A practical introduction_](http://socviz.co/)
 
-* Claus O. Wilke (2018, work in progress) [_Fundamentals of Data Visualization_](http://serialmentor.com/dataviz/)
+* Claus O. Wilke (2019, full draft) [_Fundamentals of Data Visualization_](http://serialmentor.com/dataviz/)
 
   - Note that Wilke notes that this is a platform-agnostic book, but it was written in R's `bookdown` and uses `ggplot2` for all of the figures.
 
