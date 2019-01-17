@@ -41,7 +41,7 @@ wiki: [`xaringan` wiki](https://github.com/yihui/xaringan/wiki)
 
 **articles**
 
-Yihui Xie, J. J. Allaire, Garrett Grolemund (2108) [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/xaringan.html) (link to xaringan chapter (most recent update I've noted: 2018-06-02)
+Yihui Xie, J. J. Allaire, Garrett Grolemund (2018) [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/xaringan.html) (link to xaringan chapter (most recent update I've noted: 2018-06-02)
 
 Yihui Xie, 2017-08-31, [Incremental Slides with xaringan / remark.js](https://slides.yihui.name/xaringan/incremental.html#1)
 
