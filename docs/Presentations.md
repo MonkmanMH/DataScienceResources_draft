@@ -59,6 +59,13 @@ John R. Little, 2017-08-09, [Compose Slides in R with Xaringan Slides](https://w
 
 Steven V. Miller, 2018-02-03, [Make Your Presentations Fun in Xaringan](http://svmiller.com/blog/2018/02/r-markdown-xaringan-theme/)
 
+**xaringan tips and tricks**
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m not a ninja, but sharing my favorite <a href="https://twitter.com/hashtag/xaringan?src=hash&amp;ref_src=twsrc%5Etfw">#xaringan</a> tricks we talked about in the Advanced R Markdown workshop at <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a>. Slides are here: <a href="https://t.co/z4FZ1cgRuJ">https://t.co/z4FZ1cgRuJ</a><br><br>First up: name your slides! Makes it easier to link out and cross reference within deck <a href="https://t.co/zVswMzkivf">https://t.co/zVswMzkivf</a> <a href="https://t.co/HrOF4t5juG">pic.twitter.com/HrOF4t5juG</a></p>&mdash; Alison Hill (@apreshill) <a href="https://twitter.com/apreshill/status/1085659933238976513?ref_src=twsrc%5Etfw">January 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Advanced R Markdown training](http://arm.rbind.io/) - from RStudio conference, 2019-01-15/16
+
 
 **CSS tips and tricks**
 
