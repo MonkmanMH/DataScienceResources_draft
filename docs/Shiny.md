@@ -35,3 +35,5 @@ CRAN page: [shiny: Web Application Framework for R](https://cran.r-project.org/w
 **articles**
 
 [The R Shiny packages you need for your web apps!](http://enhancedatascience.com/2017/07/10/the-packages-you-need-for-your-r-shiny-application/) -- 2017-07-10
+
+Shiny in Production, presentation at RStudio conference 2019-01-16: [Supplement to Shiny in Production](https://kellobri.github.io/shiny-prod-book/)
