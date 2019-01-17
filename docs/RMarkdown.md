@@ -8,6 +8,9 @@ A brief description of the subject
 
 ### R Markdown
 
+Yihui Xie, J. J. Allaire, Garrett Grolemund (2018) [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) 
+
+
 [R Markdown](http://rmarkdown.rstudio.com/), main page at R Studio
 
 * [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
