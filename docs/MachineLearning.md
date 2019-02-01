@@ -7,6 +7,17 @@ Machine learning is a growing field of data analysis where the building of model
 ---
 ### Theory and methods
 
+* [Computational learning theory](https://en.wikipedia.org/wiki/Computational_learning_theory)
+
+* [Statistical learning theory](https://en.wikipedia.org/wiki/Statistical_learning_theory)
+
+David Robinson, 2018-01-09, ["What's the difference between data science, machine learning, and artificial intelligence?"](http://varianceexplained.org/r/ds-ml-ai/)
+
+Lev Reyzin, 2019-01-07, ["Unprovability comes to machine learning"](https://www.nature.com/articles/d41586-019-00012-4), _Nature_
+
+Nicholas Harvey, [CPSC 531H: Machine Learning Theory](https://www.cs.ubc.ca/~nickhar/F18-531/), UBC Computer Science Department.
+
+* "This is a graduate course on some theoretical aspects of machine learning. The emphasis is on foundations and on results with rigorous proofs. The viewpoint is much more computational than statistical."
 
 ---
 ### R
