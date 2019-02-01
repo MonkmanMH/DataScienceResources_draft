@@ -30,6 +30,9 @@ David Smith, 2018-02-21, [Machine Learning in R with TensorFlow](http://blog.rev
 
 Coursera: [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning)
 
+DataCamp tutorial: Karlijn Willems, [Machine Learning in R for beginners](https://www.datacamp.com/community/tutorials/machine-learning-in-r)
+
+Jason Brownlee, 2016-02-23, [Your First Machine Learning Project in R Step-By-Step (tutorial and template for future projects)](https://machinelearningmastery.com/machine-learning-in-r-step-by-step/)
 
 #### `h2o`
 
