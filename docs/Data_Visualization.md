@@ -64,6 +64,7 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 * Kieran Healy, [_Data Visualization for Social Science_](http://socviz.co/)
 
 
+
 #### ggplot2 -- the pre-eminent way to create charts and graphs in R
 
 * [ggplot2: part of the tidyverse](http://ggplot2.tidyverse.org/index.html) -- reference materials, examples, etc etc. Start here.
@@ -71,6 +72,13 @@ Design Space of Data Visualization"](https://www.sciencedirect.com/science/artic
 * [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 
 * [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php), by Eric-Jan Wagenmakers and Quentin F. Gronau
+
+* [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
+
+   - [`bbplot`](https://github.com/bbc/bbplot), a package with their templates etc.
+   
+   - ["How the BBC Visual and Data Journalism team works with graphics in R"](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
+
 
 
 ** ggplot2 tips and tricks **
