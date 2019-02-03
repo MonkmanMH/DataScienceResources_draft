@@ -147,4 +147,14 @@ You've done a cracker-jack job with your statistics, and made some bang-up chart
 * [Shiny, for web apps in R](docs/Shiny.md)
 
 
+***
+
+## License
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a>
+
+<br />This work by [Martin Monkman](https://github.com/MonkmanMH) is licensed under a 
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/2.5/ca/">Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License</a>.
+
 

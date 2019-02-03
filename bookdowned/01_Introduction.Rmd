@@ -1,0 +1,11 @@
+# Introduction {#introduction}
+
+```{r echo = FALSE}
+library(knitr)
+opts_chunk$set(message = FALSE, warning = FALSE, cache = TRUE)
+options(width = 100, dplyr.width = 100)
+library(ggplot2)
+theme_set(theme_light())
+```
+
+Data science is an expansive subject area, and the statistical programming language R has grown signficantly over the past few years and has, in the words of Roger Peng, "become the de facto programming language for data science. Its flexibility, power, sophistication, and expressiveness have made it an invaluable tool for data scientists around the world." []
