@@ -86,7 +86,7 @@ The specific topics thus far:
 
 ### Survey Data Collection
 
-* [Survey questions](Survey_questions.md)
+* [Survey questions](docs/Survey_questions.md)
 
 
 ***
