@@ -37,7 +37,12 @@ Karl Broman and Kara Woo, ["Data organization in spreadsheets"](https://github.c
 * see also Karl Broman's tutorial, ["Data organization: organizing data in spreadsheets)
 
 
+Bruno Rodriguez, [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)
+
+
 Jesse Sadler, [Excel vs R: A Brief Introduction to R  (With examples using dplyr and ggplot](http://kbroman.org/dataorg/](https://www.jessesadler.com/post/excel-vs-r/) (2017-10-02)
+
+
 
 ---
 
