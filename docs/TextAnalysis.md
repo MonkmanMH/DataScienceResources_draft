@@ -17,6 +17,8 @@ Julia Silge and David Robinson (2016) [_Tidy Text Mining with R_](http://tidytex
 ---
 ### R
 
+Super User, 2019-02-04, [An overview of the NLP ecosystem in R (#nlproc #textasdata)](https://www.r-bloggers.com/an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata/)
+
 #### Some examples
 
 David Robinson (2016) ["Text analysis of Trump's tweets confirms he writes only the (angrier) Android half"](http://varianceexplained.org/r/trump-tweets/) (2016-08-09)
